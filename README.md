@@ -42,6 +42,9 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 
 * [Understanding AI Agent Security](https://www.promptfoo.dev/blog/agent-security/) - Vanessa Sauter, February 14, 2025.
 
+* [Blueprint for AI Agents in Cybersecurity](https://www.cybersec-automation.com/p/blueprint-for-ai-agents-in-cybersecurity) - Filip Stojkovski
+& Dylan Williams, Nov 25, 2024.
+
 ## 📂 *Benchmarks*
 
 * ![ASB](https://img.shields.io/github/stars/agiresearch/ASB) [ASB](https://github.com/agiresearch/ASB) - Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents.
