@@ -34,16 +34,27 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 
 * ![Agentic Security Stars](https://img.shields.io/github/stars/msoedov/agentic_security) [Agentic Security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs) Protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 
+* ![agentic-radar Stars](https://img.shields.io/github/stars/splx-ai/agentic-radar) [agentic-radar](https://github.com/splx-ai/agentic-radar) - A security scanner for your LLM agentic workflows.
+
+* ![promptfoo](https://img.shields.io/github/stars/promptfoo/promptfoo) [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+
+* ![fast-llm-security-guardrails](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security-guardrails) [fast-llm-security-guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - The fastest Trust Layer for AI Agents.
+
 
 
 ## ✍️ *Technical Blogs*
 
+* [How OpenAI’s red team made ChatGPT agent into an AI fortress](https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/) - LouisColumbus, July 18, 2025. [[Chinese Blog](https://www.secrss.com/articles/81124)]
+
 * [Google's Approach for Secure AI Agents](https://research.google/pubs/an-introduction-to-googles-approach-for-secure-ai-agents/) - Google Research, May, 2025. [[pdf](https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf)]
+
+* [Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/) -  GEN AI, February 17, 2025.
 
 * [Understanding AI Agent Security](https://www.promptfoo.dev/blog/agent-security/) - Vanessa Sauter, February 14, 2025.
 
 * [Blueprint for AI Agents in Cybersecurity](https://www.cybersec-automation.com/p/blueprint-for-ai-agents-in-cybersecurity) - Filip Stojkovski
 & Dylan Williams, Nov 25, 2024.
+
 
 ## 📂 *Benchmarks*
 
