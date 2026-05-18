@@ -61,6 +61,7 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 * ![ASB](https://img.shields.io/github/stars/agiresearch/ASB) [ASB](https://github.com/agiresearch/ASB) - Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents.
 
 * ![wasp](https://img.shields.io/github/stars/facebookresearch/wasp) [wasp](https://github.com/facebookresearch/wasp) - Benchmarking Web Agent Security Against Prompt Injection Attacks.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 
 
