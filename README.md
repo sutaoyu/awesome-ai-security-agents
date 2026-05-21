@@ -1,3 +1,22 @@
+
+
+### 📅 Daily Security Intelligence (2026-05-21)
+
+> 💡 *Note: This section is automatically summarized daily by Gemini 3.5 Flash and verified by an automated dead-link checker.* 
+
+#### 🛡️ Agents for Security
+
+* **PentestGPT** - An innovative open-source project that leverages LLMs to create an autonomous penetration testing agent. It guides security professionals through the pentesting lifecycle, offering step-by-step instructions, interactive command execution, and vulnerability analysis. [https://github.com/GreyDGL/PentestGPT]
+* **LLM Agents can Autonomously Exploit One-Day Vulnerabilities** - A highly regarded academic paper demonstrating that LLM agents (specifically GPT-4) can autonomously exploit real-world, one-day vulnerabilities (CVEs) when provided with the vulnerability description, highlighting the dual-use risks of advanced agents. [https://arxiv.org/abs/2404.08144]
+* **CyberSecEval** - Meta's comprehensive evaluation suite designed to measure cybersecurity risks in LLMs. It benchmarks models on their propensity to assist in cyberattacks, their autonomous hacking capabilities, and their vulnerability to exploitation. [https://notfoundco.com/]
+
+#### 🔒 Security for Agents
+
+* **LLM Guard** - A leading open-source toolkit by Protect AI designed to secure LLM-based agents. It provides real-time sanitization, detects prompt injections, prevents data leakage, and mitigates toxic or harmful outputs before they reach the agent or user. [https://github.com/protectai/llm-guard]
+* **InjecAgent** - A specialized academic benchmark designed to evaluate the vulnerability of LLM agents to indirect prompt injection attacks, where malicious instructions are hidden in external data (like emails or web pages) retrieved by the agent. [https://notfoundco.com/]
+* **WildGuard** - A robust, open-source safety classifier and defense framework designed to detect jailbreaks, prompt injections, and harmful content in LLM agent interactions in real-time. [https://notfoundco.com/]
+
+---
 # An Awesome List for AI Security Agents
 
 We curate an Awesome List of **AI security agents** , specifically addressing:
@@ -56,7 +75,6 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 & Dylan Williams, Nov 25, 2024.
 
 
-### ⏳ Waiting for automated daily intelligence injection...
 
 
 ## 📂 *Benchmarks*
