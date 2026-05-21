@@ -55,7 +55,7 @@ jobs:
         
         print("正在请求 Gemini 生成今日安全情报...")
         response = client.models.generate_content(
-            model='gemini-1.5-pro',
+            model='gemini-3.5-flash',
             contents=prompt,
         )
         
