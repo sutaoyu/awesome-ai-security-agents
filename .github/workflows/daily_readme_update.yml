@@ -1,5 +1,8 @@
 name: Update README with Daily Security Report
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     # 每天国际标准时间 (UTC) 01:00 运行，即北京时间 (UTC+8) 上午 09:00
