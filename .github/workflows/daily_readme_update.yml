@@ -1,4 +1,39 @@
-python - <<EOF
+name: Update README with Daily Security Report
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  schedule:
+    # 每天国际标准时间 (UTC) 01:00 运行，即北京时间 (UTC+8) 上午 09:00
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-genai requests
+
+    - name: Generate Content and Update README
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python - <<EOF
         import os
         import re
         import requests
@@ -83,3 +118,11 @@ python - <<EOF
             
         print("README.md 精准局部更新成功！")
         EOF
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add README.md
+        git diff-index --quiet HEAD || git commit -m "docs: 🤖 自动更新每日安全简报 ($(date +'%Y-%m-%d'))"
+        git push
