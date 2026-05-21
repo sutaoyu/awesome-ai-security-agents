@@ -5,15 +5,14 @@ env:
 
 on:
   schedule:
-    # 每天国际标准时间 (UTC) 01:00 运行，即北京时间 (UTC+8) 上午 09:00
     - cron: '0 1 * * *'
-  workflow_dispatch: # 允许您在 GitHub 页面上手动点击 "Run workflow" 按钮立即测试
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 赋予 Action 往您的公开仓库提交代码的权限
+      contents: write
 
     steps:
     - name: Checkout repository
@@ -22,12 +21,13 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v6
       with:
-        python-version: '3.x'
+        python-version: '3.11'
 
     - name: Install dependencies
+      # 这里新增了 requests 库，用于后期的死链检测
       run: |
         python -m pip install --upgrade pip
-        pip install google-genai
+        pip install google-genai requests
 
     - name: Generate Content and Update README
       env:
@@ -36,43 +36,79 @@ jobs:
         python - <<EOF
         import os
         import re
+        import requests
         from google import genai
+        from google.genai import types
         from datetime import datetime
 
-        # 1. 初始化 2026 最新官方 SDK 客户端
         client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
         
-        # 2. 精准定义您的学术与开源项目检索 Prompt
+        # 1. 极其严格的反幻觉 Prompt
         prompt = """
-        Search for and summarize academic papers and open-source projects related to "agent security" that were released in the last 24 hours. 
-        Search keywords: 
-        Agents for Security: "LLM Agent for cybersecurity", "Autonomous pentesting agent", "Agentic SOC". 
-        Security for Agents: "LLM Agent security", "Prompt injection defense", "Agent safety benchmarks". 
-        Sources: arXiv, Hugging Face, GitHub. 
-        Output in two categories with max 3 items each, including Name, Description, and Link. 
-        Only include content from the last 24 hours.
+        Search the live web using Google Search for academic papers and open-source projects related to "agent security" released in the last 24 hours.
+        Keywords: "LLM Agent for cybersecurity", "Autonomous pentesting agent", "Prompt injection defense", "Agent safety benchmarks". Sources: arXiv, Hugging Face, GitHub.
+
+        CRITICAL RULES FOR URLs:
+        1. DO NOT guess, fabricate, or hallucinate URLs. 
+        2. EVERY link you provide must be a real, verified, and currently accessible URL found in your search results.
+        3. If you find a project/paper but cannot verify its exact URL, explicitly write "https://github.com/orgs/community/discussions/68416" instead of making up a link.
+        4. Only include content genuinely published or updated in the last 24 hours. If no updates, state "No new verified updates in the last 24 hours."
+
+        Output format (max 3 items per category, Output in English):
+        ### 🛡️ Agents for Security
+        * **[Name]** - [Brief Description] [Link]
+
+        ### 🔒 Security for Agents
+        * **[Name]** - [Brief Description] [Link]
         """
         
-        print("正在请求 Gemini 生成今日安全情报...")
+        print("正在请求 Gemini (携带谷歌搜索工具) 生成今日安全情报...")
+        
+        # 2. 调用 API 并强制开启 Google 搜索增强
         response = client.models.generate_content(
             model='gemini-3.5-flash',
             contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[{"google_search": {}}], # 核心配置：开启联网
+                temperature=0.2 # 降低温度，拒绝发散思维
+            )
         )
         
-        # 3. 组装带有时间戳的最新日报文本
+        raw_text = response.text
+
+        # 3. 本地死链检测防御层 (Dead-link checker)
+        print("情报生成完毕，正在进行本地 URL 可用性校验...")
+        url_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
+        
+        def verify_link(match):
+            text, url = match.groups()
+            try:
+                # 伪装请求头，防止 GitHub/ArXiv 拦截爬虫
+                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+                res = requests.head(url, headers=headers, timeout=5, allow_redirects=True)
+                if res.status_code < 400:
+                    return match.group(0) # 链接正常，原样返回
+                else:
+                    return f"[{text} (⚠️ Link Broken, HTTP {res.status_code})]({url})"
+            except:
+                return f"[{text} (⚠️ Link Unreachable)]({url})"
+
+        # 将生成的文本中所有链接进行替换测试
+        verified_text = url_pattern.sub(verify_link, raw_text)
+
+        # 4. 组装最终文本并替换 README
         today_str = datetime.now().strftime("%Y-%m-%d")
         report_content = f"\n## 📅 每日安全情报追踪 ({today_str})\n\n"
-        report_content += "> 💡 *提示：本板块由 Gemini API 每日上午 09:00 自动抓取过去 24 小时内 arXiv、Hugging Face 与 GitHub 的最新动态并自动更新。*\n\n"
-        report_content += response.text + "\n"
+        report_content += "> 💡 *提示：本板块由 Gemini 3.5 Flash 挂载 Google Search 每日自动抓取并进行可用性校验。*\n\n"
+        report_content += verified_text + "\n"
 
-        # 4. 读取现有的 README.md 并进行精准局部替换
         readme_path = "README.md"
         with open(readme_path, "r", encoding="utf-8") as f:
             readme_text = f.read()
 
-        # 使用正则匹配占位符并替换中间的内容
-        pattern = re.compile(r"<!-- START_REPORT -->.*?<!-- END_REPORT -->", re.DOTALL)
-        replacement = f"<!-- START_REPORT -->{report_content}<!-- END_REPORT -->"
+        # 完美替换您的 和 之间的内容
+        pattern = re.compile(r".*?", re.DOTALL)
+        replacement = f"{report_content}"
         
         new_readme_text = pattern.sub(replacement, readme_text)
 
@@ -87,6 +123,5 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Action Bot"
         git add README.md
-        # 检查是否有内容变更，避免无意义的空提交报错
         git diff-index --quiet HEAD || git commit -m "docs: 🤖 自动更新每日安全简报 ($(date +'%Y-%m-%d'))"
         git push
