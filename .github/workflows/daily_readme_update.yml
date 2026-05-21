@@ -69,8 +69,7 @@ jobs:
             model='gemini-3.5-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
-                tools=[{"google_search": {}}], # 核心配置：开启联网
-                temperature=0.2 # 降低温度，拒绝发散思维
+                temperature=0.2 # 仅保留温度控制，降低幻觉概率
             )
         )
         
