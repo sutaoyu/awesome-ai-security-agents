@@ -5,7 +5,6 @@ env:
 
 on:
   schedule:
-    # 每天国际标准时间 (UTC) 01:00 运行，即北京时间 (UTC+8) 上午 09:00
     - cron: '0 1 * * *'
   workflow_dispatch:
 
@@ -29,7 +28,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install google-genai requests
 
-    - name: Generate Content and Update README
+    - name: Generate Content and Append to README
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
@@ -43,7 +42,7 @@ jobs:
 
         client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
         
-        # 1. Prompt configuration (Strictly English output)
+        # 1. Prompt configuration (Strictly English, internal knowledge)
         prompt = """
         Based on your internal knowledge base, summarize recent and highly regarded academic papers and open-source projects related to "agent security".
         Keywords: "LLM Agent for cybersecurity", "Autonomous pentesting agent", "Prompt injection defense", "Agent safety benchmarks". 
@@ -55,10 +54,10 @@ jobs:
         3. Prioritize factual accuracy over providing a link.
 
         Output format (max 3 items per category, ALL OUTPUT MUST BE IN ENGLISH):
-        ### 🛡️ Agents for Security
+        #### 🛡️ Agents for Security
         * **[Name]** - [Brief Description] [Link]
 
-        ### 🔒 Security for Agents
+        #### 🔒 Security for Agents
         * **[Name]** - [Brief Description] [Link]
         """
         
@@ -97,30 +96,33 @@ jobs:
 
         verified_text = url_pattern.sub(verify_link, raw_text)
 
-        # 4. Assemble final English text
+        # 4. Assemble final English text (with divider for historical append)
         today_str = datetime.now().strftime("%Y-%m-%d")
-        report_content = f"\n## 📅 Daily Security Intelligence Tracking ({today_str})\n\n"
+        report_content = f"\n### 📅 Daily Security Intelligence ({today_str})\n\n"
         report_content += "> 💡 *Note: This section is automatically summarized daily by Gemini 3.5 Flash and verified by an automated dead-link checker.* \n\n"
-        report_content += verified_text + "\n"
+        report_content += verified_text + "\n\n---\n"
 
         readme_path = "README.md"
         with open(readme_path, "r", encoding="utf-8") as f:
             readme_text = f.read()
 
-        # 5. Regex replacement with safety check
-        pattern = re.compile(r".*?", re.DOTALL)
+        # 5. Safe Append Logic (Inserts directly below START_REPORT)
+        marker = ""
         
-        if not pattern.search(readme_text):
-            print("❌ FATAL ERROR: placeholder not found in README.md! Operation aborted to protect the file.")
+        if marker not in readme_text:
+            print("❌ FATAL ERROR: placeholder not found in README.md! Operation aborted.")
             exit(1)
             
-        replacement = f"{report_content}"
-        new_readme_text = pattern.sub(replacement, readme_text)
+        # Clean up the initial waiting message if it exists
+        readme_text = readme_text.replace("### ⏳ Waiting for automated daily intelligence injection...\n", "")
+        
+        # Insert today's report right after the marker
+        new_readme_text = readme_text.replace(marker, f"{marker}\n{report_content}", 1)
 
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write(new_readme_text)
             
-        print("README.md successfully updated!")
+        print("README.md historical append successful!")
         EOF
 
     - name: Commit and Push
@@ -128,5 +130,5 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Action Bot"
         git add README.md
-        git diff-index --quiet HEAD || git commit -m "docs: 🤖 Auto-update daily security brief ($(date +'%Y-%m-%d'))"
+        git diff-index --quiet HEAD || git commit -m "docs: 🤖 Auto-append daily security brief ($(date +'%Y-%m-%d'))"
         git push
