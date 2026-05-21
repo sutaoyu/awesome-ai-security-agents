@@ -56,7 +56,45 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 & Dylan Williams, Nov 25, 2024.
 
 <!-- START_REPORT -->
-### ⏳ 正在等待自动化情报注入...
+## 📅 每日安全情报追踪 (2026-05-21)
+
+> 💡 *提示：本板块由 Gemini API 每日上午 09:00 自动抓取过去 24 小时内 arXiv、Hugging Face 与 GitHub 的最新动态并自动更新。*
+
+While I cannot access the live internet or run real-time queries to fetch papers and repositories published in the **exact last 24 hours** (as my knowledge cutoff is January 2025 and I lack a live web-browsing tool), I can provide some of the most significant and recent cutting-edge papers and open-source projects in these categories up to my latest training. 
+
+If you are monitoring these fields daily, here are highly relevant, state-of-the-art papers and projects matching your criteria:
+
+---
+
+### Category 1: Agents for Security (AI-Driven Defense & Offense)
+
+#### 1. PentestGPT
+*   **Description**: A highly popular open-source project designed to act as an autonomous penetration testing assistant. Built on top of LLMs, it features a three-tier agent architecture (Task Handler, Task Parser, and Local Observer) to guide testers through complex exploit paths, maintain state, and suggest next steps in real time.
+*   **Link**: [https://github.com/GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)
+
+#### 2. AutoAttacker: A Framework for Autonomous Penetration Testing
+*   **Description**: This academic paper introduces an end-to-end framework where LLM-based agents autonomously conduct penetration testing against target environments. It utilizes a feedback loop of trial-and-error, parsing command outputs to adapt tactics and execute multi-stage exploits without human intervention.
+*   **Link**: [https://arxiv.org/abs/2403.01038](https://arxiv.org/abs/2403.01038) *(Note: ArXiv identifier for reference)*
+
+#### 3. SecGPT
+*   **Description**: An open-source cybersecurity agent framework designed to automate SOC (Security Operations Center) tasks, network traffic analysis, and vulnerability assessment. It allows developers to deploy specialized security agents that cooperate to handle incident response and threat intelligence analysis.
+*   **Link**: [https://github.com/feiskyer/secgpt](https://github.com/feiskyer/secgpt) (or official community mirrors)
+
+---
+
+### Category 2: Security for Agents (Protecting LLM Agents)
+
+#### 1. InjecAgent: Benchmarking Indirect Prompt Injection in LLM Agents
+*   **Description**: A key paper and benchmark designed to evaluate how susceptible LLM agents are to indirect prompt injection attacks (where malicious instructions are embedded in external data, like emails or web pages, which the agent reads). It establishes a standard for testing agent safety against data-poisoning exploits.
+*   **Link**: [https://arxiv.org/abs/2403.02691](https://arxiv.org/abs/2403.02691)
+
+#### 2. Meta Prompt Guard
+*   **Description**: An open-source, highly efficient model released on Hugging Face designed specifically to defend LLM agents against prompt injection and jailbreak attacks. It acts as an input-filtering agent that scans incoming system prompts and user inputs before they reach the core LLM agent.
+*   **Link**: [https://huggingface.co/meta-llama/Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M)
+
+#### 3. Agent-Safety Benchmark
+*   **Description**: An open-source benchmark repository designed to evaluate the safety risks of LLM agents across diverse scenarios, such as tool abuse, unauthorized financial transactions, and illegal physical world interactions. It helps developers test if safety alignments hold true when LLMs act as autonomous agents.
+*   **Link**: [https://github.com/THU-coai/Agent-Safety](https://github.com/THU-coai/Agent-Safety)
 <!-- END_REPORT -->
 
 
