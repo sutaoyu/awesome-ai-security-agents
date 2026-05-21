@@ -1,0 +1,89 @@
+name: Update README with Daily Security Report
+
+on:
+  schedule:
+    # 每天国际标准时间 (UTC) 01:00 运行，即北京时间 (UTC+8) 上午 09:00
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 允许您在 GitHub 页面上手动点击 "Run workflow" 按钮立即测试
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予 Action 往您的公开仓库提交代码的权限
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-genai
+
+    - name: Generate Content and Update README
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python - <<EOF
+        import os
+        import re
+        from google import genai
+        from datetime import datetime
+
+        # 1. 初始化 2026 最新官方 SDK 客户端
+        client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+        
+        # 2. 精准定义您的学术与开源项目检索 Prompt
+        prompt = """
+        Search for and summarize academic papers and open-source projects related to "agent security" that were released in the last 24 hours. 
+        Search keywords: 
+        Agents for Security: "LLM Agent for cybersecurity", "Autonomous pentesting agent", "Agentic SOC". 
+        Security for Agents: "LLM Agent security", "Prompt injection defense", "Agent safety benchmarks". 
+        Sources: arXiv, Hugging Face, GitHub. 
+        Output in two categories with max 3 items each, including Name, Description, and Link. 
+        Only include content from the last 24 hours.
+        """
+        
+        print("正在请求 Gemini 生成今日安全情报...")
+        response = client.models.generate_content(
+            model='gemini-1.5-pro',
+            contents=prompt,
+        )
+        
+        # 3. 组装带有时间戳的最新日报文本
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        report_content = f"\n## 📅 每日安全情报追踪 ({today_str})\n\n"
+        report_content += "> 💡 *提示：本板块由 Gemini API 每日上午 09:00 自动抓取过去 24 小时内 arXiv、Hugging Face 与 GitHub 的最新动态并自动更新。*\n\n"
+        report_content += response.text + "\n"
+
+        # 4. 读取现有的 README.md 并进行精准局部替换
+        readme_path = "README.md"
+        with open(readme_path, "r", encoding="utf-8") as f:
+            readme_text = f.read()
+
+        # 使用正则匹配占位符并替换中间的内容
+        pattern = re.compile(r"<!-- START_REPORT -->.*?<!-- END_REPORT -->", re.DOTALL)
+        replacement = f"<!-- START_REPORT -->{report_content}<!-- END_REPORT -->"
+        
+        new_readme_text = pattern.sub(replacement, readme_text)
+
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(new_readme_text)
+            
+        print("README.md 精准局部更新成功！")
+        EOF
+
+    - name: Commit and Push to sutaoyu/awesome-ai-security-agents
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add README.md
+        # 检查是否有内容变更，避免无意义的空提交报错
+        git diff-index --quiet HEAD || git commit -m "docs: 🤖 自动更新每日安全简报 ($(date +'%Y-%m-%d'))"
+        git push
