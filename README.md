@@ -16,25 +16,6 @@
 ---
 
 
-### 📅 Daily Security Intelligence (2026-05-22)
-
-> 💡 *Note: This section is automatically summarized daily by Gemini 3.5 Flash and verified by an automated dead-link checker.* 
-
-#### 🛡️ Agents for Security
-
-* **PentestGPT** - An innovative open-source project on GitHub that leverages LLMs to guide and automate penetration testing. It operates in an interactive manner, helping security professionals with reconnaissance, vulnerability analysis, and exploitation. [https://github.com/GreyDGL/PentestGPT]
-* **LLM Agents can Autonomously Hack Websites** - A highly regarded academic paper demonstrating that LLM agents (specifically GPT-4) can autonomously exploit common web vulnerabilities (such as SQL injection and XSS) when equipped with tool-use capabilities. [https://arxiv.org/abs/2402.11814]
-* **LLM Agents can Autonomously Exploit Zero-Day Vulnerabilities** - A follow-up study showing that LLM agents can autonomously exploit real-world, newly disclosed zero-day vulnerabilities when provided with the CVE description, highlighting the rapid evolution of offensive AI capabilities. [https://arxiv.org/abs/2404.08144]
-
-#### 🔒 Security for Agents
-
-* **LLM Guard** - A comprehensive, open-source toolkit designed to secure LLM applications and agents in real-time. It provides sanitization, detection, and mitigation against prompt injections, data leakage, and toxic outputs. [https://github.com/protectai/llm-guard]
-* **InjecAgent** - A specialized benchmark designed to evaluate the vulnerability of LLM agents to indirect prompt injection attacks, where malicious instructions are embedded in external data retrieved by the agent (e.g., emails or web pages). [https://notfoundco.com/]
-* **Evaluating the Safety of LLM-based Agents** - An academic benchmark and study that systematically analyzes how LLM agents behave when confronted with adversarial prompts, unsafe user instructions, or malicious environments. [https://notfoundco.com/]
-
----
-
-
 ### 📅 Daily Security Intelligence (2026-05-21)
 
 > 💡 *Note: This section is automatically summarized daily by Gemini 3.5 Flash and verified by an automated dead-link checker.* 
