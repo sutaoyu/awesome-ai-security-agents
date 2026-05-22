@@ -2,6 +2,22 @@
 
 ### 📅 Daily Security Intelligence (2026-05-22)
 
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **GenAI-Driven Threat Detection with Microsoft Security Copilot** - A research paper exploring how to defend against sophisticated cyberattacks by translating evolving attacker tradecraft using generative AI. https://arxiv.org/abs/2605.20896
+* **CyberVerseAI** - An Autonomous Multi-Agent Security Intelligence Platform designed to automate code scanning, vulnerability analysis, and threat intelligence mapping. https://github.com/cybertarr-A/CyberVerseAI
+
+#### 🔒 Security for Agents
+* **Agent Security is a Systems Problem** - A research paper proposing that agent security must be approached as a systems problem, treating the underlying AI model as untrusted. https://arxiv.org/abs/2605.18991
+* **agent_security** - A repository focused on runtime security for agentic systems, including a research paper, publication pipeline, and generated artifacts. https://github.com/edamametechnologies/agent_security
+* **coding-agent-security-benchmark** - A security benchmark project designed for the Claude Agent SDK. https://github.com/lirantal/coding-agent-security-benchmark
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-22)
+
 > 💡 *Note: This section is automatically summarized daily by Gemini 3.5 Flash and verified by an automated dead-link checker.* 
 
 #### 🛡️ Agents for Security
