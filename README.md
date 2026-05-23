@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-23)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **PocketAgents** - A manifest-driven library of autonomous defense agents designed to connect LLMs to defensive enforcement. https://arxiv.org/abs/2605.21694
+* **trident** - A security-focused Azure Linux servicing agent for installation, provisioning, and updates. https://github.com/microsoft/trident
+
+#### 🔒 Security for Agents
+* **Blind Spots in the Guard** - A study on how domain-camouflaged injection attacks evade detection in multi-agent LLM systems. https://arxiv.org/abs/2605.22001
+* **Sentinel** - An agentic security proxy for AI agents featuring PyTorch guardrails, Docker sandboxing, and AWS audit logs. https://github.com/owen-tsao/Sentinel
+* **agentk** - A tiny agent security kernel prototype with typed syscalls, policy receipts, and replayable evidence. https://github.com/Atomics-hub/agentk
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-22)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
