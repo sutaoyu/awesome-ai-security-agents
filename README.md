@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-24)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **recon-agent** - Multi-agent security reconnaissance toolkit powered by LLM reasoning that reduces false positives from 70% to under 5%. https://github.com/lucasjustinudin/recon-agent
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+
+#### 🔒 Security for Agents
+* **kevlar-benchmark** - Automate detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework for AI agent security testing. https://github.com/samsaeed22/kevlar-benchmark
+* **whyyoupick-v2** - AI-powered personalized review simulation and recommendation agent that is security hardened with real dataset integration. https://github.com/emmanuel-123tech/whyyoupick-v2
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-23)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
