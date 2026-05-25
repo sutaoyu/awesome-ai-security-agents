@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-25)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks** - Evaluates whether frontier LLMs are ready for cybersecurity tasks, specifically focusing on white-box function-level vulnerability detection. [https://arxiv.org/abs/2605.23243]
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+
+#### 🔒 Security for Agents
+* **SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety** - A hierarchical memory-augmented guardrail system designed to ensure the safety of autonomous LLM agents. [https://arxiv.org/abs/2605.05704]
+* **sekimore-gw** - An AI Agent Security Gateway. [https://github.com/Amakata/sekimore-gw]
+* **awesome-agent-security** - A collection of resources on AI agent identity, authorization, coordination, and security for building safer agent systems. [https://github.com/nephritispeepshow717/awesome-agent-security]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-24)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
