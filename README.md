@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-26)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **guardian-iam-lockdown** - An AI-powered agentic security lockdown template for home users, startups, and SMBs that implements PIM/PAM best practices using Microsoft Entra ID and CyberArk. https://github.com/siriusbkid-commits/guardian-iam-lockdown
+* **agentic-security-review-skill** - A tool to create branded CompleteTech LLC security, safety, and launch-readiness review PDFs for agentic workflows. https://github.com/CompleteTech-LLC/agentic-security-review-skill
+
+#### 🔒 Security for Agents
+* **nocklock** - An AI agent security fence providing filesystem, network, and secret isolation to lock coding agents in place. https://github.com/nocktechnologies/nocklock
+* **Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security** - A comprehensive survey paper detailing safety, robustness, privacy, and system security challenges in LLM-driven agentic AI systems. https://arxiv.org/abs/2605.23989
+* **When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents** - A realistic benchmark designed to evaluate Model Context Protocol (MCP) poisoning attacks against tool-using LLM agents. https://arxiv.org/abs/2605.24069
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-25)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
