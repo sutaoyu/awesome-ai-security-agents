@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-27)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **CyberEvolver** - An LLM-based agent framework for cybersecurity tasks that utilizes structured self-evolution on the fly to adapt to complex environments. [https://arxiv.org/abs/2605.26195]
+* **agenticshield** - An AI Agent Security Auditor featuring a 5-step wizard with Anthropic Claude API integration. [https://github.com/PavelGoblin/agenticshield]
+* **ai-sec-tracker** - An automated daily digest tool tracking new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+
+#### 🔒 Security for Agents
+* **Position: AI Safety Requires Effective Controllability** - A research paper proposing that AI safety should be framed around effective controllability rather than solely focusing on alignment. [https://arxiv.org/abs/2605.27117]
+* **Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction** - A method to improve the behavioral safety of LLM-based agents through iterative reasoning and thought correction during tool use and environment interaction. [https://arxiv.org/abs/2505.11063]
+* **securemind.live** - A dedicated security platform designed for securing AI agents. [https://github.com/kaushikdharamshi/securemind.live]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-26)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
