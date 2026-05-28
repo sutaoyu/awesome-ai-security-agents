@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-28)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **catchclaw** - Multi-platform AI agent security assessment tool providing 78 exploit modules, ATT&CK mapping, and attack graph visualization. https://github.com/Marathe-2/catchclaw
+
+#### 🔒 Security for Agents
+* **Defending LLM-based Multi-Agent Systems Against Cooperative Attacks with Sentence-Level Rectification** - A study on defending collaborative LLM-based Multi-Agent Systems against cooperative attacks using sentence-level rectification. https://arxiv.org/abs/2605.28104
+* **Plant, Persist, Trigger: Sleeper Attack on Large Language Model Agents** - Analysis of sleeper attacks where attackers inject adversarial content into external environments to exploit LLM agents. https://arxiv.org/abs/2605.28201
+* **rag-agent-security-gate** - An application-level security gate for RAG and Agent applications featuring a PASS/FAIL release gate and traceable evidence. https://github.com/TomWhite-tgz/rag-agent-security-gate
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-27)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
