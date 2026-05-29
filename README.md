@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-29)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **catchclaw** - A multi-platform AI agent security assessment tool featuring 78 exploit modules, ATT&CK mapping, and attack graph visualization. https://github.com/Marathe-2/catchclaw
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **awesome-mcp-security** - A security tool designed to scan and analyze MCP servers to assess AI agent security risks and provide daily updated safety scores. https://github.com/usevebu3783/awesome-mcp-security
+
+#### 🔒 Security for Agents
+* **AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security** - A lightweight and scalable alignment framework designed to mitigate safety and security risks in open-world AI agents. https://arxiv.org/abs/2605.29801
+* **Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents** - A study demonstrating how integrating external web retrieval tools can degrade the safety alignment of LLM agents. https://arxiv.org/abs/2605.29224
+* **Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction** - Research investigating stealthy Trojan attacks that exploit the long-term memory capabilities of LLM agents through conversational interaction. https://arxiv.org/abs/2605.29960
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-28)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
