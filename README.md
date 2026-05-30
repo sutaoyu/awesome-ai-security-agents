@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-05-30)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **synaptic-sentinel** - An agentic security toolkit for AI-assisted projects featuring five deterministic scouts and an LLM Brain Layer for IDE and CI environments. [https://github.com/golab-arch/synaptic-sentinel](https://github.com/golab-arch/synaptic-sentinel)
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker](https://github.com/InertFluid/ai-sec-tracker)
+
+#### 🔒 Security for Agents
+* **permaegis** - An enterprise security platform designed for AI agents. [https://github.com/phoenixgoku00-cell/permaegis](https://github.com/phoenixgoku00-cell/permaegis)
+* **kevlar-benchmark** - A testing suite to automate the detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. [https://github.com/samsaeed22/kevlar-benchmark](https://github.com/samsaeed22/kevlar-benchmark)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-29)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
