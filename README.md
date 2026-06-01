@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-01)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **An Organization-Scoped LLM Agent Runtime Architecture for Regulated Cybersecurity Operations** - Proposes a runtime substrate designed to enforce organization-level scope across retrieval, tool calls, memory, and findings for LLM agents operating within regulated cybersecurity workflows. [https://arxiv.org/abs/2605.30604]
+* **catchclaw** - A multi-platform AI agent security assessment tool that provides 78 exploit modules, MITRE ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+
+#### 🔒 Security for Agents
+* **agentwatch** - An AI agent security observability platform designed to monitor and secure agent systems. [https://github.com/Nifemi0/agentwatch]
+* **awesome-agent-security** - A curated collection of resources covering AI agent identity, authorization, coordination, and security to build safer agent systems. [https://github.com/nephritispeepshow717/awesome-agent-security]
+* **Investigating Detection and Obfuscation of Prompt Injection Attacks Against Software Reverse Engineering AI Agents** - A study analyzing prompt injection attacks embedded within the source code of executable binary files targeting agentic reverse engineering systems. [https://arxiv.org/abs/2605.30677]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-05-31)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
