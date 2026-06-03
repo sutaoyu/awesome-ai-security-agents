@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-03)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **sec-sre-ag** - Custom skills for the Azure SRE Agent to conduct security operations across Microsoft Sentinel, Defender XDR, and Entra ID, including threat dashboards and incident investigation. https://github.com/stefanpems/sec-sre-ag
+* **Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis** - A research paper proposing agentic dialogue to improve reliable hazard identification analysis in safety-critical and autonomous systems. https://arxiv.org/abs/2606.03812
+* **EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents** - A research paper utilizing self-improving LLM agents to generate safety-critical scenarios for validating and improving autonomous driving systems. https://arxiv.org/abs/2606.03678
+
+#### 🔒 Security for Agents
+* **A New Framework for Cybersecurity Refusals in AI Agents** - A research paper introducing a framework to handle cybersecurity refusals in AI agents to mitigate risks in complex, long-horizon tasks. https://arxiv.org/abs/2606.02644
+* **agentwatch** - An AI Agent Security Observability Platform. https://github.com/Nifemi0/agentwatch
+* **Inference Cost Attacks for Retrieval-Augmented Large Language Models** - A research paper analyzing attacks that exploit RAG-enhanced LLM systems to introduce substantial inference costs. https://arxiv.org/abs/2606.02643
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-01)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
