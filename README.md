@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-04)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **CyberGym-E2E** - A scalable, real-world benchmark designed to evaluate the end-to-end autonomous cybersecurity capabilities of AI agents, including vulnerability detection, analysis, and remediation. https://arxiv.org/abs/2606.04460
+
+#### 🔒 Security for Agents
+* **From Untrusted Input to Trusted Memory** - A systematic study of memory poisoning attacks in LLM agents, exploring how untrusted inputs can compromise persistent agent memory. https://arxiv.org/abs/2606.04329
+* **Agent-Security-Regression-Harness** - An executable security regression testing framework from OWASP designed for agentic applications and MCP-integrated systems. https://github.com/OWASP/Agent-Security-Regression-Harness
+* **RUBAS** - A rubric-based reinforcement learning framework aimed at ensuring agent safety during real-world execution of tool-enabled LLMs. https://arxiv.org/abs/2606.04051
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-03)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
