@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-05)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+* **catchclaw** - A security assessment tool providing multi-platform AI agent security testing with 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+* **kevlar-benchmark** - An automated security testing tool to detect and exploit Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. [https://github.com/samsaeed22/kevlar-benchmark]
+
+#### 🔒 Security for Agents
+* **Domain-Conditioned Safety in Frontier Computer-Using Agents** - A research paper presenting a 793-episode browser benchmark and a reproducibility audit of recent red-teaming on computer-using agents. [https://arxiv.org/abs/2606.05233]
+* **Data Flow Control: Data Safety Policies for AI Agents** - A study focusing on data safety policies for AI agents that generate SQL, orchestrate pipelines, and automate data analysis. [https://arxiv.org/abs/2606.05679]
+* **awesome-agent-security** - A repository of curated resources covering AI agent identity, authorization, coordination, and security practices for safer agent systems. [https://github.com/nephritispeepshow717/awesome-agent-security]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-04)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
