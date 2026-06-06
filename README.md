@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-06)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **trident** - Azure Linux servicing agent focused on security install, provisioning, and update. https://github.com/microsoft/trident
+* **ai-sec-tracker** - Automated daily digest tool tracking CVEs, advisories, and research relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **PSEBench** - A controllable and verifiable benchmark for evaluating LLMs in patient safety event triage. https://arxiv.org/abs/2606.05463
+
+#### 🔒 Security for Agents
+* **kevlar-benchmark** - Automates detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. https://github.com/samsaeed22/kevlar-benchmark
+* **Data Flow Control: Data Safety Policies for AI Agents** - Introduces data safety policies for AI agents generating SQL, orchestrating pipelines, and automating data analysis. https://arxiv.org/abs/2606.05679
+* **Domain-Conditioned Safety in Frontier Computer-Using Agents** - A browser benchmark and reproducibility audit of prompt-injection attacks on computer-using agents. https://arxiv.org/abs/2606.05233
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-05)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
