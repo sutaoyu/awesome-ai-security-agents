@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-07)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+
+#### 🔒 Security for Agents
+* **kevlar-benchmark** - Automate detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework for AI agent security testing. https://github.com/samsaeed22/kevlar-benchmark
+* **agentshield** - Bidirectional AI agent security middleware. https://github.com/anshul23102/agentshield
+* **awesome-agent-security** - Explore resources on AI agent identity, authorization, coordination, and security for safer agent systems. https://github.com/nephritispeepshow717/awesome-agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-06)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
