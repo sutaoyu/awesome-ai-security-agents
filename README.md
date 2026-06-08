@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-08)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **EVA** - An evolutionary semantic adversary framework used for red-teaming GUI agents against environmental injection attacks. [https://arxiv.org/abs/2505.14289]
+* **catchclaw** - A multi-platform AI agent security assessment tool featuring 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+* **awesome-mcp-security** - A security tool that scans and analyzes MCP servers to assess AI agent security risks and provide daily safety scores. [https://github.com/usevebu3783/awesome-mcp-security]
+
+#### 🔒 Security for Agents
+* **Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety** - A research paper analyzing AI control safety frameworks, showing how strategic attack selection makes attackers significantly harder to detect. [https://arxiv.org/abs/2606.06529]
+* **airlock** - A layered prompt-injection and agent-security guard organized around trust boundaries, featuring a shared core, Claude Code plugin, and openclaw adapter. [https://github.com/Iskz17/airlock]
+* **ai-sec-tracker** - An automated daily digest tracking new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-07)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
