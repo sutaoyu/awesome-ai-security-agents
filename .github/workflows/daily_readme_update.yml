@@ -5,7 +5,7 @@ env:
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '17 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -139,15 +139,33 @@ jobs:
         * **[Name]** - [Brief Description] [Link]
         """
         
-        try:
-            response = client.models.generate_content(
-                model='gemini-3.5-flash',
-                contents=prompt,
-                config=types.GenerateContentConfig(temperature=0.1)
-            )
-            report_text = response.text if response.text else "> ⚠️ *Gemini generation resulted in empty text.*"
-        except Exception as e:
-            print(f"❌ Gemini 生成报错: {e}")
+        max_gemini_retries = 3
+        report_text = "> ⚠️ *Gemini generation resulted in empty text or failed.*"
+        
+        for attempt in range(max_gemini_retries):
+            try:
+                response = client.models.generate_content(
+                    model='gemini-3.5-flash',
+                    contents=prompt,
+                    config=types.GenerateContentConfig(temperature=0.1)
+                )
+                report_text = response.text if response.text else "> ⚠️ *Gemini generation resulted in empty text.*"
+                print("✅ Gemini 排版成功完成！")
+                break # 成功则跳出循环
+                
+            except Exception as e:
+                error_msg = str(e)
+                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg:
+                    sleep_time = 20 * (attempt + 1)
+                    print(f"⚠️ Gemini 遇到高并发或限流 (尝试 {attempt + 1}/{max_gemini_retries})。休眠 {sleep_time} 秒后重试...")
+                    time.sleep(sleep_time)
+                else:
+                    print(f"❌ Gemini 生成遇到不可恢复的报错: {error_msg}")
+                    exit(1) # 非限流/高并发错误，直接退出
+        
+        # 如果重试 3 次后依然没有获取到有效文本，可以设置一个兜底，避免覆盖坏数据
+        if "⚠️" in report_text and attempt == max_gemini_retries - 1:
+            print("❌ 多次重试后 Gemini 依然无响应，放弃本次 README 更新。")
             exit(1)
 
         # ==========================================
