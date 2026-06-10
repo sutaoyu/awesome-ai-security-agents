@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-10)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+* **vellaveto** - Agentic security control plane and MCP-native policy gateway with topology discovery and audit for MCP and AI agent tool calls. [https://github.com/paolovella/vellaveto]
+* **ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity** - A benchmark designed to evaluate LLM agent capabilities relevant to biological research and biosecurity. [https://arxiv.org/abs/2606.11150]
+
+#### 🔒 Security for Agents
+* **Doberman-Core** - An AI agent security framework providing guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, and autonomous workflow protection. [https://github.com/fu351/Doberman-Core]
+* **kevlar-benchmark** - A tool to automate the detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. [https://github.com/samsaeed22/kevlar-benchmark]
+* **GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines** - Research examining prompt injection attacks against autonomous AI agents embedded in CI/CD pipelines. [https://arxiv.org/abs/2606.09935]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-08)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
