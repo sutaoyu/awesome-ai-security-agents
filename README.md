@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-11)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment** - An empirical assessment exploring the value and efficacy of agentic AI tools and general-purpose GenAI LLMs for cybersecurity purposes. [https://arxiv.org/abs/2606.11672]
+* **Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks** - An evaluation of whether frontier LLMs are ready for cybersecurity tasks using a dual-mode benchmark for vulnerability detection. [https://arxiv.org/abs/2605.23243]
+* **MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation** - A repository-level benchmark designed to evaluate Large Language Model (LLM) code repair on Secure Multi-Party Computation (MPC) software. [https://arxiv.org/abs/2606.11416]
+
+#### 🔒 Security for Agents
+* **Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security** - A security approach that uses targeted runtime probing to audit LLM agent skills and detect hidden malicious behaviors. [https://arxiv.org/abs/2606.11671]
+* **enterprise-agent-security-platform** - An enterprise-focused security platform built for governing, authorizing, monitoring, and auditing AI agents. [https://github.com/mathurshubh/enterprise-agent-security-platform]
+* **catchclaw** - A tool providing multi-platform AI agent security assessment equipped with 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-10)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
