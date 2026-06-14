@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-14)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **hackingaiagent-labs** - Offensive AI Agents course featuring Python labs for agent security, prompt injection, RAG attacks, and MCP exploitation. https://github.com/kitnge7/hackingaiagent-labs
+
+#### 🔒 Security for Agents
+* **agentic-security-harness** - Open-source defensive harness and learning lab for reproducing and measuring agentic AI failure modes with portable traces, attack graphs, scorecards, and data-boundary tests. https://github.com/krivonosoff161/agentic-security-harness
+* **Doberman-Core** - An AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, and autonomous workflow protection. https://github.com/fu351/Doberman-Core
+* **kaggle-ai-agent-security** - No description. https://github.com/tuannm3812/kaggle-ai-agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-11)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
