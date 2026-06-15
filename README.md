@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-15)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **Safety-Contract Graph Multi-Agent Reinforcement Learning for Autonomous Network Security Response** - An autonomous network-security response system using multi-agent reinforcement learning to reduce Security Operations Centre (SOC) reaction latency. [https://arxiv.org/abs/2606.13832]
+* **ReviewBot** - An AI-powered GitHub PR review tool utilizing four parallel LangGraph agents (security, performance, quality, and testing) with live SSE streaming and MongoDB-backed score trends. [https://github.com/Guruvarshin/ReviewBot]
+
+#### 🔒 Security for Agents
+* **Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents** - A safety primitive proposing risk-aware causal gating to enable least-privilege execution for LLM agents. [https://arxiv.org/abs/2606.13884]
+* **Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DECOMPBENCH** - A benchmark designed to evaluate LLM-based agent safety against adversarial misuse via decomposition attacks. [https://arxiv.org/abs/2606.13994]
+* **catchclaw** - A multi-platform AI agent security assessment tool featuring 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-14)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
