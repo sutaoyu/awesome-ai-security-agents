@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-17)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **An AI Security Agent for Banking: Multi-Vector Fraud and AML Detection Across Retail and Corporate Accounts** - A research paper proposing an AI security agent designed to detect multi-vector fraud and conduct anti-money laundering (AML) detection across retail and corporate banking accounts. https://arxiv.org/abs/2606.17555
+* **Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks** - A study evaluating the readiness of frontier LLMs for cybersecurity tasks using dual-mode vulnerability detection benchmarks. https://arxiv.org/abs/2605.23243
+
+#### 🔒 Security of Agents
+* **Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks** - A security assessment of code-capable LLM agents against systematic jailbreaking attacks within software engineering workflows. https://arxiv.org/abs/2510.01359
+* **enterprise-agent-security-platform** - An enterprise-focused security platform designed for governing, authorizing, monitoring, and auditing AI agents. https://github.com/mathurshubh/enterprise-agent-security-platform
+* **mcp-agent-security-experiment** - A local MCP-based LLM agent security experiment analyzing indirect prompt injection, tool poisoning, defenses, and results. https://github.com/Zveneodm/mcp-agent-security-experiment
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-15)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
