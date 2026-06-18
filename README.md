@@ -428,6 +428,7 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 * [Blueprint for AI Agents in Cybersecurity](https://www.cybersec-automation.com/p/blueprint-for-ai-agents-in-cybersecurity) - Filip Stojkovski
 & Dylan Williams, Nov 25, 2024.
 
+* [什么是 AI 智能体安全？](https://www.ibm.com/cn-zh/think/topics/ai-agent-security) -IBM 
 
 
 
