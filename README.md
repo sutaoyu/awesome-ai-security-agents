@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-20)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+
+#### 🔒 Security of Agents
+* **shellward** - AI Agent Security Middleware featuring an 8-layer defense, DLP data flow, prompt injection detection, and SDK/MCP server support. https://github.com/jnMetaCode/shellward
+* **ams** - An authority-managed system for agent security featuring provenance, taint tracking, and a deterministic gate. https://github.com/hariharsecure/ams
+* **Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems** - A study analyzing defensive misdirection against model-guided automated attacks targeting language-model components in agentic AI systems. https://arxiv.org/abs/2606.20470
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-17)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
