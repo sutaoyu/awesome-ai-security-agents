@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-21)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* No entries identified in this batch.
+
+#### 🔒 Security of Agents
+* **agentic-security-harness** - Defensive benchmark toolkit for evaluating agentic AI boundary failures with traces, scorecards, remediation, run diffs, and model/runtime checks. https://github.com/krivonosoff161/agentic-security-harness
+* **agent-security-scanner** - A local-first security scanner for AI Agent, MCP, and AI coding tool projects that detects risky permissions, plaintext credentials, suspicious shell commands, and other risks. https://github.com/LeeBush22/agent-security-scanner
+* **agent-security-framework** - No description. https://github.com/alfredocarta/agent-security-framework
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-20)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
