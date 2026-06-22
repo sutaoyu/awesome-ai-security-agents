@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-22)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **code-review-agents** - A centralized code-review platform for GitHub built on Claude, featuring a Security agent that automatically runs on every PR. [https://github.com/dsngeu/code-review-agents](https://github.com/dsngeu/code-review-agents)
+
+#### 🔒 Security of Agents
+* **securemind.live** - SecureMind — The AI Agent Security Platform. [https://github.com/kaushikdharamshi/securemind.live](https://github.com/kaushikdharamshi/securemind.live)
+* **agentic-security-marketplace** - No description. [https://github.com/clover-security-public/agentic-security-marketplace](https://github.com/clover-security-public/agentic-security-marketplace)
+* **kaggle-agent-security** - No description. [https://github.com/tiitable/kaggle-agent-security](https://github.com/tiitable/kaggle-agent-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-21)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
