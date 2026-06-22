@@ -450,6 +450,8 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 
 ## 💻 *Open-Source Projects* 
 
+* ![Armorer Guard Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard) [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - A local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call detection before execution.
+
 * ![Agentic Security Stars](https://img.shields.io/github/stars/msoedov/agentic_security) [Agentic Security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs) Protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 
 * ![agentic-radar Stars](https://img.shields.io/github/stars/splx-ai/agentic-radar) [agentic-radar](https://github.com/splx-ai/agentic-radar) - A security scanner for your LLM agentic workflows.
