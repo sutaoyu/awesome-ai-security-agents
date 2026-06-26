@@ -2,6 +2,45 @@
 
 ### 📅 Daily Security Intelligence (2026-06-26)
 
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 64 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **trident** (⭐ 28 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+* **piolium** (⭐ 35 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+
+#### 🔒 Security of Agents
+* **Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents** - Discusses strategies for defending tool-using LLM agents against indirect prompt injection. [Link](https://arxiv.org/abs/2606.26479)
+* **ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP** - Explores vulnerabilities in LLM-driven agents and the Model Context Protocol (MCP). [Link](https://arxiv.org/abs/2606.27027)
+* **Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI** - Proposes an architectural blueprint for safe AGI, focusing on intrinsic safety. [Link](https://arxiv.org/abs/2606.26406)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security (arXiv)
+* **Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI** - We propose a complete architectural blueprint for safe artificial general intelligence based on a closed reentry loop (D <-> I cycle). [Link](https://arxiv.org/abs/2606.26406)
+
+* **Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents** - Recent work (2024 to 2026) has converged on a strategy for defending tool-using LLM agents against indirect prompt injection: rather than training th... [Link](https://arxiv.org/abs/2606.26479)
+
+* **ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP** - With the rapid evolution of LLM-driven agents, Model Context Protocol (MCP), an open protocol bridging LLMs with external tools, has quickly become f... [Link](https://arxiv.org/abs/2606.27027)
+
+#### 🔒 Security of Agents (GitHub)
+* **symfony-security-auditor** (⭐ 64) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+* **Doberman-Core** (⭐ 64) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+* **trident** (⭐ 28) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-26)
+
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
 
 #### 🛡️ Agents for Security
