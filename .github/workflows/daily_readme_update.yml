@@ -13,33 +13,32 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      models: read   # 🌟 关键新增：赋予访问 GitHub Models API 的权限
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v6
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install google-genai requests feedparser
+        # 移除 google-genai，只保留必须的基础库
+        pip install requests feedparser
 
     - name: Fetch Data, Generate Content and Append
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 现在仅需 GITHUB_TOKEN
       run: |
         python - <<EOF
         import os
         import time
         import requests
         import feedparser
-        from google import genai
-        from google.genai import types
         from datetime import datetime, timedelta
 
         print("🚀 开始混合抓取：arXiv(RSS) + GitHub(API) ...")
@@ -111,13 +110,18 @@ jobs:
             exit(0)
 
         # ==========================================
-        # 3. Gemini 数据融合排版 (恢复严格模板约束)
+        # 3. 切换为 GitHub Models 数据融合排版
         # ==========================================
-        print("🤖 正在将抓取到的数据交给 Gemini 3.5 Flash 进行智能化排版...")
-        client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+        print("🤖 正在将抓取到的数据交给 GitHub Models (gpt-4o-mini) 进行智能化排版...")
+        
+        endpoint = "https://models.inference.ai.azure.com/chat/completions"
+        ai_headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {gh_token}"
+        }
         
         prompt = f"""
-        You are an expert AI cybersecurity analyst. I have just scraped the latest raw data from arXiv and GitHub.
+        I have just scraped the latest raw data from arXiv and GitHub.
         
         RAW DATA:
         {raw_context}
@@ -139,49 +143,57 @@ jobs:
         * **[Name]** - [Brief Description] [Link]
         """
         
-        max_gemini_retries = 3
-        report_text = "> ⚠️ *Gemini generation resulted in empty text or failed.*"
+        payload = {
+            "model": "gpt-4o-mini",
+            "messages": [
+                {"role": "system", "content": "You are an expert AI cybersecurity analyst."},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.1
+        }
         
-        for attempt in range(max_gemini_retries):
+        max_ai_retries = 3
+        report_text = "> ⚠️ *AI generation resulted in empty text or failed.*"
+        
+        for attempt in range(max_ai_retries):
             try:
-                response = client.models.generate_content(
-                    model='gemini-3.5-flash',
-                    contents=prompt,
-                    config=types.GenerateContentConfig(temperature=0.1)
-                )
-                report_text = response.text if response.text else "> ⚠️ *Gemini generation resulted in empty text.*"
-                print("✅ Gemini 排版成功完成！")
-                break # 成功则跳出循环
+                # 显式设定 timeout 防止进程永久挂起
+                ai_resp = requests.post(endpoint, headers=ai_headers, json=payload, timeout=60)
                 
-            except Exception as e:
-                error_msg = str(e)
-                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg:
+                if ai_resp.status_code == 200:
+                    result_json = ai_resp.json()
+                    report_text = result_json['choices'][0]['message']['content'].strip()
+                    print("✅ GitHub Models 排版成功完成！")
+                    break
+                elif ai_resp.status_code == 429:
                     sleep_time = 20 * (attempt + 1)
-                    print(f"⚠️ Gemini 遇到高并发或限流 (尝试 {attempt + 1}/{max_gemini_retries})。休眠 {sleep_time} 秒后重试...")
+                    print(f"⚠️ AI 推理接口限流 (尝试 {attempt + 1}/{max_ai_retries})。休眠 {sleep_time} 秒后重试...")
                     time.sleep(sleep_time)
                 else:
-                    print(f"❌ Gemini 生成遇到不可恢复的报错: {error_msg}")
-                    exit(1) # 非限流/高并发错误，直接退出
-        
-        # 如果重试 3 次后依然没有获取到有效文本，可以设置一个兜底，避免覆盖坏数据
-        if "⚠️" in report_text and attempt == max_gemini_retries - 1:
-            print("❌ 多次重试后 Gemini 依然无响应，放弃本次 README 更新。")
-            exit(1)
+                    print(f"❌ AI 推理失败 (HTTP {ai_resp.status_code}): {ai_resp.text}")
+                    if attempt == max_ai_retries - 1:
+                        exit(1)
+                    time.sleep(10)
+                    
+            except Exception as e:
+                print(f"❌ AI 网络请求异常: {e}")
+                if attempt == max_ai_retries - 1:
+                    exit(1)
+                time.sleep(10)
 
         # ==========================================
         # 4. 追加写入 README.md
         # ==========================================
         today_str = datetime.now().strftime("%Y-%m-%d")
         report_content = f"\n### 📅 Daily Security Intelligence ({today_str})\n\n"
-        report_content += "> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* \n\n"
+        report_content += "> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* \n\n"
         report_content += report_text + "\n\n---\n"
 
         readme_path = "README.md"
         with open(readme_path, "r", encoding="utf-8") as f:
             readme_text = f.read()
 
-        # 修复了丢失的占位符变量
-        marker = ""
+        # 请确保在 README.md 中设置了对应的占位符，例如： marker = ""
         if marker not in readme_text:
             print("❌ 致命错误：在 README.md 中未找到插入占位符！")
             exit(1)
