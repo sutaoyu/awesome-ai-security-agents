@@ -192,7 +192,9 @@ jobs:
         readme_path = "README.md"
         with open(readme_path, "r", encoding="utf-8") as f:
             readme_text = f.read()
-
+        # 👇 就是这里！必须确保有下面这一行来定义 marker 变量
+        marker = ""
+        
         # 请确保在 README.md 中设置了对应的占位符，例如： marker = ""
         if marker not in readme_text:
             print("❌ 致命错误：在 README.md 中未找到插入占位符！")
