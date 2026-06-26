@@ -123,26 +123,28 @@ jobs:
         }
         
         prompt = f"""
-        I have just scraped the latest raw data from arXiv and GitHub.
+        I have just scraped the latest raw data from arXiv (academic papers) and GitHub (open source repos).
         
         RAW DATA:
         {raw_context}
 
         YOUR TASK:
-        Review the RAW DATA above and format it into a clean, professional markdown brief.
+        Review the RAW DATA above. Classify EACH item (whether it is a paper or a repo) into one of two semantic categories:
+        1. "Agents for Security": Using AI agents to solve cybersecurity problems (e.g., auditing, defense, monitoring).
+        2. "Security of Agents": Protecting AI agents from attacks (e.g., prompt injection, jailbreaks, malicious tool use).
         
         CRITICAL RULES:
-        1. ONLY use the information provided in the RAW DATA. DO NOT use your internal knowledge to make up papers or repos.
-        2. Keep descriptions concise.
-        3. Extract the exact Links provided in the raw data.
+        1. ONLY use the information provided in the RAW DATA. DO NOT make up papers or repos.
+        2. Classify strictly by TOPIC, not by source. Both papers and repos can belong to either category.
+        3. Keep descriptions concise.
         4. ALL OUTPUT MUST BE IN ENGLISH.
         
-        STRICT OUTPUT FORMAT (You MUST use this exact structure, max 3 items per category):
-        #### 🛡️ Agents for Security (arXiv)
-        * **[Name]** - [Brief Description] [Link]
+        STRICT OUTPUT FORMAT:
+        #### 🛡️ Agents for Security
+        * **[Name]** [Include (⭐ Stars) if it is a GitHub repo] - [Brief Description] [Link]
 
-        #### 🔒 Security of Agents (GitHub)
-        * **[Name]** (⭐ [Stars]) - [Brief Description] [Link]
+        #### 🔒 Security of Agents
+        * **[Name]** [Include (⭐ Stars) if it is a GitHub repo] - [Brief Description] [Link]
         """
         
         payload = {
