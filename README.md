@@ -1,5 +1,25 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-26)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **AetherGuard** - AetherGuard secures AI agents through eight integrated security controls that automatically evaluate every agent action before execution. Together, these controls provide policy enforcement, identity verification, execution governance, and cryptographic assurance for autonomous AI systems. [Link](https://github.com/AetherGuardAI/aetherguard-agent-security)
+* **catchclaw** - Provide multi-platform AI agent security assessment with 78 exploit modules, ATT&CK mapping, and attack graph visualization. [Link](https://github.com/Marathe-2/catchclaw)
+
+#### 🔒 Security of Agents
+* **400860-x402-checkout** - Public no-secret 400860 x402 checkout, APIHub submission, OpenAPI x-payment-info, paid MCP and agent security policy pack. [Link](https://github.com/go165/400860-x402-checkout)
+* **stateful-agent-security-eval** - Evaluation framework for session-persistent security attacks against LLM-based agents: delayed triggers, with bootstrap BCa CIs and meta-analysis. [Link](https://github.com/junwenleong/stateful-agent-security-eval)
+
+#### 📄 Recent Research Papers
+* **Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI** - We propose a complete architectural blueprint for safe artificial general intelligence based on a closed reentry loop (D <-> I cycle). [Link](https://arxiv.org/abs/2606.26406)
+* **Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents** - Recent work (2024 to 2026) has converged on a strategy for defending tool-using LLM agents against indirect prompt injection: rather than training th... [Link](https://arxiv.org/abs/2606.26479)
+* **ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP** - With the rapid evolution of LLM-driven agents, Model Context Protocol (MCP), an open protocol bridging LLMs with external tools, has quickly become f... [Link](https://arxiv.org/abs/2606.27027)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-22)
 
 > 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
