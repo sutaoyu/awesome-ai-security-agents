@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 90 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **agentic-security** (⭐ 68 stars) - Build faster with an Agentic Workforce. Safe, secure, and compliant is now the default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **trident** (⭐ 28 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems** - Discusses security challenges in autonomous agents that cooperate across organizational boundaries. [Link](https://arxiv.org/abs/2505.23847)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-28)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
