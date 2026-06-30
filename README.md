@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-06-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 110 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **awesome-ai-security-tools** (⭐ 24 stars) - Curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **trilane** (⭐ 22 stars) - Autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. [Link](https://github.com/xyun92/trilane)
+
+#### 🔒 Security of Agents
+* **awesome-ai-agent-attacks** (⭐ 28 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems** - Discusses security challenges in autonomous agents cooperating across organizational boundaries. [Link](https://arxiv.org/abs/2505.23847)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-29)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
