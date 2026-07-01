@@ -1,5 +1,24 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 359 stars) - Open-source runtime AI agent security tool that monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **symfony-security-auditor** (⭐ 66 stars) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection, and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **awesome-ai-security-tools** (⭐ 24 stars) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity, including autotriage, agent security, and more. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens** - Discusses the security of claw-like AI agents with persistent access to credentials and external services. [Link](https://arxiv.org/abs/2606.30755)
+* **A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems** - Explores vulnerabilities in large language models, including risks and defenses. [Link](https://arxiv.org/abs/2606.31639)
+* **Containment Verification: AI Safety Guarantees Independent of Alignment** - Examines safety methods for AI agents that focus on containment rather than model alignment. [Link](https://arxiv.org/abs/2605.09045)
+* **From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching** - Investigates vulnerabilities in semantic caching techniques used by large language models. [Link](https://arxiv.org/abs/2601.23088)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-06-30)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
