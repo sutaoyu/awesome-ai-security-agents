@@ -1,5 +1,23 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-02)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 365 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 71 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 24 stars) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems** - Discusses failure modes of autonomous agents and governance for safety. [Link](https://arxiv.org/abs/2607.00334)
+* **EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards** - Evaluates vision-language models as safety guards for embodied agents. [Link](https://arxiv.org/abs/2607.00218)
+* **Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity** - Focuses on safety evaluations for language models and ambiguous behavior. [Link](https://arxiv.org/abs/2607.01153)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-01)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
