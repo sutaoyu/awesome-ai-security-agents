@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 71 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **Adrian** (⭐ 369 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+
+#### 🔒 Security of Agents
+* **Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification** - Discusses safety testing for LLM agents and evolving safety risks. [Link](https://arxiv.org/abs/2607.01793)
+* **Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems** - Focuses on safety in complex autonomous systems integrating AI. [Link](https://arxiv.org/abs/2607.02376)
+* **Distributed Attacks in Persistent-State AI Control** - Examines risks associated with autonomous AI coding agents and persistent codebases. [Link](https://arxiv.org/abs/2607.02514)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-02)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
