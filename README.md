@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-04)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 71 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **piolium** (⭐ 37 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+* **sigma-ai** (⭐ 15 stars) - Sigma detection rules for AI agent security monitoring. [Link](https://github.com/agentshield-ai/sigma-ai)
+* **Doberman-Core** (⭐ 111 stars) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **Doberman-Core** (⭐ 111 stars) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-03)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
