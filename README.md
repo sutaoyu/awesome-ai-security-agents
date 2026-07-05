@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-05)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 72 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **shep** (⭐ 221 stars) - Ship features 10x faster. Built In Auto: Memory, K8S Agent & Security (SDD+SDLC). 😇 [Link](https://github.com/shep-ai/shep)
+* **piolium** (⭐ 37 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+* **sigma-ai** (⭐ 15 stars) - Sigma detection rules for AI agent security monitoring. [Link](https://github.com/agentshield-ai/sigma-ai)
+
+#### 🔒 Security of Agents
+* *(No items classified under this category based on the provided data.)*
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-04)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
