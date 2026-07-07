@@ -1,5 +1,24 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 74 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **FORGE: Research-Trajectory Hijacking Attacks on Deep Research Agents** - Discusses attacks on deep research agents. [Link](https://arxiv.org/abs/2607.04718)
+* **Determinants and Limits of LLM Security-Tool Orchestration: A Study with HexStrike-AI** - Examines factors affecting LLM agents in security tool orchestration. [Link](https://arxiv.org/abs/2607.02873)
+* **Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses** - Explores attacks on LLM agent memory and defenses. [Link](https://arxiv.org/abs/2607.05029)
+* **Agent Data Injection Attacks are Realistic Threats to AI Agents** - Investigates threats posed by data injection attacks on AI agents. [Link](https://arxiv.org/abs/2607.05120)
+* **agent-security-scanner-mcp** (⭐ 112 stars) - Security scanner MCP server for AI coding agents, including prompt injection firewall and vulnerability rules. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **shep** (⭐ 225 stars) - Features for faster shipping with built-in memory, K8S agent, and security. [Link](https://github.com/shep-ai/shep)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-06)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
