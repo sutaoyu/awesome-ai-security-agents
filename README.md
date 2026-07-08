@@ -1,5 +1,23 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **agent-security-scanner-mcp** (⭐ 113 stars) - Security scanner MCP server for AI coding agents with prompt injection firewall, package hallucination detection, and auto-fix capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **trilane** (⭐ 26 stars) - Autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. [Link](https://github.com/xyun92/trilane)
+* **symfony-security-auditor** (⭐ 74 stars) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities** - Discusses vulnerabilities in AI coding agents related to execution security. [Link](https://arxiv.org/abs/2607.05743)
+* **SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models** - Addresses the production of vulnerable code by AI coding assistants and the need for a training dataset. [Link](https://arxiv.org/abs/2512.18542)
+* **AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming** - Focuses on safety rule evolution for LLM agents to enhance their security in automated tasks. [Link](https://arxiv.org/abs/2606.24245)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-07)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
