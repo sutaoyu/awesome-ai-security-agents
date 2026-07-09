@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-09)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 75 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agent-security-scanner-mcp** (⭐ 113 stars) - Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST & taint analysis, auto-fix. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **trilane** (⭐ 26 stars) - TriLane: autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. Built with Rust and Tauri. [Link](https://github.com/xyun92/trilane)
+
+#### 🔒 Security of Agents
+* **When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents** - Discusses memory poisoning attacks on AI agents. [Link](https://arxiv.org/abs/2607.06595)
+* **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - Presents challenges and future research directions in the security and privacy of agentic AI. [Link](https://arxiv.org/abs/2607.06608)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-08)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
