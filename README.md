@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **auditor-skill** (⭐ 34 stars) - Claude Code / agentic security skill for Solana programs and software, including a full audit-firm lifecycle and real-world attack vectors. [Link](https://github.com/solanabr/auditor-skill)
+* **agent-security-scanner-mcp** (⭐ 115 stars) - Security scanner MCP server for AI coding agents, featuring prompt injection firewall and vulnerability rules. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **shep** (⭐ 229 stars) - Tool to ship features faster with built-in memory and security for AI development. [Link](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring** - Discusses how persuasion attacks can undermine AI safety mechanisms like CoT monitoring. [Link](https://arxiv.org/abs/2607.08066)
+* **Distributed Attacks in Persistent-State AI Control** - Explores the risks of persistent-state AI coding agents and the potential for distributed attacks. [Link](https://arxiv.org/abs/2607.02514)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-10)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
