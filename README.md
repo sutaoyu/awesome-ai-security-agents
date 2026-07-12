@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-12)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 281 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, and secure AI deployment [Link](https://github.com/fu351/Doberman-Core)
+* **agent-security-scanner-mcp** (⭐ 116 stars) - Security scanner MCP server for AI coding agents with vulnerability rules and auto-fix [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+#### 🔒 Security of Agents
+* **symfony-security-auditor** (⭐ 76 stars) - AI-powered multi-agent security auditor for Symfony applications [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-11)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
