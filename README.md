@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls** - Cyberattacks on operational technology and the limitations of traditional rule-based systems. [Link](https://arxiv.org/abs/2607.09076)
+* **Beyond Black-Box Obfuscation: Mechanistic Analysis and Defense of White-Box Monitors** - White-box monitoring as an auditing tool for safe operations of LLMs. [Link](https://arxiv.org/abs/2505.14300)
+* **symfony-security-auditor (⭐ 77 stars)** - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **sigma-ai (⭐ 15 stars)** - Sigma detection rules for AI agent security monitoring. [Link](https://github.com/agentshield-ai/sigma-ai)
+* **awesome-ai-agent-attacks (⭐ 35 stars)** - A curated timeline of real AI agent security incidents, breaches, and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+#### 🔒 Security of Agents
+* **trident (⭐ 28 stars)** - Azure Linux servicing agent focused on security installation and updates. [Link](https://github.com/microsoft/trident)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-12)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
