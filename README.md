@@ -1,5 +1,22 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **A Knowledge-Based Multi-Agent Framework for Security Control Recommendation** - Framework for cybersecurity decision support. [Link](https://arxiv.org/abs/2607.09954)
+* **symfony-security-auditor** (⭐ 78 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Adrian** (⭐ 391 stars) - Open-source runtime AI agent security tool for monitoring and controlling AI agents. [Link](https://github.com/secureagentics/Adrian)
+* **awesome-ai-security-tools** (⭐ 101 stars) - Curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **Awesome-LLMSecOps** (⭐ 144 stars) - Repository focused on LLM security and operations. [Link](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)
+
+#### 🔒 Security of Agents
+* **Adrian** (⭐ 391 stars) - Open-source runtime AI agent security tool for monitoring and controlling AI agents. [Link](https://github.com/secureagentics/Adrian)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-13)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
