@@ -1,5 +1,23 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **A Knowledge-Based Multi-Agent Framework for Security Control Recommendation** - Framework for cybersecurity recommendations using multi-agent systems. [Link](https://arxiv.org/abs/2607.09954)
+* **awesome-ai-security-tools** (⭐ 104 stars) - Curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **symfony-security-auditor** (⭐ 78 stars) - AI-powered security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **shep** (⭐ 231 stars) - Tool for faster feature shipping with built-in security capabilities. [Link](https://github.com/shep-ai/shep)
+* **trident** (⭐ 28 stars) - Security-focused agent for Azure Linux servicing. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation** - Discusses vulnerabilities in AI navigation systems due to adversarial attacks. [Link](https://arxiv.org/abs/2607.11063)
+* **Safety from Honesty in a Disinterested AI Predictor** - Explores risks of implicit agency in AI systems and their training. [Link](https://arxiv.org/abs/2606.29657)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-14)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
