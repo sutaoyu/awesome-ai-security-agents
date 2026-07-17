@@ -1,5 +1,23 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows** - Discusses the use of LLMs in fraud detection and trust-and-safety workflows. [Link](https://arxiv.org/abs/2607.13078)
+* **Adrian** (⭐ 398 stars) - Open-source runtime AI agent security tool that monitors and controls AI agents. [Link](https://github.com/secureagentics/Adrian)
+* **shep** (⭐ 231 stars) - Tool for shipping features faster with built-in security for AI agents. [Link](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Focuses on safeguarding LLM agents from harmful actions. [Link](https://arxiv.org/abs/2607.13594)
+* **Mind the Gap: Action Rebinding Attacks against Android GUI Agents** - Explores vulnerabilities in GUI agents on mobile platforms. [Link](https://arxiv.org/abs/2601.12349)
+* **agentic-security** (⭐ 73 stars) - Aims to build secure and compliant AI agent workflows. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **symfony-security-auditor** (⭐ 80 stars) - AI-powered security auditor for Symfony applications, focusing on agent security. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-16)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
