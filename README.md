@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agent-threat-rules** (⭐ 318 stars) - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, monitoring, and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **LLMVault** (⭐ 183 stars) - Intentionally vulnerable training platform for AI Security and prompt injection defense. [Link](https://github.com/CyberSunil/LLMVault)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-17)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
