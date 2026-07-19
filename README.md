@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **agent-threat-rules** (⭐ 325 stars) - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, prompt injection defense, and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **LLMVault** (⭐ 200 stars) - Intentionally vulnerable training platform for AI Security and penetration testing. [Link](https://github.com/CyberSunil/LLMVault)
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 73 stars) - Build faster with an Agentic Workforce, focusing on safety and compliance. [Link](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-18)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
