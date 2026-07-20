@@ -1,5 +1,24 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 299 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, prompt injection defense, and secure AI deployment [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction** - Framework addressing safety in mobile GUI agents [Link](https://arxiv.org/abs/2607.15550)
+* **Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking** - Discusses jailbreak techniques for large language models [Link](https://arxiv.org/abs/2602.24009)
+* **AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations** - Focuses on threats from indirect prompt injection in tool-use agents [Link](https://arxiv.org/abs/2606.02240)
+* **Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents** - Evaluates security agents' capabilities, emphasizing vulnerability discovery [Link](https://arxiv.org/abs/2607.15263)
+* **agent-threat-rules** (⭐ 336 stars) - Open detection-rule standard for AI agent security threats [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-19)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
