@@ -1,5 +1,24 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 407 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **agent-threat-rules** (⭐ 340 stars) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+#### 🔒 Security of Agents
+* **PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection** - Discusses attacks on multi-agent LLM systems through prompt injection. [Link](https://arxiv.org/abs/2607.16199)
+* **Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?** - Explores how self-hosted AI agents can be compromised through their own memory and configuration files. [Link](https://arxiv.org/abs/2607.17986)
+* **Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security** - Introduces a benchmark for evaluating the security of LLM-based agents against prompt injection and manipulation. [Link](https://arxiv.org/abs/2607.18063)
+* **awesome-ai-agent-attacks** (⭐ 38 stars) - A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry sourced and dated. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **piolium** (⭐ 57 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+* **CyberGym-E2E: Scalable Real-World Benchmark for AI Agents' End-to-End Cybersecurity Capabilities** - Discusses the potential of AI in transforming cybersecurity through autonomous detection and remediation of vulnerabilities. [Link](https://arxiv.org/abs/2606.04460)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-20)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
