@@ -1,5 +1,23 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agent-threat-rules** (⭐ 343 stars) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentshield** (⭐ 1007 stars) - AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️ [Link](https://github.com/affaan-m/agentshield)
+* **Doberman-Core** (⭐ 113 stars) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **Operational Hallucination and Safety Drift in AI Agents** - Discusses reliability risks in AI agents using LLMs in multi-turn execution. [Link](https://arxiv.org/abs/2607.18366)
+* **Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing** - Examines security risks of LLM agents in high-performance computing environments. [Link](https://arxiv.org/abs/2607.18485)
+* **Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents** - Analyzes the changing threat landscape for web security due to LLM-based browser agents. [Link](https://arxiv.org/abs/2607.18659)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-21)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
