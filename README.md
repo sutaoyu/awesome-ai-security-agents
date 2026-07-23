@@ -1,5 +1,27 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Operational Hallucination and Safety Drift in AI Agents** - Discusses reliability risks in AI agents using LLMs for planning. [Link](https://arxiv.org/abs/2607.18366)
+* **SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring** - Examines the risks of LLMs in converting hazardous knowledge into actionable misuse. [Link](https://arxiv.org/abs/2607.18665)
+* **Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing** - Evaluates LLM agents in HPC environments for security monitoring and diagnostics. [Link](https://arxiv.org/abs/2607.18485)
+* **Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents** - Analyzes the impact of LLM-based browser agents on web security. [Link](https://arxiv.org/abs/2607.18659)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 143 stars) - Curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **OpenHack** (⭐ 306 stars) - Open Source Agentic Security Scanner. [Link](https://github.com/openhackai/OpenHack)
+* **agent-threat-rules** (⭐ 347 stars) - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+#### 🔒 Security of Agents
+* **Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing** - Focuses on the security of LLM agents in HPC environments. [Link](https://arxiv.org/abs/2607.18485)
+* **Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents** - Discusses the security challenges posed by LLM-based browser agents. [Link](https://arxiv.org/abs/2607.18659)
+* **agent-threat-rules** (⭐ 347 stars) - Provides detection rules for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-22)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
