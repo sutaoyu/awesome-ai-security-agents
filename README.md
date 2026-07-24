@@ -1,5 +1,23 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **AI Security Policy Should Assess Systems, Not Only Models** - Discusses an adversarial testing framework for AI agents. [Link](https://arxiv.org/abs/2605.09504)
+* **Adrian** (⭐ 421 stars) - Open-source runtime AI agent security tool that monitors and controls AI agents in real time. [Link](https://github.com/secureagentics/Adrian)
+
+#### 🔒 Security of Agents
+* **Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation** - Explores authorization for autonomous AI agents. [Link](https://arxiv.org/abs/2607.21325)
+* **SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety** - Focuses on safety mechanisms for LLM agents. [Link](https://arxiv.org/abs/2605.05704)
+* **Doberman-Core** (⭐ 113 stars) - AI agent security framework for various protective measures. [Link](https://github.com/fu351/Doberman-Core)
+* **agent-threat-rules** (⭐ 349 stars) - Detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agent-security-scanner-mcp** (⭐ 117 stars) - Security scanner for AI coding agents with various detection capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-23)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
