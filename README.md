@@ -1,5 +1,20 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 113 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **OpenHack** (⭐ 309 stars) - Open Source Agentic Security Scanner. [Link](https://github.com/openhackai/OpenHack)
+
+#### 🔒 Security of Agents
+* **agent-threat-rules** (⭐ 349 stars) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-24)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
