@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 311 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 820 stars) - A curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **agent-security-scanner-mcp** (⭐ 117 stars) - Security scanner MCP server for AI coding agents with various detection capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+#### 🔒 Security of Agents
+* **agent-security-scanner-mcp** (⭐ 117 stars) - Security scanner MCP server for AI coding agents with prompt injection firewall and vulnerability rules. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-25)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
