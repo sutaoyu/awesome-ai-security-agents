@@ -1,5 +1,24 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-27)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT** - A consensus-based approach to enhance security in IIoT environments using multi-agent systems. [Link](https://arxiv.org/abs/2601.17303)
+* **ASEval: Automated Trajectory-Level Security Testing for Autonomous Agents** - Focuses on security testing for autonomous agents operating with deep system-level privileges. [Link](https://arxiv.org/abs/2605.22321)
+* **agentic-security (⭐ 73 stars)** - Build faster with an Agentic Workforce. Safe, secure, and compliant is now the default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **awesome-ai-security-tools (⭐ 892 stars)** - A curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **ToolGuardian: Declarative Security for AI Agent-Tool Interactions** - Discusses security boundaries created by LLM agents using third-party tools. [Link](https://arxiv.org/abs/2607.21835)
+* **Agent Security Needs Redefinition through a Holistic Framework** - Proposes a new framework for understanding agent security beyond just action content. [Link](https://arxiv.org/abs/2607.22024)
+* **sigma-ai (⭐ 15 stars)** - Sigma detection rules for monitoring AI agent security. [Link](https://github.com/agentshield-ai/sigma-ai)
+* **awesome-ai-agent-attacks (⭐ 42 stars)** - A timeline of real AI agent security incidents, breaches, and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-26)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
