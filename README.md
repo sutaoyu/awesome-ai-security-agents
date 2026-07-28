@@ -1,5 +1,24 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT** - Focuses on security in IIoT environments using multi-agent systems. [Link](https://arxiv.org/abs/2601.17303)
+* **ASEval: Automated Trajectory-Level Security Testing for Autonomous Agents** - Discusses security testing for autonomous agents operating with deep privileges. [Link](https://arxiv.org/abs/2605.22321)
+* **trident (⭐ 29 stars)** - Azure Linux servicing agent focused on security installation, provisioning, and updates. [Link](https://github.com/microsoft/trident)
+* **agentic-security (⭐ 73 stars)** - A framework for building secure and compliant AI agents. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **orbit (⭐ 14 stars)** - A benchmarking framework for multi-agent security. [Link](https://github.com/wlanderson0/orbit)
+* **agent-threat-rules (⭐ 354 stars)** - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+#### 🔒 Security of Agents
+* **ToolGuardian: Declarative Security for AI Agent-Tool Interactions** - Addresses security boundaries in AI agent interactions with third-party tools. [Link](https://arxiv.org/abs/2607.21835)
+* **Agent Security Needs Redefinition through a Holistic Framework** - Proposes a new framework for understanding agent security beyond action content. [Link](https://arxiv.org/abs/2607.22024)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-27)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
