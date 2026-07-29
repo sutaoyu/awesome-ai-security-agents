@@ -1,5 +1,21 @@
 
 
+### 📅 Daily Security Intelligence (2026-07-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 314 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **Adrian** (⭐ 472 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **Distributing Security Controls Through Harness Engineering** - AI coding agents are being adopted at historic speed, yet security and risk concerns remain the primary barrier to scaling agentic AI across organizations. [Link](https://arxiv.org/abs/2607.25890)
+* **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - We present key challenges and future research directions in the security and privacy of agentic AI, based on a horizon-scanning exercise that... [Link](https://arxiv.org/abs/2607.06608)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-07-28)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
