@@ -33,6 +33,7 @@ jobs:
     - name: Fetch Data, Generate Content and Append
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        AI_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}  # 🌟 注入用于大模型推理的个人 Token
       run: |
         python - <<EOF
         import os
@@ -117,9 +118,11 @@ jobs:
         print("🤖 正在将抓取到的数据交给 GitHub Models (gpt-4o-mini) 进行智能化排版...")
         
         endpoint = "https://models.inference.ai.azure.com/chat/completions"
+        ai_token = os.environ.get("AI_TOKEN") # 🌟 获取独立的 AI Token
+        
         ai_headers = {
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {gh_token}"
+            "Authorization": f"Bearer {ai_token}" # 🌟 使用个人 Token 进行大模型鉴权
         }
         
         prompt = f"""
@@ -196,11 +199,11 @@ jobs:
         with open(readme_path, "r", encoding="utf-8") as f:
             readme_text = f.read()
 
-        # 必须确保 README.md 中存在此 HTML 注释作为插入点
-        marker = ""
+        # 🌟 修复：补全了丢失的 marker 变量
+        marker = "<!-- DAILY_REPORT_MARKER -->"
         
         if marker not in readme_text:
-            print("❌ 致命错误：在 README.md 中未找到插入占位符！请在 README 中添加 ")
+            print(f"❌ 致命错误：在 README.md 中未找到插入占位符！请在 README 中添加 {marker}")
             exit(1)
             
         new_readme_text = readme_text.replace(marker, f"{marker}\n{report_content}", 1)
