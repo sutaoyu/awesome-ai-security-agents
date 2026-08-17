@@ -5,7 +5,6 @@ env:
 
 on:
   schedule:
-    # 每天 UTC 时间 19:17 执行（北京时间次日凌晨 03:17）
     - cron: '17 19 * * *'
   workflow_dispatch:
 
@@ -14,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      models: read   # 允许调用 GitHub 内置大模型
 
     steps:
     - name: Checkout repository
@@ -28,12 +26,13 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        # 移除了大模型专属 SDK，只需要极简的 requests 即可调用 DeepSeek
         pip install requests feedparser
 
     - name: Fetch Data, Generate Content and Append
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        AI_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}  # 🌟 注入用于大模型推理的个人 Token
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}  # 🌟 注入 DeepSeek 密钥
       run: |
         python - <<EOF
         import os
@@ -65,7 +64,7 @@ jobs:
         print(f"✅ 获取到 {count} 篇 arXiv 论文。")
 
         # ==========================================
-        # 2. 抓取 GitHub (官方 API + Star>10 过滤)
+        # 2. 抓取 GitHub (增加 Star > 10 过滤)
         # ==========================================
         print("正在获取 GitHub 最新高质量开源项目...")
         gh_token = os.environ.get("GITHUB_TOKEN")
@@ -76,7 +75,6 @@ jobs:
         }
         
         days_ago_str = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
-        # 增加 stars:>10 过滤垃圾仓库
         gh_url = f'https://api.github.com/search/repositories?q="agent+security"+pushed:>{days_ago_str}+stars:>10&sort=updated&order=desc&per_page=4'
         
         gh_data = ""
@@ -97,7 +95,7 @@ jobs:
                 
                 elif gh_resp.status_code in [403, 429]:
                     sleep_time = 30 * (attempt + 1)
-                    print(f"⚠️ 触发 GitHub API 限流保护 (状态码 {gh_resp.status_code})。休眠 {sleep_time} 秒后重试...")
+                    print(f"⚠️ 触发 GitHub 搜索 API 限流保护 (状态码 {gh_resp.status_code})。深度休眠 {sleep_time} 秒后重试...")
                     time.sleep(sleep_time)
                 else:
                     print(f"❌ GitHub API 请求失败: HTTP {gh_resp.status_code}")
@@ -113,16 +111,19 @@ jobs:
             exit(0)
 
         # ==========================================
-        # 3. GitHub Models 数据融合排版
+        # 3. DeepSeek 数据融合排版
         # ==========================================
-        print("🤖 正在将抓取到的数据交给 GitHub Models (gpt-4o-mini) 进行智能化排版...")
+        print("🤖 正在将抓取到的数据交给 DeepSeek (deepseek-v4-flash) 进行智能化排版...")
         
-        endpoint = "https://models.inference.ai.azure.com/chat/completions"
-        ai_token = os.environ.get("AI_TOKEN") # 🌟 获取独立的 AI Token
-        
+        deepseek_key = os.environ.get("DEEPSEEK_API_KEY")
+        if not deepseek_key:
+            print("❌ 致命错误：未找到 DEEPSEEK_API_KEY！请在仓库 Secrets 中配置。")
+            exit(1)
+            
+        endpoint = "https://api.deepseek.com/chat/completions"
         ai_headers = {
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {ai_token}" # 🌟 使用个人 Token 进行大模型鉴权
+            "Authorization": f"Bearer {deepseek_key}"
         }
         
         prompt = f"""
@@ -150,8 +151,9 @@ jobs:
         * **[Name]** [Include (⭐ Stars) if it is a GitHub repo] - [Brief Description] [Link]
         """
         
+        # 使用 DeepSeek 最新版 deepseek-v4-flash [cite: 1.1.1]
         payload = {
-            "model": "gpt-4o-mini",
+            "model": "deepseek-v4-flash",
             "messages": [
                 {"role": "system", "content": "You are an expert AI cybersecurity analyst."},
                 {"role": "user", "content": prompt}
@@ -169,14 +171,14 @@ jobs:
                 if ai_resp.status_code == 200:
                     result_json = ai_resp.json()
                     report_text = result_json['choices'][0]['message']['content'].strip()
-                    print("✅ GitHub Models 排版成功完成！")
+                    print("✅ DeepSeek 排版成功完成！")
                     break
                 elif ai_resp.status_code == 429:
                     sleep_time = 20 * (attempt + 1)
-                    print(f"⚠️ AI 推理接口限流 (尝试 {attempt + 1}/{max_ai_retries})。休眠 {sleep_time} 秒后重试...")
+                    print(f"⚠️ DeepSeek API 限流 (尝试 {attempt + 1}/{max_ai_retries})。休眠 {sleep_time} 秒后重试...")
                     time.sleep(sleep_time)
                 else:
-                    print(f"❌ AI 推理失败 (HTTP {ai_resp.status_code}): {ai_resp.text}")
+                    print(f"❌ DeepSeek 推理失败 (HTTP {ai_resp.status_code}): {ai_resp.text}")
                     if attempt == max_ai_retries - 1:
                         exit(1)
                     time.sleep(10)
@@ -192,18 +194,16 @@ jobs:
         # ==========================================
         today_str = datetime.now().strftime("%Y-%m-%d")
         report_content = f"\n### 📅 Daily Security Intelligence ({today_str})\n\n"
-        report_content += "> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* \n\n"
+        report_content += "> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* \n\n"
         report_content += report_text + "\n\n---\n"
 
         readme_path = "README.md"
         with open(readme_path, "r", encoding="utf-8") as f:
             readme_text = f.read()
 
-        # 🌟 修复：补全了丢失的 marker 变量
         marker = "<!-- DAILY_REPORT_MARKER -->"
-        
         if marker not in readme_text:
-            print(f"❌ 致命错误：在 README.md 中未找到插入占位符！请在 README 中添加 {marker}")
+            print("❌ 致命错误：在 README.md 中未找到插入占位符！请在 README 中添加 <!-- DAILY_REPORT_MARKER -->")
             exit(1)
             
         new_readme_text = readme_text.replace(marker, f"{marker}\n{report_content}", 1)
