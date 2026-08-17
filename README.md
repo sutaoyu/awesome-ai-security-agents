@@ -6,6 +6,22 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* **rust-in-peace** (⭐ 14) - Agentic security review for Rust: autonomous find/triage/patch for unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws. https://github.com/scadastrangelove/rust-in-peace
+* **agentic-security** (⭐ 73) - Build faster with an Agentic Workforce where safe, secure, and compliant is the default. https://github.com/Clear-Capabilities/agentic-security
+
+#### 🔒 Security of Agents
+* **Adrian** (⭐ 542) - Runtime AI agent security tool that monitors/controls agents, catching malicious tool use, prompt injection, and policy drift in real time. https://github.com/secureagentics/Adrian
+* **awesome-ai-agent-attacks** (⭐ 65) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). https://github.com/webpro255/awesome-ai-agent-attacks
+* **Sensor-Driven Mission Synthesis for UAV/UGV Swarms** - Coordination architecture for UAV/UGV swarms with hardware-enforced safety; relevant to securing autonomous agent operations. https://arxiv.org/abs/2608.14306
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **awesome-ai-security-tools** (⭐ 1063) - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, SOC/SIEM triage, AI SAST, and LLM red-teaming. https://github.com/scadastrangelove/awesome-ai-security-tools
 
 #### 🔒 Security of Agents
