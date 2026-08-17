@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools** (⭐ 1063) - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, SOC/SIEM triage, AI SAST, and LLM red-teaming. https://github.com/scadastrangelove/awesome-ai-security-tools
+
+#### 🔒 Security of Agents
+* **Sensor-Driven Mission Synthesis for UAV/UGV Swarms** - Coordination architecture for autonomous UAV/UGV swarms with hardware-enforced safety. https://arxiv.org/abs/2608.14306
+* **agentic-security** (⭐ 73) - Agentic workforce platform with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 371) - Open detection-rule standard for AI agent security threats, merged into major frameworks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **mcp-agent-security-gateway** (⭐ 12) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
 
 ### 📅 Daily Security Intelligence (2026-07-29)
 
