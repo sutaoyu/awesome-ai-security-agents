@@ -1,4 +1,6 @@
 
+<!-- DAILY_REPORT_MARKER -->
+
 
 ### 📅 Daily Security Intelligence (2026-07-29)
 
