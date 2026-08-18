@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* [SysEvolve](https://arxiv.org/abs/2608.15012) - An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system for cybersecurity.
+* [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) (⭐ 15 stars) - Agentic security review for Rust; autonomously finds, triages, and patches unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws.
+
+#### 🔒 Security of Agents
+* [Beyond Pass@k](https://arxiv.org/abs/2608.14711) - Analyzes misapplication of pass@k in AI coding agent benchmarks, focusing on reliability and security measurement of agentic code generation.
+* [Bounded Agents](https://arxiv.org/abs/2608.15888) - Introduces delegation security for multi-agent AI systems to control permissions and protect agent actions as session start.
+* [Workspace Topology as an Attack Vector](https://arxiv.org/abs/2608.14876) - Identifies workspace topology as an attack vector against agentic coding assistants.
+* [agentic_security](https://github.com/msoedov/agentic_security) (⭐ 1966 stars) - Agentic LLM vulnerability scanner / AI red teaming kit.
+* [Adrian](https://github.com/secureagentics/Adrian) (⭐ 542 stars) - Runtime AI agent security tool that monitors and controls agents, catching malicious tool use, prompt injection, and policy drift in real time.
+* [agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 371 stars) - Open detection-rule standard for AI agent security threats; executable rules across 10 categories.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-17)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
