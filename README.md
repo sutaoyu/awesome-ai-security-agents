@@ -17,7 +17,7 @@
 ---
 
 
-### 📅 Daily Security Intelligence (2026-08-17)
+### 📅 Daily Security Intelligence (2026-08-16)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
