@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident]** (⭐ 30) - Azure Linux servicing agent - security focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **[Auditing Self-Evolution in Financial Agents: Capability Gains, Security Drift, and Execution-Interface Mismatch]** - Audits security drift in self-evolving financial agents. https://arxiv.org/abs/2608.17684
+* **[When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling]** - Surveys the attack surface of agent tool calling and MCP ecosystems. https://arxiv.org/abs/2608.17275
+* **[HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety]** - Benchmark for safety of agent harnesses managing tools, permissions, and external actions. https://arxiv.org/abs/2608.17597
+* **[MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps]** - Benchmarks GUI agent safety against environmental injection attacks. https://arxiv.org/abs/2608.17659
+* **[agentic-security]** (⭐ 73) - Build faster with an Agentic Workforce; safe, secure, and compliant by default. https://github.com/Clear-Capabilities/agentic-security
+* **[agent-threat-rules]** (⭐ 371) - Open detection-rule standard for AI agent security threats, like Sigma for AI agents. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **[mcp-agent-security-gateway]** (⭐ 17) - Monitor MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-18)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
