@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **attachment** (⭐ 31) - Connects processes providing HTTP data to the open-appsec Agent security logic. [Link](https://github.com/openappsec/attachment)
+
+#### 🔒 Security of Agents
+* **Breaking Planner Integrity Boundary: Enviroment State-Text Injection Attack on LLM-Driven Embodied Agents** - Explores environment state‑text injection attacks against LLM‑driven embodied agents. [Link](https://arxiv.org/abs/2608.16806)
+* **agentic-security** (⭐ 73) - Builds a safe, secure, and compliant Agentic Workforce by default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+* **agent-threat-rules** (⭐ 371) - Open detection‑rule standard for AI agent security threats, like Sigma for AI agents, spanning 10 categories. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-19)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
