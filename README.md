@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* _No items_
+
+#### 🔒 Security of Agents
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 372)** - Open detection-rule standard for AI agent security threats, covering 10 categories and integrated with major security frameworks.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 74)** - Framework for building secure, compliant agentic workforces.
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration.
+* **[WebCrypt](https://github.com/putervision/WebCrypt) (⭐ 20)** - Web Crypto suite and MCP server providing encryption and AI agent security.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-21)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
