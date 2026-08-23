@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)** (⭐ 86) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
+
+#### 🔒 Security of Agents
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)** (⭐ 373) - Open detection-rule standard for AI agent security threats, like Sigma but for AI agents.
+* **[Awesome-LLMSecOps](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)** (⭐ 152) - Curated repository of resources on LLM, agentic security, and operations.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security)** (⭐ 78) - Framework for building agentic workforces with secure, safe, and compliant defaults.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-22)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
