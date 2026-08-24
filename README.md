@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[Large Language Models at the Intersection of Software Engineering and Software Security: An Evidence-Centered Structured Survey and Research Agenda]** - Structured survey and research agenda on LLM-driven agents in software engineering and software security. [https://arxiv.org/abs/2608.21107](https://arxiv.org/abs/2608.21107)
+* **[Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents]** - Analyzes failure modes in long-horizon security-focused LLM agents. [https://arxiv.org/abs/2608.20563](https://arxiv.org/abs/2608.20563)
+* **[awesome-ai-security-tools (⭐ 1082 stars)]** - Curated list of AI security and AI-assisted cybersecurity tools, including pentest agents, AI SAST, LLM-driven fuzzing, SOC/SIEM triage, and red-teaming. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **[ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models]** - Test-time safety alignment approach for multimodal LLMs. [https://arxiv.org/abs/2608.21100](https://arxiv.org/abs/2608.21100)
+* **[Vibe Coding and Web Application Security: A Twin-Prompt Study]** - Investigates whether explicit security prompting changes security outcomes in LLM-generated web applications. [https://arxiv.org/abs/2608.20963](https://arxiv.org/abs/2608.20963)
+* **[mcp-agent-security-gateway (⭐ 17 stars)]** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **[agent-threat-rules (⭐ 373 stars)]** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **[Awesome-Agentic-Security (⭐ 51 stars)]** - Curated list of 260+ papers/resources on Agentic Security: applications (Red/Blue Teaming), threats (Injection, Poisoning), and defenses (Guardrails, Verification). [https://github.com/kagnlp/Awesome-Agentic-Security](https://github.com/kagnlp/Awesome-Agentic-Security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-23)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
