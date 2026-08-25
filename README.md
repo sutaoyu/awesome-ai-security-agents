@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities](https://arxiv.org/abs/2608.21444)** - Explores agentic AI for safety-critical multi-drone missions such as search and rescue and critical infrastructure monitoring.
+* **[Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing](https://arxiv.org/abs/2608.21423)** - Systematizes LLM-driven agents used to plan, dispatch, and interpret security tools for penetration testing.
+* **[trident](https://github.com/microsoft/trident) (⭐ 30 stars)** - Microsoft's Azure Linux servicing agent focused on security-focused install, provisioning, and update.
+
+#### 🔒 Security of Agents
+* **[MEMORY Wins All: Indirect Bias Injection Attacks via Social Media Feeds](https://arxiv.org/abs/2608.22061)** - Shows indirect bias injection attacks against personal AI agents that consume external content such as social media feeds.
+* **[InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://arxiv.org/abs/2608.23471)** - Attacks persistent memory subsystems being adopted in deployed LLM agents.
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 27 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, decision governance, and skill supply chain.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 373 stars)** - Open detection-rule standard for AI agent security threats, with rules adopted by major security frameworks.
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-24)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
