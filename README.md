@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident]** (⭐ 30 stars) - Azure Linux servicing agent focused on security install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **[RePolicy]** - Reinforcement learning for safety-policy invocation in AI agent safeguards. [Link](https://arxiv.org/abs/2608.24275)
+* **[StepGuard]** - Step-level guardrails protecting LLM agent tool use via safety-utility balancing. [Link](https://arxiv.org/abs/2608.24777)
+* **[TrustShiftProbe]** - Characterizes, benchmarks, and defends against staged trust attacks on MCP servers. [Link](https://arxiv.org/abs/2608.23763)
+* **[Beyond the Mandate]** - Systematic security analysis of the Agent Payments Protocol (AP2) for LLM shopping agents. [Link](https://arxiv.org/abs/2608.23858)
+* **[agentic-security]** (⭐ 79 stars) - Agentic workforce platform with safe, secure, and compliant defaults. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **[red-team-blue-team-agent-fabric]** (⭐ 28 stars) - AI agent security harness for adversarial testing across MCP, A2A, protocols, OWASP Agentic, and NIST. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **[awesome-ai-agent-attacks]** (⭐ 66 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-25)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
