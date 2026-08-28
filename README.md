@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident](https://github.com/microsoft/trident) (⭐ 30 stars)** - Azure Linux servicing agent for security-focused installation, provisioning, and updates.
+
+#### 🔒 Security of Agents
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 81 stars)** - Enables safe, secure, and compliant agentic workforce by default.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 376 stars)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-26)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
