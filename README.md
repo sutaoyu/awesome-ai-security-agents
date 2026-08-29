@@ -1,6 +1,24 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation]** - Evaluates LLM agents' offensive security capabilities in CTF benchmarks via trace-level provenance. [Link](https://arxiv.org/abs/2608.26237)
+* **[trident (⭐ 30)]** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents]** - Analyzes safety issues in long-running autonomous LLM agent loops. [Link](https://arxiv.org/abs/2608.27141)
+* **[RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards]** - Safeguards LLM agents by learning context-dependent safety-policy invocation. [Link](https://arxiv.org/abs/2608.24275)
+* **[red-team-blue-team-agent-fabric (⭐ 28)]** - AI agent security harness with adversarial tests covering OWASP Agentic threats across MCP, A2A, and more. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **[agent-threat-rules (⭐ 376)]** - Open detection-rule standard for AI agent security threats, similar to Sigma but for agents. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **[mcp-agent-security-gateway (⭐ 17)]** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-28)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
