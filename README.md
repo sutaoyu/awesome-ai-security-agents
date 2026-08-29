@@ -6,6 +6,21 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* **[trident](https://github.com/microsoft/trident) (⭐ 30)** - Azure Linux servicing agent focused on security-focused install, provisioning, and update.
+
+#### 🔒 Security of Agents
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 28)** - AI agent security harness with 606 executable adversarial/conformance tests across MCP, A2A, x402/L402, and governance; aligned with OWASP Agentic and NIST.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 85)** - Platform for building an Agentic Workforce with safe, secure, and compliant defaults.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 376)** - Open detection-rule standard for AI agent security threats, like Sigma but for AI agents, with executable rules across 10 categories.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **[How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation]** - Evaluates LLM agents' offensive security capabilities in CTF benchmarks via trace-level provenance. [Link](https://arxiv.org/abs/2608.26237)
 * **[trident (⭐ 30)]** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [Link](https://github.com/microsoft/trident)
 
