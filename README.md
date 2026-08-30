@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+*No items found in the provided data.*
+
+#### 🔒 Security of Agents
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 28)** - AI agent security harness with adversarial testing; includes 608 executable tests across MCP, A2A, x402/L402, governance, and more, aligned with OWASP Agentic v1.1, AIUC-1, and NIST AI 800-2.
+* **[DVLAA](https://github.com/Tcotl/DVLAA) (⭐ 18)** - Damn Vulnerable LLM and Agent Application; a local security range for OWASP LLM Top 10 and agent security training.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 376)** - Open detection-rule standard for AI agent security threats, similar to Sigma but for agents; executable rules across 10 categories, adopted by Microsoft, Cisco, MISP, OWASP, and others.
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-29)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
