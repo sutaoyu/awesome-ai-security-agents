@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-08-31)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment** - Survey of LLM agents applied to software and systems security workflows, including artifact inspection, hypothesis formation, tool use, and interpretation. [Link](https://arxiv.org/abs/2608.28490)
+* **awesome-ai-security-tools** (⭐ 1095) - Curated list of AI security and AI-assisted cybersecurity tools, including autotriage, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, and reverse engineering. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI** - Investigates how automatic speech recognition errors in voice commands can lead to unsafe outputs from embodied AI agents. [Link](https://arxiv.org/abs/2608.28518)
+* **CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?** - Studies prompt-injection attacks on LLM agents and whether agents can autonomously generate defenses. [Link](https://arxiv.org/abs/2608.27990)
+* **The Autonomy Tax: Defense Training Breaks LLM Agents** - Analyzes how defense training can degrade the autonomous tool-use capabilities of LLM agents. [Link](https://arxiv.org/abs/2603.19423)
+* **red-team-blue-team-agent-fabric** (⭐ 28) - AI agent security harness with adversarial testing across MCP, A2A, x402/L402, decision governance, and human-in-the-loop. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules** (⭐ 377) - Open, Sigma-like detection-rule standard for AI agent security threats across 10 categories. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentic_security** (⭐ 1980) - Agentic LLM vulnerability scanner and AI red-teaming kit. [Link](https://github.com/msoedov/agentic_security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-30)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
