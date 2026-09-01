@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment** - Overview of LLM agents applied to software and systems security workflows. [Link](https://arxiv.org/abs/2608.28490)
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on security-focused install, provisioning, and updates. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI** - Investigates how ASR input errors can cause unsafe outputs in Embodied AI agents. [Link](https://arxiv.org/abs/2608.28518)
+* **CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?** - Explores LLM agent defenses against prompt injection attacks. [Link](https://arxiv.org/abs/2608.27990)
+* **The Autonomy Tax: Defense Training Breaks LLM Agents** - Analyzes how defense training impacts LLM agent autonomy and tool use. [Link](https://arxiv.org/abs/2603.19423)
+* **red-team-blue-team-agent-fabric** (⭐ 28 stars) - AI agent security harness with adversarial tests across MCP, A2A, x402/L402, governance, and more. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **awesome-ai-agent-attacks** (⭐ 66 stars) - Curated and dated timeline of real AI agent security incidents and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **agentic_security** (⭐ 1982 stars) - LLM vulnerability scanner and AI red teaming kit for agentic systems. [Link](https://github.com/msoedov/agentic_security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-08-31)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
