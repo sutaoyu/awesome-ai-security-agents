@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-02)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **auditor-skill** (⭐ 52) - Claude Code / agentic security skill for auditing Solana programs and software, with checklists, PoC + fix-patch delivery, and real-world attack vectors. [Link](https://github.com/solanabr/auditor-skill)
+
+#### 🔒 Security of Agents
+* **OpenAgentFlow** - Paper on enabling system-wide safety boundaries for heterogeneous AI agent fleets. [Link](https://arxiv.org/abs/2609.00015)
+* **Jailbreaking Text-to-Image Models Through Cracks** - Paper on using multi-agent debate to jailbreak T2I models by navigating heterogeneous safety filters. [Link](https://arxiv.org/abs/2609.01168)
+* **Distributed Implicit Harm** - Paper exposing a compositional safety blind spot in MLLM-based video moderation. [Link](https://arxiv.org/abs/2609.00206)
+* **SoK: When Safe Agents Fail Together** - Paper systematizing the security of multi-agent LLM systems. [Link](https://arxiv.org/abs/2609.00595)
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+* **red-team-blue-team-agent-fabric** (⭐ 28) - AI agent security harness and adversarial testing framework for agent protocols, governance, and supply chains. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **DVLAA** (⭐ 26) - Damn Vulnerable LLM and Agent Application, a local security range for LLM and agent attack training. [Link](https://github.com/Tcotl/DVLAA)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-01)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
