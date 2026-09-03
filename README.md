@@ -1,6 +1,26 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None of the provided items clearly falls into this category — no item is an AI agent used for cybersecurity auditing, defense, or monitoring.
+
+#### 🔒 Security of Agents
+* **SafeEvolve** - Paper on safety alignment for LLM agents through harness-policy co-evolution from agent experience. https://arxiv.org/abs/2609.02786
+* **Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions** - Paper defining isolation as a foundational safety principle for LLM-agent systems. https://arxiv.org/abs/2607.12406
+* **SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction** - Paper presenting a world-model-based safety framework for mobile GUI agents. https://arxiv.org/abs/2607.15550
+* **OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets** - Paper proposing system-wide safety boundaries for heterogeneous AI agent fleets. https://arxiv.org/abs/2609.00015
+* **agentic-security** (⭐ 92 stars) - Platform for building with an Agentic Workforce, with safety, security, and compliance as defaults. https://github.com/Clear-Capabilities/agentic-security
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Gateway that monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+* **red-team-blue-team-agent-fabric** (⭐ 29 stars) - AI-agent security and adversarial-testing harness with executable tests across MCP, A2A, x402/L402, and related agent-security areas. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agent-threat-rules** (⭐ 381 stars) - Open, executable detection-rule standard for AI-agent security threats across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-02)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
