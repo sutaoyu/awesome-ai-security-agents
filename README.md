@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-04)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center]** - Improves LLM-based SOC agents by offloading topological reasoning to make autonomous analysts more reliable. [https://arxiv.org/abs/2609.04159]
+* **[trident]** (⭐ 32) - Microsoft Azure Linux servicing agent focused on secure installation, provisioning, and updates. [https://github.com/microsoft/trident]
+* **[awesome-ai-security-tools]** (⭐ 1102) - Curated list covering AI security and AI-assisted cybersecurity, including autotriage, pentest agents, SOC/SIEM triage, and related categories. [https://github.com/scadastrangelove/awesome-ai-security-tools]
+
+#### 🔒 Security of Agents
+* **[Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning]** - Uses federated graph learning to safeguard LLM-based multi-agent systems and localize risky agents. [https://arxiv.org/abs/2609.02967]
+* **[A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors]** - Describes attacks where attacker-controlled lifecycle hook updates push AI agent harnesses toward malicious behavior. [https://arxiv.org/abs/2609.03884]
+* **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents]** - Examines safety issues for autonomous LLM agents caused by non-decaying state across repeated execution loops. [https://arxiv.org/abs/2608.27141]
+* **[agentic-security]** (⭐ 93) - Provides safe, secure, and compliant defaults for building with an agentic AI workforce. [https://github.com/Clear-Capabilities/agentic-security]
+* **[Awesome-GUI-Agent-Security]** (⭐ 50) - Curated list of GUI / computer-use / browser agent security papers organized by attack and defense perspectives. [https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-03)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
