@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-05)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **SENTINEL-RL** - Offloads topological reasoning from LLM agents for use as autonomous SOC analysts, addressing enterprise-scale limitations. https://arxiv.org/abs/2609.04159
+* **OpenHack** (⭐ 401 stars) - Open-source agentic security scanner. https://github.com/openhackai/OpenHack
+
+#### 🔒 Security of Agents
+* **Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning** - Uses federated graph learning to localize risky agents in LLM-based multi-agent systems. https://arxiv.org/abs/2609.02967
+* **A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors** - Examines how attacker-controlled hook updates can drive AI agent harnesses toward malicious behavior. https://arxiv.org/abs/2609.03884
+* **Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents** - Analyzes safety issues stemming from non-decaying loop state in autonomous LLM agent deployments. https://arxiv.org/abs/2608.27141
+* **red-team-blue-team-agent-fabric** (⭐ 30 stars) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, OWASP Agentic, NIST AI, and related control surfaces. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agentic-security** (⭐ 93 stars) - Enables building an agentic workforce with safety, security, and compliance as the default. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 382 stars) - Open detection-rule standard for AI agent security threats, executable across 10 categories and aligned with major industry frameworks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-04)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
