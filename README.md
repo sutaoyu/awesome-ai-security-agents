@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* No qualifying items in this dataset.
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 96 stars) - Agentic workforce framework with safety, security, and compliance by default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric** (⭐ 30 stars) - AI agent security harness with 611 executable adversarial tests across MCP, A2A, L402, and more, aligned with OWASP and NIST AI frameworks. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules** (⭐ 383 stars) - Open detection-rule standard for AI agent security threats, covering 10 categories and integrated with major security standards. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **pre-production-checklist** (⭐ 11 stars) - Pre-production checklist for solo founders, including AI/agent security concerns and bugs commonly introduced by AI coding assistants. [Link](https://github.com/FarzamHabibi/pre-production-checklist)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-05)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
