@@ -1,6 +1,24 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+
+#### 🔒 Security of Agents
+* **[Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models](https://arxiv.org/abs/2609.04714)** - Analyzes safety-tuning responses to reduce false refusals while preserving a helpfulness/safety balance in LLMs.
+* **[One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation](https://arxiv.org/abs/2609.04921)** - Uses a diffusion model in closed-loop driving simulation for trajectory planning and generation of safety-critical driving scenarios.
+* **[CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls](https://arxiv.org/abs/2609.05269)** - Introduces security-context contracts that combine provenance tracking, authorization, policy enforcement, protocol adapters, and execution controls for LLM agent systems.
+* **[pre-production-checklist](https://github.com/FarzamHabibi/pre-production-checklist) (⭐ 13)** - Pre-production checklists for solo founders, including AI/agent security considerations and common bugs introduced by AI coding assistants.
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 30)** - AI agent security and adversarial-testing harness with executable tests for MCP, A2A, x402/L402, decision governance, human-in-the-loop, and skill supply chain.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 110)** - Repository focused on running an agentic workforce with safety, security, and compliance as defaults.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 387)** - Open, Sigma-like detection-rule standard for AI agent security threats, with executable rules across 10 categories and broad ecosystem adoption.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-06)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
