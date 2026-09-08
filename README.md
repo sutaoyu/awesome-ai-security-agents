@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[auditor-skill](https://github.com/solanabr/auditor-skill) (⭐ 53)** - Claude Code/agentic security skill for auditing Solana programs and software; full audit-firm lifecycle, executable PoC + fix-patch delivery, Rust pre-scanner, 1,346 checks, and 131 real-world attack vectors.
+* **[shep](https://github.com/shep-ai/shep) (⭐ 248)** - AI agent that ships features faster with built-in automation for memory, Kubernetes operations, and security enforcement across the SDD/SDLC process.
+
+#### 🔒 Security of Agents
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 30)** - AI agent security harness for adversarial testing with 623 executable tests across MCP, A2A, x402/L402, governance, and supply-chain surfaces; mapped to OWASP Agentic T1-T17 and NIST AI 800-2.
+* **[awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks) (⭐ 69)** - Curated, sourced, and dated timeline of real AI agent security incidents, breaches, and vulnerabilities from 2024-2026.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-07)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
