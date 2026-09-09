@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-09)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[It is Not Yet Another Tool: Creating and Deploying an Agentic AI Companion in a Security Operations Center](https://arxiv.org/abs/2609.06250)** - Uses an agentic AI companion in a SOC to work through high volumes of low-interest security tickets.
+* **[Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing](https://arxiv.org/abs/2609.07344)** - Uses LLM-based agents with structured state for long-horizon automated penetration testing.
+* **[trident](https://github.com/microsoft/trident) (⭐ 32)** - Azure Linux servicing agent for security-focused install, provisioning, and update.
+
+#### 🔒 Security of Agents
+* **[Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents](https://arxiv.org/abs/2609.05911)** - Measures security exposure of long-horizon LLM agents interacting with untrusted content, persistent memory, external state, and sensitive tools.
+* **[Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation](https://arxiv.org/abs/2609.06433)** - Generates safety-critical traffic scenarios for training and evaluating autonomous vehicle safety.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 113)** - Builds agentic workflows with safe, secure, and compliant behavior as the default.
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 30)** - AI agent security harness and adversarial testing platform with 623 executable tests across agent protocols, governance, and supply-chain areas.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 388)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories.
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-08)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
