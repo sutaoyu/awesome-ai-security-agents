@@ -1,6 +1,24 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education** - Gamified 20Q recommender for cybersecurity education. [https://arxiv.org/abs/2604.26964](https://arxiv.org/abs/2604.26964)
+
+#### 🔒 Security of Agents
+* **AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents** - Visual patch attacks and image-triggered command injection against multimodal computer-use agents. [https://arxiv.org/abs/2609.09212](https://arxiv.org/abs/2609.09212)
+* **An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks** - Multimodal prompt injection attacks on agentic AI frameworks. [https://arxiv.org/abs/2609.09404](https://arxiv.org/abs/2609.09404)
+* **agentic-security (⭐ 113)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric (⭐ 30)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and supply chain; aligns with OWASP Agentic, AIUC-1, NIST AI 800-2. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **dodoguard (⭐ 53)** - Full-lifecycle agent security for Dify, Coze, FastGPT, n8n, Tencent ADP, ByteDance HiAgent, and more. [https://github.com/dodoguardai/dodoguard](https://github.com/dodoguardai/dodoguard)
+* **agentshield (⭐ 1163)** - AI agent security scanner detecting vulnerabilities in agent configurations, MCP servers, and tool permissions. [https://github.com/affaan-m/agentshield](https://github.com/affaan-m/agentshield)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-09)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
