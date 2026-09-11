@@ -1,6 +1,24 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education** - Gamified recommender for cybersecurity education and threat-awareness training. [https://arxiv.org/abs/2604.26964](https://arxiv.org/abs/2604.26964)
+* **trident (⭐ 32)** - Azure Linux servicing agent for security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents** - Evaluates image-triggered command injection attacks against computer-use agents. [https://arxiv.org/abs/2609.09212](https://arxiv.org/abs/2609.09212)
+* **An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks** - Tests multimodal prompt injection attacks on agentic AI frameworks with tools and memory. [https://arxiv.org/abs/2609.09404](https://arxiv.org/abs/2609.09404)
+* **red-team-blue-team-agent-fabric (⭐ 30)** - AI agent security harness for adversarial testing across MCP, A2A, governance, HITL, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agentic-security (⭐ 113)** - Agentic workforce security, safety, and compliance by default. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **siq-agent-security (⭐ 13)** - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-10)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
