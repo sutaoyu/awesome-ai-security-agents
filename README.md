@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-12)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Beyond Static Guarantees: Measuring the Static-Pass Dynamic-Fail Gap in Security-Sensitive and LLM-Generated Python Code** - Examines gaps between static and dynamic security checks for security-sensitive and LLM-generated Python code. https://arxiv.org/abs/2609.10762
+* **trident** (⭐ 32) - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **siq-agent-security** (⭐ 20) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+* **agentic-security** (⭐ 113) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 389) - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-11)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
