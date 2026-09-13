@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 253) - AI agent platform with built-in Kubernetes agent and security features for SDD/SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 113) - Agentic workforce platform focused on safe, secure, and compliant AI agents. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **siq-agent-security** (⭐ 23) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+* **agent-threat-rules** (⭐ 391) - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-12)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
