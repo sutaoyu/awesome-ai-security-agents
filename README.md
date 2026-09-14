@@ -1,6 +1,23 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks** - Evaluates context segmentation in locally deployable small language models for cybersecurity CTF tasks. https://arxiv.org/abs/2609.12839
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+* **awesome-ai-security-tools (⭐ 1121 stars)** - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, AI SAST, LLM-driven fuzzing, and SOC/SIEM triage. https://github.com/scadastrangelove/awesome-ai-security-tools
+
+#### 🔒 Security of Agents
+* **SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration** - SoK on jailbreaking attacks and defenses for agentic AI systems. https://arxiv.org/abs/2609.12413
+* **agent-threat-rules (⭐ 391 stars)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **dodoguard (⭐ 106 stars)** - Full-lifecycle agent security for Dify, Coze, FastGPT, n8n, Tencent ADP, ByteDance HiAgent, and more. https://github.com/dodoguardai/dodoguard
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-13)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
