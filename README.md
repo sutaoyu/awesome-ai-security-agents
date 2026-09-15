@@ -1,6 +1,26 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* (No items classified in this category)
+
+#### 🔒 Security of Agents
+* **Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself** - Paper on fine-tuning a LLM recommender with safety constraints to explain its recommendations. [https://arxiv.org/abs/2609.13657](https://arxiv.org/abs/2609.13657)
+* **Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges** - Survey on cybersecurity threats and defenses for autonomous agentic AI systems. [https://arxiv.org/abs/2609.13731](https://arxiv.org/abs/2609.13731)
+* **Safety Signals to Verify NetOps Agents with Action-Level Granularity** - Paper on using safety signals to verify NetOps agents at action-level granularity. [https://arxiv.org/abs/2609.14422](https://arxiv.org/abs/2609.14422)
+* **AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems** - Vision paper on engineering accountability for AI deployment in safety-critical systems. [https://arxiv.org/abs/2609.14592](https://arxiv.org/abs/2609.14592)
+* **awesome-ai-agent-attacks (⭐ 73)** - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). [https://github.com/webpro255/awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **Adrian (⭐ 564)** - Open-source runtime AI agent security tool that monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift. [https://github.com/secureagentics/Adrian](https://github.com/secureagentics/Adrian)
+* **agent-threat-rules (⭐ 392)** - Open detection-rule standard for AI agent security threats, like Sigma for AI agents. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **pre-production-checklist (⭐ 15)** - Pre-production checklists including AI/agent security and common bugs from AI coding assistants. [https://github.com/FarzamHabibi/pre-production-checklist](https://github.com/FarzamHabibi/pre-production-checklist)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-14)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
