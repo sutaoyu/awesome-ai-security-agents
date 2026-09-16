@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-16)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 32)** - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself** - Fine-tunes an LLM recommender with safety constraints and self-explanation. https://arxiv.org/abs/2609.13657
+* **Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges** - Surveys cybersecurity threats, defense architectures, and open challenges for agentic AI. https://arxiv.org/abs/2609.13731
+* **Safety Signals to Verify NetOps Agents with Action-Level Granularity** - Verifies NetOps agents with action-level safety signals. https://arxiv.org/abs/2609.14422
+* **AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems** - Vision for accountable AI deployment in safety-critical socio-technical systems. https://arxiv.org/abs/2609.14592
+* **orbit (⭐ 27)** - Multi-agent security benchmarking framework. https://github.com/wlanderson0/orbit
+* **agent-threat-rules (⭐ 392)** - Open detection-rule standard for AI agent security threats. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **siq-agent-security (⭐ 23)** - Provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-15)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
