@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Autonomy in Check: Governor-Mediated Adaptive Security at the Edge** - Paper on using automated planners and LLM-assisted controllers for adaptive security at the network edge. https://arxiv.org/abs/2609.18338
+* **shep** (⭐ 254 stars) - AI agent platform for faster feature shipping with built-in memory, K8S agent, and security for SDD/SDLC. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **Safety Signals to Verify NetOps Agents with Action-Level Granularity** - Paper on verifying agentic network operations agents using action-level safety signals. https://arxiv.org/abs/2609.14422
+* **HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark** - Benchmark for evaluating unsafe agent trajectories arising under benign conditions. https://arxiv.org/abs/2604.13954
+* **Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents** - Paper on safety risks in autonomous LLM agent loops and non-decaying loop state. https://arxiv.org/abs/2608.27141
+* **siq-agent-security** (⭐ 23 stars) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+* **agent-threat-rules** (⭐ 391 stars) - Open detection-rule standard for AI agent security threats, similar to Sigma for AI agents. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **orbit** (⭐ 27 stars) - Multi-agent security benchmarking framework. https://github.com/wlanderson0/orbit
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-16)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
