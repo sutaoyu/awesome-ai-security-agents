@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 255) - AI agent platform for faster feature shipping with built-in memory, K8s agent, and security across SDD/SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+* **OpenHack** (⭐ 415) - Open-source agentic security scanner. [https://github.com/openhackai/OpenHack](https://github.com/openhackai/OpenHack)
+
+#### 🔒 Security of Agents
+* **siq-agent-security** (⭐ 23) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+* **agent-threat-rules** (⭐ 395) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-18)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
