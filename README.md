@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trilane** (⭐ 28) - Autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. https://github.com/xyun92/trilane
+* **shep** (⭐ 255) - AI agent platform with built-in memory, K8S agent, and security (SDD+SDLC) for faster feature shipping. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **LLMVault** (⭐ 322) - Intentionally vulnerable OWASP LLM Top 10 training platform covering prompt injection, RAG security, agent security, and GenAI pentesting. https://github.com/CyberSunil/LLMVault
+* **agentic-security** (⭐ 116) - Agentic workforce platform with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-19)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
