@@ -1,6 +1,23 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing** - LLM-based agents for automated penetration testing and vulnerability discovery. [https://arxiv.org/abs/2609.07344](https://arxiv.org/abs/2609.07344)
+* **shep (⭐ 255 stars)** - Built-in memory, K8S agent, and security for SDD+SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving** - Safety/risk-aware perception for an end-to-end driving agent (agent safety, not cybersecurity). [https://arxiv.org/abs/2609.21470](https://arxiv.org/abs/2609.21470)
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **red-team-blue-team-agent-fabric (⭐ 29 stars)** - AI agent security harness and adversarial testing across MCP, A2A, x402/L402, governance, and supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **LLMVault (⭐ 322 stars)** - Intentionally vulnerable OWASP LLM Top 10 training platform for prompt injection, RAG security, agent security, and GenAI pentesting. [https://github.com/CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-20)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
