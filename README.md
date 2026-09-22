@@ -1,6 +1,23 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing** - LLM-based agents for long-horizon automated penetration testing and vulnerability discovery. https://arxiv.org/abs/2609.07344
+* **shep (⭐ 256)** - Development tooling with built-in K8S Agent & Security features for SDD/SDLC. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving** - Safety-oriented occupancy modeling for end-to-end autonomous driving agents. https://arxiv.org/abs/2609.21470
+* **LLMVault (⭐ 323)** - Intentionally vulnerable OWASP LLM Top 10 training platform for AI security, prompt injection, RAG security, agent security, and GenAI penetration testing. https://github.com/CyberSunil/LLMVault
+* **agent-threat-rules (⭐ 399)** - Open detection-rule standard for AI agent security threats such as prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agentos (⭐ 33)** - seL4-based operating system with capability-based security for agents and agentic security requirements. https://github.com/jordanhubbard/agentos
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-21)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
