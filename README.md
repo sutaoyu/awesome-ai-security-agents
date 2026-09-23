@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 256 stars) - AI agent platform with built-in memory, K8S agent, and security for SDD+SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Indirect tipping: a social attack surface in AI agent populations** - Examines social attack surfaces in AI agent populations. [https://arxiv.org/abs/2609.25194](https://arxiv.org/abs/2609.25194)
+* **StepTrigger: Contact-State-Triggered Backdoor Attacks on VLM-Powered Legged Robots** - Backdoor attacks triggered by contact states on VLM-powered legged robots. [https://arxiv.org/abs/2609.26131](https://arxiv.org/abs/2609.26131)
+* **Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems** - Internal-state-triggered backdoor attacks on LLM-powered robotic systems. [https://arxiv.org/abs/2609.26184](https://arxiv.org/abs/2609.26184)
+* **A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle** - Survey of attacks, defenses, and governance for long-term memory security in LLM agents. [https://arxiv.org/abs/2604.16548](https://arxiv.org/abs/2604.16548)
+* **agentos** (⭐ 33 stars) - OS built for agents and agentic security on seL4 with capability-based security. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **agent-threat-rules** (⭐ 399 stars) - Open detection-rule standard for AI agent security threats like prompt injection, tool poisoning, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-22)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
