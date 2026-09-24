@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **rust-in-peace** (⭐ 21) - Agentic security review for Rust: autonomous find/triage/patch for unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws. [https://github.com/scadastrangelove/rust-in-peace](https://github.com/scadastrangelove/rust-in-peace)
+* **trident** (⭐ 32) - Azure Linux servicing agent focused on security install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Indirect tipping: a social attack surface in AI agent populations** - Explores social attack surfaces in populations of deployed generative AI agents. [https://arxiv.org/abs/2609.25194](https://arxiv.org/abs/2609.25194)
+* **StepTrigger: Contact-State-Triggered Backdoor Attacks on VLM-Powered Legged Robots** - Backdoor attacks triggered by contact states against VLM-powered legged robots. [https://arxiv.org/abs/2609.26131](https://arxiv.org/abs/2609.26131)
+* **Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems** - Internal-state-triggered backdoor attacks on LLM-powered robotic control systems. [https://arxiv.org/abs/2609.26184](https://arxiv.org/abs/2609.26184)
+* **A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle** - Survey of attacks, defenses, and governance for long-term memory security in LLM agents. [https://arxiv.org/abs/2604.16548](https://arxiv.org/abs/2604.16548)
+* **red-team-blue-team-agent-fabric** (⭐ 31) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, decision governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-23)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
