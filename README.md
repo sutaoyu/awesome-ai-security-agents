@@ -1744,6 +1744,8 @@ We curate an Awesome List of **AI security agents** , specifically addressing:
 
 * ![fast-llm-security-guardrails](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security-guardrails) [fast-llm-security-guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - The fastest Trust Layer for AI Agents.
 
+* ![Orca AI Incident Archive Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive) [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - An open database of real-world AI agent security incidents (354 sourced records): prompt injection, MCP, sandbox escapes, agent supply chain and agents used offensively, each flagged for confirmed harm vs. researcher demonstration.
+
 
 
 ## ✍️ *Technical Blogs*
