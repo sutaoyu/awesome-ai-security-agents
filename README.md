@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications** - Paper on blockchain and AI/AI agents for secure data sharing, model integrity, and cybersecurity applications. [https://arxiv.org/abs/2609.28843](https://arxiv.org/abs/2609.28843)
+* **shep** (⭐ 258) - Development tool with built-in memory, K8S agent, and security for SDD/SDLC workflows. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support** - Safety-grounded multimodal agentic framework for skincare support, emphasizing evidence and safety. [https://arxiv.org/abs/2609.29341](https://arxiv.org/abs/2609.29341)
+* **Persistent Billable State: Denial-of-Wallet Attacks and Defenses in Tool-Calling LLM Agents** - Examines denial-of-wallet attacks and defenses in tool-calling LLM agents. [https://arxiv.org/abs/2609.28585](https://arxiv.org/abs/2609.28585)
+* **Decision Hijacking: Prompt Injection Attacks on Jev's Typed Probabilistic Decisions** - Studies prompt injection attacks on models with schema-defined outputs. [https://arxiv.org/abs/2609.28613](https://arxiv.org/abs/2609.28613)
+* **agentos** (⭐ 38) - Agent-focused OS built on seL4 with capability-based security and agentic security requirements. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **red-team-blue-team-agent-fabric** (⭐ 31) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, and related agent security areas. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules** (⭐ 400) - Open detection-rule standard for AI agent security threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-24)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
