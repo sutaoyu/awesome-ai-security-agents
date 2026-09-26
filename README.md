@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Awesome-LLMSecOps** (⭐ 161) - Curated resources for LLM/agentic security operations, with links and visuals. https://github.com/wearetyomsmnv/Awesome-LLMSecOps
+
+#### 🔒 Security of Agents
+* **red-team-blue-team-agent-fabric** (⭐ 31) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agentos** (⭐ 39) - Agent-native OS built on seL4 with capability-based security for agentic security requirements. https://github.com/jordanhubbard/agentos
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-25)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
