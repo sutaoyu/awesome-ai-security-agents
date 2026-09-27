@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-27)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools** (⭐ 1553) - Curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity, including pentest agents, AI SAST, SOC/SIEM triage, and more. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM Agent Security Papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentos** (⭐ 42) - Operating system designed for agents and agentic security requirements, built on seL4 microkernel with capability-based security. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **agent-threat-rules** (⭐ 402) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-26)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
