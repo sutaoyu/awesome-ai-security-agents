@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations** - Evaluates an enterprise security brain for agentic cloud-security investigations. [https://arxiv.org/abs/2609.30345]
+
+#### 🔒 Security of Agents
+* **Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems** - Studies skill cascading attacks on skill-based agent systems. [https://arxiv.org/abs/2609.30383]
+* **MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens** - Multi-objective optimization of LLM harnesses for accuracy, safety, and token use. [https://arxiv.org/abs/2609.30967]
+* **Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation** - Taxonomy, risk discovery, and evaluation for safety of recursive self-improving AI. [https://arxiv.org/abs/2609.31186]
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers]
+* **agent-threat-rules** (⭐ 402) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules]
+* **LLMVault** (⭐ 328) - Intentionally vulnerable OWASP LLM Top 10 training platform for AI security, prompt injection, RAG security, agent security, and GenAI pentesting. [https://github.com/CyberSunil/LLMVault]
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway]
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-27)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
