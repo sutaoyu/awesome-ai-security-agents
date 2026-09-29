@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **auditor-skill (⭐ 60 stars)** - Claude Code / agentic security skill for Solana programs and software, covering audit-firm lifecycle, executable PoC + fix-patch delivery, Rust pre-scanner, cross-audit memory, and extensive checks/attack vectors. [https://github.com/solanabr/auditor-skill](https://github.com/solanabr/auditor-skill)
+
+#### 🔒 Security of Agents
+* **PlanGuard** - Guardrail for multi-step plan safety in embodied agents, addressing physical risks from subtask dependencies and environment interactions during execution. [https://arxiv.org/abs/2609.32801](https://arxiv.org/abs/2609.32801)
+* **Agent Safety From Within** - Detects harmful trajectories from LLM internal states in agents performing tool-based action sequences. [https://arxiv.org/abs/2609.33039](https://arxiv.org/abs/2609.33039)
+* **Compositional Safety Failures in Harness Evolution** - Identifies and runtime-monitors safety failures in self-evolving agent harnesses that update memory, prompts, skills, and tools. [https://arxiv.org/abs/2609.33123](https://arxiv.org/abs/2609.33123)
+* **AgentBoundary** - Counterfactual evaluation of safety in tool-using LLM agents. [https://arxiv.org/abs/2609.33658](https://arxiv.org/abs/2609.33658)
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **AgentSafety-Papers (⭐ 11 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **orbit (⭐ 30 stars)** - Multi-agent security benchmarking framework. [https://github.com/wlanderson0/orbit](https://github.com/wlanderson0/orbit)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-28)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
