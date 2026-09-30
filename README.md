@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-09-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery** - Uses autonomous LLM agents for repository-scale vulnerability discovery and verification. [https://arxiv.org/abs/2609.35909](https://arxiv.org/abs/2609.35909)
+* **shep** (⭐ 262 stars) - Developer tool with built-in Memory, K8S Agent & Security for SDD/SDLC, supporting agent-assisted security in development workflows. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time** - Co-evolves safety harnesses and guards to protect LLM agents at test time. [https://arxiv.org/abs/2609.36580](https://arxiv.org/abs/2609.36580)
+* **Environment Steering: Using Data Flow Control to Improve Agent Utility and Safety** - Uses data flow control to prevent unsafe tool calls and improve LLM agent safety. [https://arxiv.org/abs/2609.35807](https://arxiv.org/abs/2609.35807)
+* **Render Before Reading: Visual Rendering as a Prompt Injection Defense** - Defends LLMs against prompt injection via visual rendering before reading. [https://arxiv.org/abs/2609.36121](https://arxiv.org/abs/2609.36121)
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **AgentSafety-Papers** (⭐ 11 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 404 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-29)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
