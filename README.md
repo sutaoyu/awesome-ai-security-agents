@@ -747,6 +747,7 @@
 
 #### 🔒 Security of Agents
 * [Beyond Pass@k](https://arxiv.org/abs/2608.14711) - Analyzes misapplication of pass@k in AI coding agent benchmarks, focusing on reliability and security measurement of agentic code generation.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform; local-model, self-hosted, proves findings with real exploits.
 * [Bounded Agents](https://arxiv.org/abs/2608.15888) - Introduces delegation security for multi-agent AI systems to control permissions and protect agent actions as session start.
 * [Workspace Topology as an Attack Vector](https://arxiv.org/abs/2608.14876) - Identifies workspace topology as an attack vector against agentic coding assistants.
 * [agentic_security](https://github.com/msoedov/agentic_security) (⭐ 1966 stars) - Agentic LLM vulnerability scanner / AI red teaming kit.
