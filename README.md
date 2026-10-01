@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. https://github.com/microsoft/trident
+* **trilane** (⭐ 28 stars) - TriLane: autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. Built with Rust and Tauri. https://github.com/xyun92/trilane
+
+#### 🔒 Security of Agents
+* **MADBench: Benchmarking the Security of Multi-Agent Debate** - Paper benchmarking the security of multi-agent debate. https://arxiv.org/abs/2609.39146
+* **Safety of Latent Communication in Multi-Agent Systems** - Paper on safety of latent communication in multi-agent systems. https://arxiv.org/abs/2609.39788
+* **Who Verifies the Graph? Misspecification Attacks on Causal Action Verification for Language Agents** - Paper on misspecification attacks against causal action verification for language agents. https://arxiv.org/abs/2609.40027
+* **Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks** - Paper on proactive defense against multi-turn agent attacks. https://arxiv.org/abs/2609.39549
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Monitor MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+* **AgentSafety-Papers** (⭐ 11 stars) - Daily Tracking of LLM Agent Security Papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-09-30)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
