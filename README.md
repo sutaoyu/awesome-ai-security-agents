@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-02)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution** - Proposes using LLMs for hierarchical cyber defense, from planning to execution. https://arxiv.org/abs/2610.00590
+* **shep** (⭐ 262) - AI agent platform with built-in memory, Kubernetes agent, and security for SDD/SDLC, aimed at shipping features faster. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation** - Audit framework for LLM safety evaluation in molecular tumor boards, highlighting over-refusal and clinical expert perspectives. https://arxiv.org/abs/2610.01497
+* **Safety in Self-Evolving Agents: A Survey** - Survey on safety challenges and approaches for self-evolving LLM agents. https://arxiv.org/abs/2610.00093
+* **Representation Transitions Reveal Emerging Safety Risks in Multi-Turn LLM Agents** - Study on multi-turn attacks and emerging safety risks in LLM agents via representation transitions. https://arxiv.org/abs/2610.00400
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 117) - Platform for building with an agentic workforce with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 406) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-01)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
