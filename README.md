@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools** (⭐ 1577) - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, AI SAST, LLM-driven fuzzing, SOC/SIEM triage, and reverse engineering. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 406) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **Awesome-GUI-Agent-Security** (⭐ 73) - Curated paper list for GUI/computer-use/browser agent security, organized by attack-defense axis. [https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-02)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
