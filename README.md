@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-04)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools (⭐ 1580)** - Curated list of tools for AI security and AI-assisted cybersecurity, including autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, and LLM red-teaming. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **symfony-security-auditor (⭐ 95)** - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [https://github.com/vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **agentic-security (⭐ 118)** - Build faster with an Agentic Workforce; safe, secure, and compliant is now the default. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers (⭐ 12)** - Daily tracking of LLM Agent Security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-03)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
