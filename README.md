@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 31 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **A GHOST in Long-Horizon Agents: Governance Hazard from Overlooked Safety Constraints across Turns** - Examines governance hazards from overlooked safety constraints across turns in long-horizon agents. https://arxiv.org/abs/2610.02664
+* **HASTE: Evolving Agent Harnesses Against Emerging Attacks Using Sparse Evidence** - Evolves agent harnesses to enforce safety constraints against emerging attacks. https://arxiv.org/abs/2610.02920
+* **Positive-Unlabeled Learning for Agent Safety False Alarm Auditing** - Audits false alarms from safety monitors safeguarding language-model agents. https://arxiv.org/abs/2610.02925
+* **Beyond Predefined Sinks: Security-Aware Dependency Analysis for LLM Agents** - Security-aware dependency analysis for LLM agents connecting decisions to sensitive software capabilities. https://arxiv.org/abs/2610.03014
+* **agentic-security (⭐ 117 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers (⭐ 12 stars)** - Tracks LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-04)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
