@@ -6,6 +6,25 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* **From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review** - Uses grounded LLM agents to derive attack trees from requirements for design-time security review. [https://arxiv.org/abs/2610.03820](https://arxiv.org/abs/2610.03820)
+* **trident (⭐ 31 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AI Safety via Debate is Compromised by Cognitive Biases** - Examines how AI safety via debate and RLHF can be compromised by cognitive biases. [https://arxiv.org/abs/2610.05461](https://arxiv.org/abs/2610.05461)
+* **Visual Grounding Safety in Vision-Language Models** - Studies safety issues in VLMs that generate structured outputs like points and bounding boxes for downstream agents. [https://arxiv.org/abs/2610.05637](https://arxiv.org/abs/2610.05637)
+* **Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation** - Generates realistic crash scenarios for evaluating autonomous vehicle safety. [https://arxiv.org/abs/2610.04366](https://arxiv.org/abs/2610.04366)
+* **AgentSafety-Papers (⭐ 12 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security (⭐ 118 stars)** - Agentic workforce platform with safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **siq-agent-security (⭐ 51 stars)** - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **trident (⭐ 31 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. https://github.com/microsoft/trident
 
 #### 🔒 Security of Agents
