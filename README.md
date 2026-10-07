@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review** - LLM agents for design-time security review, converting requirements into attack trees. [https://arxiv.org/abs/2610.03820](https://arxiv.org/abs/2610.03820)
+* **trident** (⭐ 31) - Azure Linux servicing agent focused on security install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **agentic-security** (⭐ 118) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+#### 🔒 Security of Agents
+* **AI Safety via Debate is Compromised by Cognitive Biases** - Research on cognitive biases undermining AI safety debate. [https://arxiv.org/abs/2610.05461](https://arxiv.org/abs/2610.05461)
+* **Visual Grounding Safety in Vision-Language Models** - Safety of vision-language models in visual grounding tasks. [https://arxiv.org/abs/2610.05637](https://arxiv.org/abs/2610.05637)
+* **Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation** - Safety evaluation of autonomous vehicle agents via realistic crash scenario generation. [https://arxiv.org/abs/2610.04366](https://arxiv.org/abs/2610.04366)
+* **AgentSafety-Papers** (⭐ 12) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **mcp-agent-security-gateway** (⭐ 17) - Default-deny MCP/JSON-RPC gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-06)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
