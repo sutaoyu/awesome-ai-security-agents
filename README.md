@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Contextualization of Third-Party Cloud Security Findings** - Discusses contextualizing static severity of third-party cloud security findings to improve remediation prioritization. https://arxiv.org/abs/2610.08895
+* **awesome-ai-security-tools** (⭐ 1596) - Curated list of tools for AI security and AI-assisted cybersecurity, including autotriage, pentest agents, AI SAST, SOC/SIEM triage, and LLM red-teaming. https://github.com/scadastrangelove/awesome-ai-security-tools
+
+#### 🔒 Security of Agents
+* **How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis** - Analyzes fragility of on-device small language model safety and localizes safety-critical parameters for fault analysis in agentic systems. https://arxiv.org/abs/2610.09000
+* **RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment** - Benchmarks agent safety in real-time embodied environments, moving beyond digital evaluations. https://arxiv.org/abs/2610.09294
+* **AI Safety Considerations for Agents With Limited Time to Act** - Examines AI safety and alignment for agents that have limited time to act. https://arxiv.org/abs/2610.10285
+* **agentic-security** (⭐ 119) - Provides an agentic workforce with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers** (⭐ 12) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentos** (⭐ 47) - Operating system designed for agents and agentic security requirements, built on seL4 with capability-based security. https://github.com/jordanhubbard/agentos
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-07)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
