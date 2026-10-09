@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-09)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 31) - Azure Linux servicing agent with security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **Workerville: Towards an Organizational Behavior Account of Agent Safety** - Organizational behavior account of safety for continuously interacting LLM agents. https://arxiv.org/abs/2610.11561
+* **One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails** - Option-channel attack on typed decision models used as agent guardrails. https://arxiv.org/abs/2610.12292
+* **From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents** - Lessons from agent security incidents for proactive assurance. https://arxiv.org/abs/2610.12463
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Context-aware human intervention routing for LLM agent tool calls. https://arxiv.org/abs/2607.13594
+* **mcp-agent-security-gateway** (⭐ 17) - Default-deny MCP/JSON-RPC security gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. https://github.com/poojakira/mcp-agent-security-gateway
+* **AgentSafety-Papers** (⭐ 12) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agent-threat-rules** (⭐ 410) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-08)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
