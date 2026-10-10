@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor (⭐ 97)** - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [https://github.com/vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **Workerville: Towards an Organizational Behavior Account of Agent Safety** - Explores organizational behavior factors shaping LLM-based agent safety. [https://arxiv.org/abs/2610.11561](https://arxiv.org/abs/2610.11561)
+* **One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails** - Examines an attack against typed decision models used as agent guardrails. [https://arxiv.org/abs/2610.12292](https://arxiv.org/abs/2610.12292)
+* **From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents** - Draws lessons from real-world agent security incidents and containment failures. [https://arxiv.org/abs/2610.12463](https://arxiv.org/abs/2610.12463)
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Proposes human-intervention routing safeguards for LLM agent tool calls. [https://arxiv.org/abs/2607.13594](https://arxiv.org/abs/2607.13594)
+* **AgentSafety-Papers (⭐ 12)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security (⭐ 118)** - Agentic workforce security, safety, and compliance positioning. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **agent-threat-rules (⭐ 410)** - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-09)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
