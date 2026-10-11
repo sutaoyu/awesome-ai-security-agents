@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 263) - Development tool with built-in K8S Agent and Security for SDD+SDLC workflows. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **red-team-blue-team-agent-fabric** (⭐ 32) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **AgentSafety-Papers** (⭐ 12) - Tracks LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 118) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-10)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
