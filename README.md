@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance** - A local agentic AI framework to generate edge case scenarios for safety assurance of autonomous systems. https://arxiv.org/abs/2610.13479
+* **EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents** - Uses self-improving LLM agents to generate safety-critical scenarios for validating autonomous driving systems. https://arxiv.org/abs/2606.03678
+
+#### 🔒 Security of Agents
+* **DRYLAB-Bench: Benchmarking the Biosecurity Risk of Agentic LLM Mutation Design** - Benchmarks the biosecurity risk of agentic LLM mutation design. https://arxiv.org/abs/2610.13116
+* **Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents** - Evolves runtime guard skills to defend skill-augmented agents from malicious skills. https://arxiv.org/abs/2609.01487
+* **agentic-security (⭐ 118 stars)** - Build faster with an Agentic Workforce; safe, secure, and compliant is now the default. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers (⭐ 13 stars)** - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **awesome-ai-security-tools (⭐ 1638 stars)** - A curated list of tools for AI security and AI-assisted cybersecurity, covering agent security, pentest agents, LLM red-teaming, and more. https://github.com/scadastrangelove/awesome-ai-security-tools
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Default-deny MCP/JSON-RPC security gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-11)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
