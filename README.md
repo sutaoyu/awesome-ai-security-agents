@@ -6,6 +6,22 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* None identified from the provided raw data.
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **mcp-agent-security-gateway** (⭐ 17) - Default-deny MCP/JSON-RPC security gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. https://github.com/poojakira/mcp-agent-security-gateway
+* **agent-security** (⭐ 69) - Local-first security gateway for AI coding agents, enforcing tool-call policies, secret detection, and on-device action auditing. https://github.com/solongate/agent-security
+* **awesome-ai-agent-attacks** (⭐ 81) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). https://github.com/webpro255/awesome-ai-agent-attacks
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance** - A local agentic AI framework to generate edge case scenarios for safety assurance of autonomous systems. https://arxiv.org/abs/2610.13479
 * **EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents** - Uses self-improving LLM agents to generate safety-critical scenarios for validating autonomous driving systems. https://arxiv.org/abs/2606.03678
 
