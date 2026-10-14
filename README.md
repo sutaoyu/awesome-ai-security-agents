@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **CWE-bench: Refocusing Agentic Security from Exploitation to Defense** - Evaluates AI agents on defensive cybersecurity capabilities, shifting from exploitation toward making software safe. [https://arxiv.org/abs/2610.17020](https://arxiv.org/abs/2610.17020)
+* **trident** (⭐ 31) - Azure Linux servicing agent with security-focused install, provisioning, and update workflows. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Can agents whose sole duty is to keep humans alive be hijacked to kill? Delayed multi-turn derived-action trap attacks in simulated high-stakes environments** - Studies delayed prompt injection attacks that can hijack tool-using keep-alive agents into harmful actions. [https://arxiv.org/abs/2610.15153](https://arxiv.org/abs/2610.15153)
+* **TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents** - Probes misbinding in LLM agents through tool-result replay attacks. [https://arxiv.org/abs/2610.16333](https://arxiv.org/abs/2610.16333)
+* **EvolvAttack: Backdooring self Evolving VLM Agents** - Examines backdoor attacks against self-evolving vision-language model agents. [https://arxiv.org/abs/2610.15244](https://arxiv.org/abs/2610.15244)
+* **agent-threat-rules** (⭐ 415) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agent-security** (⭐ 82) - Local-first security gateway for AI coding agents that enforces tool-call policies, detects secrets, and audits actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-13)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
