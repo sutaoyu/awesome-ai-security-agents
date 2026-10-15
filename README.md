@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **CWE-bench: Refocusing Agentic Security from Exploitation to Defense** - Paper on evaluating AI agents for software security defense rather than exploitation. https://arxiv.org/abs/2610.17020
+
+#### 🔒 Security of Agents
+* **Can agents whose sole duty is to keep humans alive be hijacked to kill? Delayed multi-turn derived-action trap attacks in simulated high-stakes environments** - Paper on delayed prompt injection to hijack a tool-using agent into harmful actions. https://arxiv.org/abs/2610.15153
+* **TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents** - Paper on replaying tool results to probe misbinding in LLM agents. https://arxiv.org/abs/2610.16333
+* **EvolvAttack: Backdooring self Evolving VLM Agents** - Paper on backdooring self-evolving VLM agents through evolving memory. https://arxiv.org/abs/2610.15244
+* **agent-threat-rules** (⭐ 416) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **pre-production-checklist** (⭐ 15) - Pre-production checklists including AI/agent security and bugs AI coding assistants write. https://github.com/FarzamHabibi/pre-production-checklist
+* **agent-security** (⭐ 100) - Local-first security gateway for AI coding agents to enforce tool-call policies, detect secrets, and audit actions. https://github.com/solongate/agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-14)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
