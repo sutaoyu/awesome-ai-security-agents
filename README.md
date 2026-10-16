@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-16)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 31) - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning** - Context-aware safety reasoning for timely intervention in sequential agentic systems. https://arxiv.org/abs/2610.20960
+* **Shortcut Sensitivity in Agent-Safety Evaluations** - Evaluation concerns for guards supervising sensitive agent actions. https://arxiv.org/abs/2610.22243
+* **Language Is a Security Surface for Agent Guards** - Step-level guards deciding whether an agent's next tool call is safe. https://arxiv.org/abs/2610.22244
+* **SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes** - Robustness and security failures in financial LLM trading agents. https://arxiv.org/abs/2609.19705
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agent-threat-rules** (⭐ 416) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agentic-security** (⭐ 118) - Agentic workforce platform focused on safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-15)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
