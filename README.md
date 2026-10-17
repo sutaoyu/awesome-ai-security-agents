@@ -1,6 +1,26 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+None identified in the provided raw data.
+
+#### 🔒 Security of Agents
+* **StepSafe** - Context-aware safety reasoning for timely intervention in sequential agent actions. [https://arxiv.org/abs/2610.20960](https://arxiv.org/abs/2610.20960)
+* **Shortcut Sensitivity in Agent-Safety Evaluations** - Examines reliability and shortcut sensitivity in safety evaluations of agents' sensitive tool actions. [https://arxiv.org/abs/2610.22243](https://arxiv.org/abs/2610.22243)
+* **Language Is a Security Surface for Agent Guards** - Studies language as a security surface for step-level agent guards deciding whether tool calls are safe. [https://arxiv.org/abs/2610.22244](https://arxiv.org/abs/2610.22244)
+* **SoK: Trading Agents or Market Crashers?** - Dissects robustness and security failures in academic financial LLM trading agents. [https://arxiv.org/abs/2609.19705](https://arxiv.org/abs/2609.19705)
+* **agent-security (⭐ 113 stars)** - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and on-device audit. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **agentos (⭐ 50 stars)** - Agent-focused OS built on seL4 with capability-based security for agentic requirements. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **AgentSafety-Papers (⭐ 14 stars)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric (⭐ 33 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-16)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
