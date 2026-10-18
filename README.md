@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **None** - No items in the provided raw data matched this category.
+
+#### 🔒 Security of Agents
+* **agentic-security (⭐ 118)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric (⭐ 33)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmarks, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **AgentSafety-Papers (⭐ 14)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security (⭐ 116)** - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-17)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
