@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 266) - Repo description highlights built-in Memory, K8S Agent & Security within SDD+SDLC, with a security-related agent capability noted. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 118) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 418) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agent-security** (⭐ 155) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. https://github.com/solongate/agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-18)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
