@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+
+#### 🔒 Security of Agents
+* **Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks** - Red-teaming multi-agent attacks and loss-of-control risks in AI agent systems. [https://arxiv.org/abs/2610.24052](https://arxiv.org/abs/2610.24052)
+* **Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents** - Information injection attacks that manipulate LLM financial trading agents using fabricated news. [https://arxiv.org/abs/2610.26438](https://arxiv.org/abs/2610.26438)
+* **Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents** - Rethinks safety evaluation for phone-use agents by distinguishing genuine safety from incapability. [https://arxiv.org/abs/2605.07630](https://arxiv.org/abs/2605.07630)
+* **CoSec: Benchmarking Agent Security in Communities** - Benchmarks security of LLM agents in persistent collaborative community environments. [https://arxiv.org/abs/2609.34790](https://arxiv.org/abs/2609.34790)
+* **AgentSafety-Papers** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 118 stars) - Agentic workforce security/compliance positioning with safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **LLMVault** (⭐ 342 stars) - Intentionally vulnerable OWASP LLM Top 10 training platform covering prompt injection, RAG security, agent security, and GenAI pentesting. [https://github.com/CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+* **agentveil-sdk** (⭐ 15 stars) - AI agent security SDK that intercepts risky actions and requires safe alternatives or approval before execution. [https://github.com/agentveil-protocol/agentveil-sdk](https://github.com/agentveil-protocol/agentveil-sdk)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-19)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
