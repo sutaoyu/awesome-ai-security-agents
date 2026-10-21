@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 31) - Azure Linux servicing agent focused on secure install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **shep** (⭐ 267) - Development tool with built-in memory, K8S agent, and security across SDD/SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization** - Behavior-aware fraud detection and cybersecurity for trusted AI-agent payment authorization. [https://arxiv.org/abs/2610.27483](https://arxiv.org/abs/2610.27483)
+* **The Show-Up Attack: When Subagents Win Over Their Supervisor** - Attack surfaces in multi-agent LLM systems, including subagent-supervisor dynamics. [https://arxiv.org/abs/2610.27574](https://arxiv.org/abs/2610.27574)
+* **Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops** - Runtime safety check for robot control loops using frontier models and agent harnesses. [https://arxiv.org/abs/2610.27350](https://arxiv.org/abs/2610.27350)
+* **After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents** - Benchmarking carryover attacks on LLM agents via memory files and scheduled tasks. [https://arxiv.org/abs/2610.28425](https://arxiv.org/abs/2610.28425)
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 421) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-20)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
