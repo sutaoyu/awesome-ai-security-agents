@@ -1,6 +1,24 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR** - Evaluation framework for autonomous cyber defense configuration of commercial EDR. [https://arxiv.org/abs/2606.08168](https://arxiv.org/abs/2606.08168)
+* **trident** (⭐ 32) - Security-focused Azure Linux servicing agent for install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **shep** (⭐ 267) - AI development agent with built-in memory, Kubernetes agent, and SDD/SDLC security. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients** - Rowhammer attack leveraging adversarial observations on federated learning clients. [https://arxiv.org/abs/2505.06335](https://arxiv.org/abs/2505.06335)
+* **CoSec: Benchmarking Agent Security in Communities** - Benchmarking LLM agent security in persistent collaborative community settings. [https://arxiv.org/abs/2609.34790](https://arxiv.org/abs/2609.34790)
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 421) - Open detection-rule standard for AI agent security threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-21)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
