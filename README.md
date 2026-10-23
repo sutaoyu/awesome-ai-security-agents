@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AgentTriage: Replayable Security Diagnosis Across Heterogeneous Agent Runtimes** - Security diagnosis for tool-use agent runtimes and their security events. [https://arxiv.org/abs/2610.30738](https://arxiv.org/abs/2610.30738)
+* **EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence** - Evaluates LLM agent safety and evidence recovery when safety-relevant evidence is missing. [https://arxiv.org/abs/2610.31650](https://arxiv.org/abs/2610.31650)
+* **AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack** - Benchmarks LLM email agents against adaptive phishing attacks. [https://arxiv.org/abs/2610.31404](https://arxiv.org/abs/2610.31404)
+* **Compositional Safety Failures in Harness Evolution: Identification and Runtime Monitoring** - Identifies and monitors safety failures in evolving agent harnesses. [https://arxiv.org/abs/2609.33123](https://arxiv.org/abs/2609.33123)
+* **AgentSafety-Papers** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 422 stars) - Open detection-rule standard for AI agent security threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **red-team-blue-team-agent-fabric** (⭐ 32 stars) - AI agent security harness for adversarial testing across MCP, A2A, governance, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-22)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
