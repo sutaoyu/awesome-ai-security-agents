@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **argus** (⭐ 26) - Open-source agentic security operations platform featuring an evidence graph, swarm-aware detections, governed AI agents, and an approval-gated action broker. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+* **shep** (⭐ 267) - Feature-shipping platform with built-in memory, a Kubernetes agent, and security capabilities (SDD+SDLC) for accelerating development. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv, aggregating research on agent safety. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric** (⭐ 32) - AI agent security harness for adversarial testing with 649 executable tests across MCP, A2A, x402/L402, decision governance, human-in-the-loop, and skill supply chain, aligned with OWASP Agentic T1-T17 and NIST AI 800-2. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-23)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
