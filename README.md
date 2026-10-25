@@ -1,6 +1,21 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **argus** (⭐ 84 stars) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security** (⭐ 157 stars) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **agent-threat-rules** (⭐ 422 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-24)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
