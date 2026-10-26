@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Beyond Copying: Lifelong Smart Contract Security Task Construction via Protocol Mutation** - AI agents inspect code and run tests to support smart contract security. https://arxiv.org/abs/2610.32453
+* **argus (⭐ 97 stars)** - Open-source agentic security operations platform. https://github.com/thomasunise/argus
+
+#### 🔒 Security of Agents
+* **Do AI-for-Science Agents Preserve Model Safety?** - Examines whether AI-for-Science agents preserve model safety. https://arxiv.org/abs/2610.32045
+* **Agentic AI Defense: Decode-Time Provenance Binding for MCP** - Defends MCP-based agentic AI systems against indirect prompt injection via untrusted tool outputs. https://arxiv.org/abs/2610.31974
+* **DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring** - Benchmark for measuring scientific safety risks and actionable misuse guidance from LLMs. https://arxiv.org/abs/2607.18665
+* **agent-security (⭐ 157 stars)** - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions. https://github.com/solongate/agent-security
+* **AgentSafety-Papers (⭐ 13 stars)** - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security (⭐ 120 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-25)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
