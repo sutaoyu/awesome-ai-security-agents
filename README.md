@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LM-DSB** - Lightweight multi-agent system for automated daily safety bulletin generation in construction. [https://arxiv.org/abs/2610.36433](https://arxiv.org/abs/2610.36433)
+* **Generation and Verification: Human-Agent Collaboration for Safety-Critical Automotive Software Engineering** - Human-agent collaboration for generation and verification in safety-critical automotive software engineering. [https://arxiv.org/abs/2610.35982](https://arxiv.org/abs/2610.35982)
+* **shep** (⭐ 269) - AI agent platform with built-in memory, K8s agent, and security for SDD/SDLC workflows. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol** - Prompt injection attacks on tool-using LLM agents through MCP. [https://arxiv.org/abs/2610.36108](https://arxiv.org/abs/2610.36108)
+* **Detecting and Mitigating Query-Based System Prompt Leakage Attacks** - Detection and mitigation of query-based system prompt leakage attacks on LLMs. [https://arxiv.org/abs/2610.36295](https://arxiv.org/abs/2610.36295)
+* **agent-security** (⭐ 158) - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and on-device auditing. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 119) - Agentic workforce platform emphasizing safe, secure, and compliant operation. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-27)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
