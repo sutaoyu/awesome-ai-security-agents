@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-10-31)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0** - Evaluates AI security agents and harnesses alongside deterministic SAST. [https://arxiv.org/abs/2610.38617](https://arxiv.org/abs/2610.38617)
+
+#### 🔒 Security of Agents
+* **Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems** - Proposes auditable belief updates as a safety layer for LLM multi-agent systems. [https://arxiv.org/abs/2610.38869](https://arxiv.org/abs/2610.38869)
+* **Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction** - Studies a role grounding attack against LLM agent memory via social interaction. [https://arxiv.org/abs/2610.38209](https://arxiv.org/abs/2610.38209)
+* **Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation** - Security evaluation of manifest-assisted retrieval in AI search. [https://arxiv.org/abs/2610.38361](https://arxiv.org/abs/2610.38361)
+* **offense** (⭐ 44) - OpenRouter-style project focused on agent security. [https://github.com/offense-research/offense](https://github.com/offense-research/offense)
+* **AgentSafety-Papers** (⭐ 14) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **awesome-llm-security** (⭐ 47) - Curated agentic security, LLM security tools, research, and documents. [https://github.com/beyefendi/awesome-llm-security](https://github.com/beyefendi/awesome-llm-security)
+* **agentic-security** (⭐ 119) - Focuses on safe, secure, and compliant agentic workforce deployment. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-30)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
