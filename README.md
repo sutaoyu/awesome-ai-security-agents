@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None identified from the provided raw data.
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 15) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 119) - Agentic workforce project emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **Awesome-Agentic-Security** (⭐ 63) - Curated papers on Agentic Security covering red/blue teaming applications, threats such as injection/poisoning/jailbreak, and defenses. https://github.com/kagnlp/Awesome-Agentic-Security
+* **agentic_security** (⭐ 2038) - Agentic LLM vulnerability scanner / AI red teaming kit. https://github.com/msoedov/agentic_security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-10-31)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
