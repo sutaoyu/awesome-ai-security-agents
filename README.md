@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense** - Decentralized LLM multi-agent teams for perimeter defense. https://arxiv.org/abs/2610.41044
+* **LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale** - Energy-efficient agentic AI for semi-automated SOC operations at scale. https://arxiv.org/abs/2610.41072
+
+#### 🔒 Security of Agents
+* **Beyond Plausible Prediction: Safety Sufficiency in Web World Models** - Safety sufficiency for web world models used by agents to predict action consequences. https://arxiv.org/abs/2610.40798
+* **Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents** - Robust memory management to accept legitimate changes and reject attacks on LLM agents. https://arxiv.org/abs/2610.41056
+* **agentic-security (⭐ 120 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers (⭐ 15 stars)** - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agent-threat-rules (⭐ 423 stars)** - Detection-rule standard for AI agent security threats such as prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agent-security (⭐ 228 stars)** - Local-first security gateway for AI coding agents, enforcing tool-call policies, secret detection, and action auditing. https://github.com/solongate/agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-01)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
