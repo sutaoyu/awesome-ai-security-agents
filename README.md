@@ -6,6 +6,25 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent with security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **argus** (⭐ 121 stars) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+
+#### 🔒 Security of Agents
+* **Cumulative and Audited Guardrail Tool Evolution for LLM Agent Safety** - Paper on audited guardrail tool evolution for LLM agent safety. [https://arxiv.org/abs/2611.02516](https://arxiv.org/abs/2611.02516)
+* **Predictive Safety Guardrails Do Not Always Make LLM Agents Safer** - Paper on predictive safety guardrails for LLM agents. [https://arxiv.org/abs/2611.02815](https://arxiv.org/abs/2611.02815)
+* **Step-Zero Attack: Agent Safety Before Observability** - Paper on attacks and defenses for coding agents before observability. [https://arxiv.org/abs/2611.01953](https://arxiv.org/abs/2611.01953)
+* **Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security** - Paper on the tool update gap in LLM agent security beyond prompt injection. [https://arxiv.org/abs/2611.01976](https://arxiv.org/abs/2611.01976)
+* **AgentSafety-Papers** (⭐ 15 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 120 stars) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense** - Decentralized LLM multi-agent teams for perimeter defense. https://arxiv.org/abs/2610.41044
 * **LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale** - Energy-efficient agentic AI for semi-automated SOC operations at scale. https://arxiv.org/abs/2610.41072
 
