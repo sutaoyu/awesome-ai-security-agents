@@ -1,6 +1,26 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-05)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **None identified** - No item in the provided raw data clearly describes using AI agents for cybersecurity defense, auditing, or monitoring.
+
+#### 🔒 Security of Agents
+* **The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents** - Studies self-evolving adversarial attacks against LLM-powered search agents. [https://arxiv.org/abs/2611.03754](https://arxiv.org/abs/2611.03754)
+* **RuntimeTickets: Source-Grounded Security Obligations for Agent Skills** - Defines security obligations to prevent malicious Agent Skills from hiding data exposure or output manipulation. [https://arxiv.org/abs/2611.03772](https://arxiv.org/abs/2611.03772)
+* **When Debate Amplifies Risk: Social-Bias Vulnerabilities in Multi-Agent Safety Deliberation** - Analyzes social-bias vulnerabilities in multi-agent safety deliberation. [https://arxiv.org/abs/2611.04289](https://arxiv.org/abs/2611.04289)
+* **Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents** - Examines weaponized safety warnings that can manipulate and control AI agents via retrieved content. [https://arxiv.org/abs/2611.04393](https://arxiv.org/abs/2611.04393)
+* **AgentSafety-Papers** (⭐ 16) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric** (⭐ 33) - AI agent security harness for adversarial testing across MCP, A2A, governance, supply chain, and related agentic threats. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agentic-security** (⭐ 120) - Focuses on safe, secure, and compliant agentic workforce deployment. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **agent-threat-rules** (⭐ 425) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-03)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
