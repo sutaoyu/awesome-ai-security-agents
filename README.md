@@ -6,6 +6,25 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* **ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks** - Adaptive red-teaming agent using plug-and-play attacks to stress-test multimodal model safety. [https://arxiv.org/abs/2510.02677](https://arxiv.org/abs/2510.02677)
+
+#### 🔒 Security of Agents
+* **Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks** - Benchmarks indirect prompt injection via task-tampering attacks against tool-using agents. [https://arxiv.org/abs/2611.07640](https://arxiv.org/abs/2611.07640)
+* **Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test** - Stress-tests whether LLM safety judges used for agent safety are policy-invariant. [https://arxiv.org/abs/2605.06161](https://arxiv.org/abs/2605.06161)
+* **The Price of Safety: Benign-Case Utility and Token Overhead of Memory-Poisoning Defenses in LLM Agents** - Examines benign-case utility and token overhead of memory-poisoning defenses in LLM agents. [https://arxiv.org/abs/2609.22818](https://arxiv.org/abs/2609.22818)
+* **red-team-blue-team-agent-fabric (⭐ 33 stars)** - AI agent security harness for adversarial testing across MCP, A2A, governance, benchmark integrity, and supply-chain threats. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules (⭐ 426 stars)** - Open detection-rule standard for AI agent threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **AgentSafety-Papers (⭐ 16 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security (⭐ 187 stars)** - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and action auditing. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **A Hybrid Approach for Automated Security Pattern Recovery** - Automated recovery of security patterns to support security-by-design. [https://arxiv.org/abs/2611.05823](https://arxiv.org/abs/2611.05823)
 * **argus (⭐ 131 stars)** - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
 
