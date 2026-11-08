@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+None identified.
+
+#### 🔒 Security of Agents
+* **agent-threat-rules** (⭐ 427 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 121 stars) - Agentic workforce security/compliance positioning with safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric** (⭐ 34 stars) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-07)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
