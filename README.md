@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **argus** (⭐ 143) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+* **auditor-skill** (⭐ 63) - Claude Code / agentic security skill for auditing Solana programs and software, including PoC and fix-patch delivery. [https://github.com/solanabr/auditor-skill](https://github.com/solanabr/auditor-skill)
+
+#### 🔒 Security of Agents
+* **I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents** - Evaluates thought injection attacks on reasoning agents and large reasoning models. [https://arxiv.org/abs/2611.08811](https://arxiv.org/abs/2611.08811)
+* **Zero-Query Transferable Pretend Benign Attacks with Amortized Online Generation for Cooperative Perception** - Studies transferable pretend-benign attacks against cooperative perception agents. [https://arxiv.org/abs/2611.09256](https://arxiv.org/abs/2611.09256)
+* **Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational Agents** - Addresses memory, safety, and continuity governance for relational agents, including intrusion and emotional manipulation risks. [https://arxiv.org/abs/2611.08504](https://arxiv.org/abs/2611.08504)
+* **HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety** - Simulation framework and benchmark for robot-IoT coordination in domestic assistance and safety. [https://arxiv.org/abs/2611.08914](https://arxiv.org/abs/2611.08914)
+* **AgentSafety-Papers** (⭐ 17) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 428) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-08)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
