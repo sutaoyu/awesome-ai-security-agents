@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on secure install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **SpiritScout** (⭐ 25 stars) - LLM-powered multi-agent security testing system for vulnerability research, CTF solving, and penetration testing. [https://github.com/FLIAZ/SpiritScout](https://github.com/FLIAZ/SpiritScout)
+
+#### 🔒 Security of Agents
+* **Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows** - Paper on constraining tail risks across multi-step LLM agent workflows. [https://arxiv.org/abs/2611.10411](https://arxiv.org/abs/2611.10411)
+* **Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning** - Paper on RL misalignment and contextual safety learning for agents. [https://arxiv.org/abs/2611.12865](https://arxiv.org/abs/2611.12865)
+* **Toward Safety-Aware AI Agents in Realistic Social Engineering Attack Scenarios** - Paper on securing personal AI agents against social engineering attacks. [https://arxiv.org/abs/2611.10037](https://arxiv.org/abs/2611.10037)
+* **Enmo Safety: External, Non-invasive, Model-agnostic Oversight for Off-the-Shelf Language Models** - Paper on an external safety harness and oversight for off-the-shelf language models. [https://arxiv.org/abs/2611.10099](https://arxiv.org/abs/2611.10099)
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 429 stars) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-10)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
