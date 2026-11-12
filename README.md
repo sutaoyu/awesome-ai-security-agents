@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-12)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+No items from the provided raw data were classified in this category.
+
+#### 🔒 Security of Agents
+* **Stinging the Swarm: Extracting Attacker Intelligence from a Twin-Controller OT Honeypot** - OT honeypot study extracting attacker intelligence from autonomous LM-agent swarms probing industrial controllers. [https://arxiv.org/abs/2611.13406](https://arxiv.org/abs/2611.13406)
+* **From Attack Surface to Defense Architecture: Compositional Security for Agentic Coding Harnesses** - Security architecture for agentic coding harnesses that connect LLMs to shells, filesystems, and network sockets. [https://arxiv.org/abs/2611.13960](https://arxiv.org/abs/2611.13960)
+* **Specification-based Security Evaluation of Real-World Agents Tool-Calling under Long-Horizon Context Tasks** - Specification-based security evaluation of LLM agents’ tool-calling in long-horizon tasks. [https://arxiv.org/abs/2506.15253](https://arxiv.org/abs/2506.15253)
+* **AgentSafety-Papers (⭐ 17 stars)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric (⭐ 34 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and related agentic threats. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules (⭐ 429 stars)** - Open detection-rule standard for AI agent threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentic_security (⭐ 2044 stars)** - Agentic LLM vulnerability scanner and AI red-teaming kit. [https://github.com/msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-11)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
