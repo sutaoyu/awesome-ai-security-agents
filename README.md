@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Food Critic** - Agentic visualization system for auditable restaurant-safety reasoning. [https://arxiv.org/abs/2611.15843](https://arxiv.org/abs/2611.15843)
+
+#### 🔒 Security of Agents
+* **S1-Evo** - Experience-guided evidence competition attacks on typed System-1 decision models in LLM agents. [https://arxiv.org/abs/2611.16937](https://arxiv.org/abs/2611.16937)
+* **CapLite** - Prompt-injection defense for small language model agents without model-written security artifacts. [https://arxiv.org/abs/2611.17115](https://arxiv.org/abs/2611.17115)
+* **OverServe** - Resource amplification attacks on SaaS agents via tool–prompt co-design. [https://arxiv.org/abs/2611.14808](https://arxiv.org/abs/2611.14808)
+* **awesome-ai-agent-attacks** (⭐ 91 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024–2026). [https://github.com/webpro255/awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **pre-production-checklist** (⭐ 17 stars) - Pre-production checklists with AI/agent security coverage and common AI-coding-assistant bugs. [https://github.com/FarzamHabibi/pre-production-checklist](https://github.com/FarzamHabibi/pre-production-checklist)
+* **agent-threat-rules** (⭐ 429 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-13)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
