@@ -6,6 +6,22 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+No items in the provided raw data.
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 121) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers** (⭐ 17) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic_security** (⭐ 2046) - Agentic LLM vulnerability scanner and AI red teaming kit. [https://github.com/msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+* **agent-security** (⭐ 688) - Local-first security gateway for AI coding agents, enforcing tool-call policies, detecting secrets, and auditing actions. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **Food Critic** - Agentic visualization system for auditable restaurant-safety reasoning. [https://arxiv.org/abs/2611.15843](https://arxiv.org/abs/2611.15843)
 
 #### 🔒 Security of Agents
