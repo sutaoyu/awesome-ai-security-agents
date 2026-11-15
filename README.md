@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None identified from the provided raw data.
+
+#### 🔒 Security of Agents
+* **[agent-security]** (⭐ 691) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. [Link](https://github.com/solongate/agent-security)
+* **[AgentSafety-Papers]** (⭐ 17) - Daily tracking of LLM agent security papers on arXiv. [Link](https://github.com/NY1024/AgentSafety-Papers)
+* **[agentic-security]** (⭐ 121) - Agentic workforce platform positioned with safe, secure, and compliant defaults. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **[agent-latch]** (⭐ 11) - Local-first AI agent security scanner and MCP traffic monitor; finds prompt injection, over-privileged tools, and secrets, and records MCP tool calls with secrets masked. [Link](https://github.com/AgentLatch/agent-latch)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-14)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
