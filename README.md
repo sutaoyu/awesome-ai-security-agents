@@ -1,6 +1,23 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32) - Azure Linux servicing agent with security-focused install, provisioning, and update capabilities. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners** - Paper on adversarial attacks exploiting symbolic vocabulary vulnerabilities in LLM planners. [https://arxiv.org/abs/2611.17910](https://arxiv.org/abs/2611.17910)
+* **S1-Evo: Experience-Guided Evidence Competition Attacks on Typed System-1 Decision Models** - Paper on attacks against typed System-1 decision models used in LLM agents. [https://arxiv.org/abs/2611.16937](https://arxiv.org/abs/2611.16937)
+* **agentic-security** (⭐ 121) - Agentic workforce repo positioning safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers** (⭐ 17) - Daily tracking repository for LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **VirbiusAgent** (⭐ 29) - AI agent security platform with prompt injection defense, MCP tool-call guardrails, and eBPF runtime observability. [https://github.com/i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-15)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
