@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **agentic-security** (⭐ 121 stars) - Agentic workforce framing safe, secure, and compliant workflows as the default. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+#### 🔒 Security of Agents
+* **Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety** - Examines limits of text-similarity guardrails when injected instructions propagate across AI agents. [https://arxiv.org/abs/2611.21520](https://arxiv.org/abs/2611.21520)
+* **When Helpful Agents Cause Financial Harm: Evaluating LLM Agent Safety in Executable Economic Worlds** - Evaluates LLM agent safety under economic pressures and financial harm. [https://arxiv.org/abs/2611.18612](https://arxiv.org/abs/2611.18612)
+* **Agent-ZTA: A chain-Aware Zero Trust Model for Bidirectional Security-State Propagation and Runtime Containment in Multi-Agent Delegation** - Proposes chain-aware zero trust for security-state propagation and runtime containment in multi-agent delegation. [https://arxiv.org/abs/2611.18999](https://arxiv.org/abs/2611.18999)
+* **The Critic Can Hurt: On the Safety of Critics in LLM-Guided AutoML Search** - Studies safety risks of LLM critics steering agentic AutoML search. [https://arxiv.org/abs/2611.19037](https://arxiv.org/abs/2611.19037)
+* **AgentSafety-Papers** (⭐ 17 stars) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 435 stars) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **nearai-red-sandbox** (⭐ 13 stars) - MicroVM sandbox for agentic security research and red teaming. [https://github.com/nearai/nearai-red-sandbox](https://github.com/nearai/nearai-red-sandbox)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-17)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
