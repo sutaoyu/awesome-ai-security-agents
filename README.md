@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Adaptive LLM-Driven Honeypots vs. LLM-Driven Attackers: Does Narrative Coherence Improve Deception?** - LLM-driven honeypots for deception against LLM-driven attackers. [https://arxiv.org/abs/2611.22589](https://arxiv.org/abs/2611.22589)
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research** - Study of detecting sabotage by misaligned AI systems in AI safety research transcripts. [https://arxiv.org/abs/2611.21832](https://arxiv.org/abs/2611.21832)
+* **Evolution Under Fire: Evolving Agent Safety Harnesses with Adaptive Injection Stressors** - Evolving safety harnesses for tool-using LM agents against adaptive injection stressors from untrusted content. [https://arxiv.org/abs/2611.22583](https://arxiv.org/abs/2611.22583)
+* **Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios** - Benchmark for vision-language model embodied controllers in safety-critical scenarios. [https://arxiv.org/abs/2608.08077](https://arxiv.org/abs/2608.08077)
+* **red-team-blue-team-agent-fabric (⭐ 34 stars)** - AI agent security harness for adversarial testing across MCP, A2A, decision governance, supply chain, and OWASP Agentic/NIST AI 800-2 controls. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **AgentSafety-Papers (⭐ 17 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security (⭐ 121 stars)** - Agentic workforce security/compliance repo aiming to make safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-18)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
