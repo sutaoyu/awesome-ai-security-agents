@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **tracecat** (⭐ 3907 stars) - Open-source agentic security automation platform. [https://github.com/TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on security install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Disagreement-Guided Agentic Data Curation for Multimodal Safety** - Paper on disagreement-guided agentic data curation to improve multimodal safety boundaries. [https://arxiv.org/abs/2607.14256](https://arxiv.org/abs/2607.14256)
+* **agentic-security** (⭐ 121 stars) - Repo for building a safe, secure, and compliant agentic workforce. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers** (⭐ 17 stars) - Repo tracking LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-19)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
