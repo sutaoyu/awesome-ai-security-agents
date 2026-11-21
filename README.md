@@ -6,6 +6,23 @@
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
 
 #### 🛡️ Agents for Security
+* **SpiritScout** (⭐ 30) - LLM-powered multi-agent security testing system for vulnerability research, CTF solving, and automated penetration testing with dynamic task planning and parallel agent collaboration. https://github.com/FLIAZ/SpiritScout
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 17) - Curated daily tracking of LLM agent security papers on arXiv, aggregating research on agent safety. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 121) - Framework for deploying an agentic workforce with safe, secure, and compliant defaults built in. https://github.com/Clear-Capabilities/agentic-security
+* **nearai-red-sandbox** (⭐ 13) - NEAR AI Red: microVM-based sandbox for agentic security research and red teaming of AI agents. https://github.com/nearai/nearai-red-sandbox
+
+*Note: No new arXiv papers were included in the provided raw data, so only GitHub repos are classified above.*
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
 * **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
 
 #### 🔒 Security of Agents
