@@ -1,6 +1,25 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Pandora's Toolbox Or Why Agent Safety Cannot Be Verified** - Discusses why agent safety cannot be verified for LLM-based agents coupled with general computing devices. [https://arxiv.org/abs/2611.25325](https://arxiv.org/abs/2611.25325)
+* **A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps** - Introduces DRJanus, a visual camouflage attack that bypasses automated safety checks to show harmful content to viewers. [https://arxiv.org/abs/2611.25469](https://arxiv.org/abs/2611.25469)
+* **Backtracking Agent Applications Security Incidents** - Examines backtracking and investigation of security incidents caused by agent-specific attacks. [https://arxiv.org/abs/2611.26525](https://arxiv.org/abs/2611.26525)
+* **Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)** - Focuses on auditing, investigating, and replicating security events involving LLM agents. [https://arxiv.org/abs/2611.26553](https://arxiv.org/abs/2611.26553)
+* **AgentSafety-Papers (⭐ 17 stars)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules (⭐ 439 stars)** - Open detection-rule standard for AI agent security threats such as prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentic-security (⭐ 121 stars)** - Focuses on safe, secure, and compliant defaults for an agentic workforce. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-20)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
