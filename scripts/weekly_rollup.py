@@ -44,6 +44,11 @@ def parse_weekly_items(weekly_body: str) -> list[dict]:
 
     for raw_line in weekly_body.splitlines():
         line = raw_line.strip()
+        if line.startswith(">"):
+            quote = line.lstrip(">").strip()
+            if quote and items and not items[-1].get("description"):
+                items[-1]["description"] = quote
+            continue
         if "Agents for Security" in line and line.startswith("#"):
             current_category = CATEGORY_AGENTS_FOR_SECURITY
             continue
@@ -65,6 +70,7 @@ def parse_weekly_items(weekly_body: str) -> list[dict]:
             continue
 
         working = re.sub(r"^\*\s+", "", line).strip()
+        working = re.sub(r"!\[[^\]]*\]\([^)]+\)\s*", "", working)
         name = ""
         link_name = re.match(r"^\[([^\]]+)\]\((https?://[^)]+)\)\s*", working)
         if link_name and not working.startswith("**"):

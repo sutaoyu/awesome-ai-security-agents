@@ -25,9 +25,11 @@ We curate an Awesome List of **AI security agents**, specifically addressing:
 
 #### Security of Agents
 
-* **AgentSafety-Papers** - Repository for daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
-* **oasb** - Open Agent Security Benchmark with 223 attack scenarios, adapter interface, and MITRE ATLAS mapping. https://github.com/opena2a-org/oasb
-* **red-team-blue-team-agent-fabric** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and supply chain risks. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* ![AgentSafety-Papers Stars](https://img.shields.io/github/stars/NY1024/AgentSafety-Papers) [AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers) - Repository for daily tracking of LLM agent security papers on arXiv.
+
+* ![oasb Stars](https://img.shields.io/github/stars/opena2a-org/oasb) [oasb](https://github.com/opena2a-org/oasb) - Open Agent Security Benchmark with 223 attack scenarios, adapter interface, and MITRE ATLAS mapping.
+
+* ![red-team-blue-team-agent-fabric Stars](https://img.shields.io/github/stars/msaleme/red-team-blue-team-agent-fabric) [red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and supply chain risks.
 
 ---
 <!-- WEEKLY_END -->

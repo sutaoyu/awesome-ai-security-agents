@@ -31,7 +31,7 @@ from common import (
     load_seen,
     normalize_url,
     now_beijing,
-    render_bullet,
+    render_catalog_entry,
     enrich_arxiv_paper_names,
     resolve_item_type,
     save_seen,
@@ -213,6 +213,20 @@ RULES:
     return enrich_arxiv_paper_names(result)
 
 
+def render_daily_items(items: list[dict], date_str: str) -> list[str]:
+    if not items:
+        return ["*None today.*"]
+    lines: list[str] = []
+    for item in items:
+        entry = dict(item)
+        entry.setdefault("first_seen", date_str)
+        entry["type"] = resolve_item_type(entry)
+        if lines:
+            lines.append("")
+        lines.append(render_catalog_entry(entry))
+    return lines
+
+
 def render_daily_section(date_str: str, items: list[dict]) -> str:
     for_sec = [i for i in items if i["category"] == CATEGORY_AGENTS_FOR_SECURITY]
     of_sec = [i for i in items if i["category"] == CATEGORY_SECURITY_OF_AGENTS]
@@ -223,17 +237,15 @@ def render_daily_section(date_str: str, items: list[dict]) -> str:
         "",
         "#### Agents for Security",
         "",
+        *render_daily_items(for_sec, date_str),
+        "",
+        "#### Security of Agents",
+        "",
+        *render_daily_items(of_sec, date_str),
+        "",
+        "---",
+        "",
     ]
-    if for_sec:
-        lines.extend(render_bullet(i) for i in for_sec)
-    else:
-        lines.append("*None today.*")
-    lines.extend(["", "#### Security of Agents", ""])
-    if of_sec:
-        lines.extend(render_bullet(i) for i in of_sec)
-    else:
-        lines.append("*None today.*")
-    lines.extend(["", "---", ""])
     return "\n".join(lines)
 
 
