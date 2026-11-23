@@ -1,0 +1,2827 @@
+
+<!-- DAILY_REPORT_MARKER -->
+
+### 📅 Daily Security Intelligence (2026-11-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **SpiritScout** (⭐ 30) - LLM-powered multi-agent security testing system for vulnerability research, CTF solving, and automated penetration testing with dynamic task planning and parallel agent collaboration. https://github.com/FLIAZ/SpiritScout
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 17) - Curated daily tracking of LLM agent security papers on arXiv, aggregating research on agent safety. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 121) - Framework for deploying an agentic workforce with safe, secure, and compliant defaults built in. https://github.com/Clear-Capabilities/agentic-security
+* **nearai-red-sandbox** (⭐ 13) - NEAR AI Red: microVM-based sandbox for agentic security research and red teaming of AI agents. https://github.com/nearai/nearai-red-sandbox
+
+*Note: No new arXiv papers were included in the provided raw data, so only GitHub repos are classified above.*
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Pandora's Toolbox Or Why Agent Safety Cannot Be Verified** - Discusses why agent safety cannot be verified for LLM-based agents coupled with general computing devices. [https://arxiv.org/abs/2611.25325](https://arxiv.org/abs/2611.25325)
+* **A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps** - Introduces DRJanus, a visual camouflage attack that bypasses automated safety checks to show harmful content to viewers. [https://arxiv.org/abs/2611.25469](https://arxiv.org/abs/2611.25469)
+* **Backtracking Agent Applications Security Incidents** - Examines backtracking and investigation of security incidents caused by agent-specific attacks. [https://arxiv.org/abs/2611.26525](https://arxiv.org/abs/2611.26525)
+* **Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)** - Focuses on auditing, investigating, and replicating security events involving LLM agents. [https://arxiv.org/abs/2611.26553](https://arxiv.org/abs/2611.26553)
+* **AgentSafety-Papers (⭐ 17 stars)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules (⭐ 439 stars)** - Open detection-rule standard for AI agent security threats such as prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentic-security (⭐ 121 stars)** - Focuses on safe, secure, and compliant defaults for an agentic workforce. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **tracecat** (⭐ 3907 stars) - Open-source agentic security automation platform. [https://github.com/TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on security install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Disagreement-Guided Agentic Data Curation for Multimodal Safety** - Paper on disagreement-guided agentic data curation to improve multimodal safety boundaries. [https://arxiv.org/abs/2607.14256](https://arxiv.org/abs/2607.14256)
+* **agentic-security** (⭐ 121 stars) - Repo for building a safe, secure, and compliant agentic workforce. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers** (⭐ 17 stars) - Repo tracking LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Adaptive LLM-Driven Honeypots vs. LLM-Driven Attackers: Does Narrative Coherence Improve Deception?** - LLM-driven honeypots for deception against LLM-driven attackers. [https://arxiv.org/abs/2611.22589](https://arxiv.org/abs/2611.22589)
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research** - Study of detecting sabotage by misaligned AI systems in AI safety research transcripts. [https://arxiv.org/abs/2611.21832](https://arxiv.org/abs/2611.21832)
+* **Evolution Under Fire: Evolving Agent Safety Harnesses with Adaptive Injection Stressors** - Evolving safety harnesses for tool-using LM agents against adaptive injection stressors from untrusted content. [https://arxiv.org/abs/2611.22583](https://arxiv.org/abs/2611.22583)
+* **Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios** - Benchmark for vision-language model embodied controllers in safety-critical scenarios. [https://arxiv.org/abs/2608.08077](https://arxiv.org/abs/2608.08077)
+* **red-team-blue-team-agent-fabric (⭐ 34 stars)** - AI agent security harness for adversarial testing across MCP, A2A, decision governance, supply chain, and OWASP Agentic/NIST AI 800-2 controls. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **AgentSafety-Papers (⭐ 17 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security (⭐ 121 stars)** - Agentic workforce security/compliance repo aiming to make safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **agentic-security** (⭐ 121 stars) - Agentic workforce framing safe, secure, and compliant workflows as the default. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+#### 🔒 Security of Agents
+* **Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety** - Examines limits of text-similarity guardrails when injected instructions propagate across AI agents. [https://arxiv.org/abs/2611.21520](https://arxiv.org/abs/2611.21520)
+* **When Helpful Agents Cause Financial Harm: Evaluating LLM Agent Safety in Executable Economic Worlds** - Evaluates LLM agent safety under economic pressures and financial harm. [https://arxiv.org/abs/2611.18612](https://arxiv.org/abs/2611.18612)
+* **Agent-ZTA: A chain-Aware Zero Trust Model for Bidirectional Security-State Propagation and Runtime Containment in Multi-Agent Delegation** - Proposes chain-aware zero trust for security-state propagation and runtime containment in multi-agent delegation. [https://arxiv.org/abs/2611.18999](https://arxiv.org/abs/2611.18999)
+* **The Critic Can Hurt: On the Safety of Critics in LLM-Guided AutoML Search** - Studies safety risks of LLM critics steering agentic AutoML search. [https://arxiv.org/abs/2611.19037](https://arxiv.org/abs/2611.19037)
+* **AgentSafety-Papers** (⭐ 17 stars) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 435 stars) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **nearai-red-sandbox** (⭐ 13 stars) - MicroVM sandbox for agentic security research and red teaming. [https://github.com/nearai/nearai-red-sandbox](https://github.com/nearai/nearai-red-sandbox)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32) - Azure Linux servicing agent with security-focused install, provisioning, and update capabilities. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners** - Paper on adversarial attacks exploiting symbolic vocabulary vulnerabilities in LLM planners. [https://arxiv.org/abs/2611.17910](https://arxiv.org/abs/2611.17910)
+* **S1-Evo: Experience-Guided Evidence Competition Attacks on Typed System-1 Decision Models** - Paper on attacks against typed System-1 decision models used in LLM agents. [https://arxiv.org/abs/2611.16937](https://arxiv.org/abs/2611.16937)
+* **agentic-security** (⭐ 121) - Agentic workforce repo positioning safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers** (⭐ 17) - Daily tracking repository for LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **VirbiusAgent** (⭐ 29) - AI agent security platform with prompt injection defense, MCP tool-call guardrails, and eBPF runtime observability. [https://github.com/i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None identified from the provided raw data.
+
+#### 🔒 Security of Agents
+* **[agent-security]** (⭐ 691) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. [Link](https://github.com/solongate/agent-security)
+* **[AgentSafety-Papers]** (⭐ 17) - Daily tracking of LLM agent security papers on arXiv. [Link](https://github.com/NY1024/AgentSafety-Papers)
+* **[agentic-security]** (⭐ 121) - Agentic workforce platform positioned with safe, secure, and compliant defaults. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **[agent-latch]** (⭐ 11) - Local-first AI agent security scanner and MCP traffic monitor; finds prompt injection, over-privileged tools, and secrets, and records MCP tool calls with secrets masked. [Link](https://github.com/AgentLatch/agent-latch)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+No items in the provided raw data.
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 121) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers** (⭐ 17) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic_security** (⭐ 2046) - Agentic LLM vulnerability scanner and AI red teaming kit. [https://github.com/msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+* **agent-security** (⭐ 688) - Local-first security gateway for AI coding agents, enforcing tool-call policies, detecting secrets, and auditing actions. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Food Critic** - Agentic visualization system for auditable restaurant-safety reasoning. [https://arxiv.org/abs/2611.15843](https://arxiv.org/abs/2611.15843)
+
+#### 🔒 Security of Agents
+* **S1-Evo** - Experience-guided evidence competition attacks on typed System-1 decision models in LLM agents. [https://arxiv.org/abs/2611.16937](https://arxiv.org/abs/2611.16937)
+* **CapLite** - Prompt-injection defense for small language model agents without model-written security artifacts. [https://arxiv.org/abs/2611.17115](https://arxiv.org/abs/2611.17115)
+* **OverServe** - Resource amplification attacks on SaaS agents via tool–prompt co-design. [https://arxiv.org/abs/2611.14808](https://arxiv.org/abs/2611.14808)
+* **awesome-ai-agent-attacks** (⭐ 91 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024–2026). [https://github.com/webpro255/awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **pre-production-checklist** (⭐ 17 stars) - Pre-production checklists with AI/agent security coverage and common AI-coding-assistant bugs. [https://github.com/FarzamHabibi/pre-production-checklist](https://github.com/FarzamHabibi/pre-production-checklist)
+* **agent-threat-rules** (⭐ 429 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent for security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security** (⭐ 685 stars) - Local-first security gateway for AI coding agents, enforcing tool-call policies, detecting secrets, and auditing actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **agent-threat-rules** (⭐ 429 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-12)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+No items from the provided raw data were classified in this category.
+
+#### 🔒 Security of Agents
+* **Stinging the Swarm: Extracting Attacker Intelligence from a Twin-Controller OT Honeypot** - OT honeypot study extracting attacker intelligence from autonomous LM-agent swarms probing industrial controllers. [https://arxiv.org/abs/2611.13406](https://arxiv.org/abs/2611.13406)
+* **From Attack Surface to Defense Architecture: Compositional Security for Agentic Coding Harnesses** - Security architecture for agentic coding harnesses that connect LLMs to shells, filesystems, and network sockets. [https://arxiv.org/abs/2611.13960](https://arxiv.org/abs/2611.13960)
+* **Specification-based Security Evaluation of Real-World Agents Tool-Calling under Long-Horizon Context Tasks** - Specification-based security evaluation of LLM agents’ tool-calling in long-horizon tasks. [https://arxiv.org/abs/2506.15253](https://arxiv.org/abs/2506.15253)
+* **AgentSafety-Papers (⭐ 17 stars)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric (⭐ 34 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and related agentic threats. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules (⭐ 429 stars)** - Open detection-rule standard for AI agent threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentic_security (⭐ 2044 stars)** - Agentic LLM vulnerability scanner and AI red-teaming kit. [https://github.com/msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on secure install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **SpiritScout** (⭐ 25 stars) - LLM-powered multi-agent security testing system for vulnerability research, CTF solving, and penetration testing. [https://github.com/FLIAZ/SpiritScout](https://github.com/FLIAZ/SpiritScout)
+
+#### 🔒 Security of Agents
+* **Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows** - Paper on constraining tail risks across multi-step LLM agent workflows. [https://arxiv.org/abs/2611.10411](https://arxiv.org/abs/2611.10411)
+* **Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning** - Paper on RL misalignment and contextual safety learning for agents. [https://arxiv.org/abs/2611.12865](https://arxiv.org/abs/2611.12865)
+* **Toward Safety-Aware AI Agents in Realistic Social Engineering Attack Scenarios** - Paper on securing personal AI agents against social engineering attacks. [https://arxiv.org/abs/2611.10037](https://arxiv.org/abs/2611.10037)
+* **Enmo Safety: External, Non-invasive, Model-agnostic Oversight for Off-the-Shelf Language Models** - Paper on an external safety harness and oversight for off-the-shelf language models. [https://arxiv.org/abs/2611.10099](https://arxiv.org/abs/2611.10099)
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 429 stars) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **argus** (⭐ 143) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+* **auditor-skill** (⭐ 63) - Claude Code / agentic security skill for auditing Solana programs and software, including PoC and fix-patch delivery. [https://github.com/solanabr/auditor-skill](https://github.com/solanabr/auditor-skill)
+
+#### 🔒 Security of Agents
+* **I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents** - Evaluates thought injection attacks on reasoning agents and large reasoning models. [https://arxiv.org/abs/2611.08811](https://arxiv.org/abs/2611.08811)
+* **Zero-Query Transferable Pretend Benign Attacks with Amortized Online Generation for Cooperative Perception** - Studies transferable pretend-benign attacks against cooperative perception agents. [https://arxiv.org/abs/2611.09256](https://arxiv.org/abs/2611.09256)
+* **Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational Agents** - Addresses memory, safety, and continuity governance for relational agents, including intrusion and emotional manipulation risks. [https://arxiv.org/abs/2611.08504](https://arxiv.org/abs/2611.08504)
+* **HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety** - Simulation framework and benchmark for robot-IoT coordination in domestic assistance and safety. [https://arxiv.org/abs/2611.08914](https://arxiv.org/abs/2611.08914)
+* **AgentSafety-Papers** (⭐ 17) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 428) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+None identified.
+
+#### 🔒 Security of Agents
+* **agent-threat-rules** (⭐ 427 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **AgentSafety-Papers** (⭐ 17 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 121 stars) - Agentic workforce security/compliance positioning with safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric** (⭐ 34 stars) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent focused on security install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers (⭐ 17 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric (⭐ 34 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules (⭐ 426 stars)** - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks** - Adaptive red-teaming agent using plug-and-play attacks to stress-test multimodal model safety. [https://arxiv.org/abs/2510.02677](https://arxiv.org/abs/2510.02677)
+
+#### 🔒 Security of Agents
+* **Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks** - Benchmarks indirect prompt injection via task-tampering attacks against tool-using agents. [https://arxiv.org/abs/2611.07640](https://arxiv.org/abs/2611.07640)
+* **Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test** - Stress-tests whether LLM safety judges used for agent safety are policy-invariant. [https://arxiv.org/abs/2605.06161](https://arxiv.org/abs/2605.06161)
+* **The Price of Safety: Benign-Case Utility and Token Overhead of Memory-Poisoning Defenses in LLM Agents** - Examines benign-case utility and token overhead of memory-poisoning defenses in LLM agents. [https://arxiv.org/abs/2609.22818](https://arxiv.org/abs/2609.22818)
+* **red-team-blue-team-agent-fabric (⭐ 33 stars)** - AI agent security harness for adversarial testing across MCP, A2A, governance, benchmark integrity, and supply-chain threats. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules (⭐ 426 stars)** - Open detection-rule standard for AI agent threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **AgentSafety-Papers (⭐ 16 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security (⭐ 187 stars)** - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and action auditing. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **A Hybrid Approach for Automated Security Pattern Recovery** - Automated recovery of security patterns to support security-by-design. [https://arxiv.org/abs/2611.05823](https://arxiv.org/abs/2611.05823)
+* **argus (⭐ 131 stars)** - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+
+#### 🔒 Security of Agents
+* **A.S.E 2.0: Understanding How Repository Context Impacts the Security of LLM-Generated Code** - Studies how repository context affects the security of code generated by LLM coding assistants/agents. [https://arxiv.org/abs/2611.06294](https://arxiv.org/abs/2611.06294)
+* **Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks** - Audits the validity of agent-safety benchmarks. [https://arxiv.org/abs/2607.28685](https://arxiv.org/abs/2607.28685)
+* **Agent Security is a Systems Problem** - Argues agent security must be treated as a systems problem with the AI model as untrusted. [https://arxiv.org/abs/2605.18991](https://arxiv.org/abs/2605.18991)
+* **AgentSafety-Papers (⭐ 16 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric (⭐ 33 stars)** - AI agent security harness for adversarial testing across MCP, A2A, governance, supply chain, and related agentic security controls. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agentic-security (⭐ 121 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-05)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **None identified** - No item in the provided raw data clearly describes using AI agents for cybersecurity defense, auditing, or monitoring.
+
+#### 🔒 Security of Agents
+* **The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents** - Studies self-evolving adversarial attacks against LLM-powered search agents. [https://arxiv.org/abs/2611.03754](https://arxiv.org/abs/2611.03754)
+* **RuntimeTickets: Source-Grounded Security Obligations for Agent Skills** - Defines security obligations to prevent malicious Agent Skills from hiding data exposure or output manipulation. [https://arxiv.org/abs/2611.03772](https://arxiv.org/abs/2611.03772)
+* **When Debate Amplifies Risk: Social-Bias Vulnerabilities in Multi-Agent Safety Deliberation** - Analyzes social-bias vulnerabilities in multi-agent safety deliberation. [https://arxiv.org/abs/2611.04289](https://arxiv.org/abs/2611.04289)
+* **Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents** - Examines weaponized safety warnings that can manipulate and control AI agents via retrieved content. [https://arxiv.org/abs/2611.04393](https://arxiv.org/abs/2611.04393)
+* **AgentSafety-Papers** (⭐ 16) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric** (⭐ 33) - AI agent security harness for adversarial testing across MCP, A2A, governance, supply chain, and related agentic threats. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agentic-security** (⭐ 120) - Focuses on safe, secure, and compliant agentic workforce deployment. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **agent-threat-rules** (⭐ 425) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent with security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **argus** (⭐ 121 stars) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+
+#### 🔒 Security of Agents
+* **Cumulative and Audited Guardrail Tool Evolution for LLM Agent Safety** - Paper on audited guardrail tool evolution for LLM agent safety. [https://arxiv.org/abs/2611.02516](https://arxiv.org/abs/2611.02516)
+* **Predictive Safety Guardrails Do Not Always Make LLM Agents Safer** - Paper on predictive safety guardrails for LLM agents. [https://arxiv.org/abs/2611.02815](https://arxiv.org/abs/2611.02815)
+* **Step-Zero Attack: Agent Safety Before Observability** - Paper on attacks and defenses for coding agents before observability. [https://arxiv.org/abs/2611.01953](https://arxiv.org/abs/2611.01953)
+* **Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security** - Paper on the tool update gap in LLM agent security beyond prompt injection. [https://arxiv.org/abs/2611.01976](https://arxiv.org/abs/2611.01976)
+* **AgentSafety-Papers** (⭐ 15 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 120 stars) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense** - Decentralized LLM multi-agent teams for perimeter defense. https://arxiv.org/abs/2610.41044
+* **LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale** - Energy-efficient agentic AI for semi-automated SOC operations at scale. https://arxiv.org/abs/2610.41072
+
+#### 🔒 Security of Agents
+* **Beyond Plausible Prediction: Safety Sufficiency in Web World Models** - Safety sufficiency for web world models used by agents to predict action consequences. https://arxiv.org/abs/2610.40798
+* **Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents** - Robust memory management to accept legitimate changes and reject attacks on LLM agents. https://arxiv.org/abs/2610.41056
+* **agentic-security (⭐ 120 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers (⭐ 15 stars)** - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agent-threat-rules (⭐ 423 stars)** - Detection-rule standard for AI agent security threats such as prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agent-security (⭐ 228 stars)** - Local-first security gateway for AI coding agents, enforcing tool-call policies, secret detection, and action auditing. https://github.com/solongate/agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-11-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None identified from the provided raw data.
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 15) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 119) - Agentic workforce project emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **Awesome-Agentic-Security** (⭐ 63) - Curated papers on Agentic Security covering red/blue teaming applications, threats such as injection/poisoning/jailbreak, and defenses. https://github.com/kagnlp/Awesome-Agentic-Security
+* **agentic_security** (⭐ 2038) - Agentic LLM vulnerability scanner / AI red teaming kit. https://github.com/msoedov/agentic_security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-31)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0** - Evaluates AI security agents and harnesses alongside deterministic SAST. [https://arxiv.org/abs/2610.38617](https://arxiv.org/abs/2610.38617)
+
+#### 🔒 Security of Agents
+* **Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems** - Proposes auditable belief updates as a safety layer for LLM multi-agent systems. [https://arxiv.org/abs/2610.38869](https://arxiv.org/abs/2610.38869)
+* **Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction** - Studies a role grounding attack against LLM agent memory via social interaction. [https://arxiv.org/abs/2610.38209](https://arxiv.org/abs/2610.38209)
+* **Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation** - Security evaluation of manifest-assisted retrieval in AI search. [https://arxiv.org/abs/2610.38361](https://arxiv.org/abs/2610.38361)
+* **offense** (⭐ 44) - OpenRouter-style project focused on agent security. [https://github.com/offense-research/offense](https://github.com/offense-research/offense)
+* **AgentSafety-Papers** (⭐ 14) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **awesome-llm-security** (⭐ 47) - Curated agentic security, LLM security tools, research, and documents. [https://github.com/beyefendi/awesome-llm-security](https://github.com/beyefendi/awesome-llm-security)
+* **agentic-security** (⭐ 119) - Focuses on safe, secure, and compliant agentic workforce deployment. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0** - Evaluates what AI coding/security agents find versus deterministic SAST in Snyk VulnBench 2.0. [https://arxiv.org/abs/2610.38617](https://arxiv.org/abs/2610.38617)
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on secure install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems** - Discusses auditable belief updates as a missing safety layer for LLM-powered multi-agent systems. [https://arxiv.org/abs/2610.38869](https://arxiv.org/abs/2610.38869)
+* **Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction** - Studies a role-grounding attack against an agent’s memory via social interaction. [https://arxiv.org/abs/2610.38209](https://arxiv.org/abs/2610.38209)
+* **Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation** - Security evaluation of manifest-assisted retrieval and `/llms.txt` consumption in AI search. [https://arxiv.org/abs/2610.38361](https://arxiv.org/abs/2610.38361)
+* **AgentSafety-Papers** (⭐ 14 stars) - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 119 stars) - Agentic workforce repo emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **agent-security** (⭐ 158 stars) - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and on-device action auditing. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LM-DSB** - Lightweight multi-agent system for automated daily construction safety bulletin generation. [https://arxiv.org/abs/2610.36433](https://arxiv.org/abs/2610.36433)
+* **Generation and Verification: Human-Agent Collaboration for Safety-Critical Automotive Software Engineering** - Human-agent collaboration for generation and verification in safety-critical automotive software engineering. [https://arxiv.org/abs/2610.35982](https://arxiv.org/abs/2610.35982)
+* **agentic_security** (⭐ 2034) - Agentic LLM vulnerability scanner / AI red teaming kit. [https://github.com/msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+
+#### 🔒 Security of Agents
+* **Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol** - Prompt injection attacks on tool-using LLM agents via MCP. [https://arxiv.org/abs/2610.36108](https://arxiv.org/abs/2610.36108)
+* **Detecting and Mitigating Query-Based System Prompt Leakage Attacks** - Detection and mitigation of query-based system prompt leakage attacks. [https://arxiv.org/abs/2610.36295](https://arxiv.org/abs/2610.36295)
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security** (⭐ 158) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **ai-security-labs** (⭐ 11) - AI security training labs, tools, and courses for LLM, RAG, and agent security. [https://github.com/pwnedlabs/ai-security-labs](https://github.com/pwnedlabs/ai-security-labs)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LM-DSB** - Lightweight multi-agent system for automated daily safety bulletin generation in construction. [https://arxiv.org/abs/2610.36433](https://arxiv.org/abs/2610.36433)
+* **Generation and Verification: Human-Agent Collaboration for Safety-Critical Automotive Software Engineering** - Human-agent collaboration for generation and verification in safety-critical automotive software engineering. [https://arxiv.org/abs/2610.35982](https://arxiv.org/abs/2610.35982)
+* **shep** (⭐ 269) - AI agent platform with built-in memory, K8s agent, and security for SDD/SDLC workflows. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol** - Prompt injection attacks on tool-using LLM agents through MCP. [https://arxiv.org/abs/2610.36108](https://arxiv.org/abs/2610.36108)
+* **Detecting and Mitigating Query-Based System Prompt Leakage Attacks** - Detection and mitigation of query-based system prompt leakage attacks on LLMs. [https://arxiv.org/abs/2610.36295](https://arxiv.org/abs/2610.36295)
+* **agent-security** (⭐ 158) - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and on-device auditing. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 119) - Agentic workforce platform emphasizing safe, secure, and compliant operation. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-27)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[Beyond Copying: Lifelong Smart Contract Security Task Construction via Protocol Mutation]** - Uses AI agents to inspect code and run tests for smart contract security. [https://arxiv.org/abs/2610.32453](https://arxiv.org/abs/2610.32453)
+* **[argus]** (⭐ 106 stars) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+
+#### 🔒 Security of Agents
+* **[Do AI-for-Science Agents Preserve Model Safety?]** - Examines whether AI-for-Science agents preserve model safety. [https://arxiv.org/abs/2610.32045](https://arxiv.org/abs/2610.32045)
+* **[Agentic AI Defense: Decode-Time Provenance Binding for MCP]** - Defends MCP-based agentic systems against indirect prompt injection via untrusted tool outputs. [https://arxiv.org/abs/2610.31974](https://arxiv.org/abs/2610.31974)
+* **[DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring]** - Benchmark for measuring scientific safety risks and misuse guidance from LLMs. [https://arxiv.org/abs/2607.18665](https://arxiv.org/abs/2607.18665)
+* **[agentic-security]** (⭐ 120 stars) - Agentic workforce platform aiming for safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **[AgentSafety-Papers]** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **[awesome-llm-security]** (⭐ 46 stars) - Collection of agentic security, LLM security tools, research, and documents. [https://github.com/beyefendi/awesome-llm-security](https://github.com/beyefendi/awesome-llm-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Beyond Copying: Lifelong Smart Contract Security Task Construction via Protocol Mutation** - AI agents inspect code and run tests to support smart contract security. https://arxiv.org/abs/2610.32453
+* **argus (⭐ 97 stars)** - Open-source agentic security operations platform. https://github.com/thomasunise/argus
+
+#### 🔒 Security of Agents
+* **Do AI-for-Science Agents Preserve Model Safety?** - Examines whether AI-for-Science agents preserve model safety. https://arxiv.org/abs/2610.32045
+* **Agentic AI Defense: Decode-Time Provenance Binding for MCP** - Defends MCP-based agentic AI systems against indirect prompt injection via untrusted tool outputs. https://arxiv.org/abs/2610.31974
+* **DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring** - Benchmark for measuring scientific safety risks and actionable misuse guidance from LLMs. https://arxiv.org/abs/2607.18665
+* **agent-security (⭐ 157 stars)** - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions. https://github.com/solongate/agent-security
+* **AgentSafety-Papers (⭐ 13 stars)** - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security (⭐ 120 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **argus** (⭐ 84 stars) - Open-source agentic security operations platform. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security** (⭐ 157 stars) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **agent-threat-rules** (⭐ 422 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **argus** (⭐ 26) - Open-source agentic security operations platform featuring an evidence graph, swarm-aware detections, governed AI agents, and an approval-gated action broker. [https://github.com/thomasunise/argus](https://github.com/thomasunise/argus)
+* **shep** (⭐ 267) - Feature-shipping platform with built-in memory, a Kubernetes agent, and security capabilities (SDD+SDLC) for accelerating development. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv, aggregating research on agent safety. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric** (⭐ 32) - AI agent security harness for adversarial testing with 649 executable tests across MCP, A2A, x402/L402, decision governance, human-in-the-loop, and skill supply chain, aligned with OWASP Agentic T1-T17 and NIST AI 800-2. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent for security-focused install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AgentTriage: Replayable Security Diagnosis Across Heterogeneous Agent Runtimes** - Security diagnosis for tool-use agent runtimes and their security events. [https://arxiv.org/abs/2610.30738](https://arxiv.org/abs/2610.30738)
+* **EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence** - Evaluates LLM agent safety and evidence recovery when safety-relevant evidence is missing. [https://arxiv.org/abs/2610.31650](https://arxiv.org/abs/2610.31650)
+* **AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack** - Benchmarks LLM email agents against adaptive phishing attacks. [https://arxiv.org/abs/2610.31404](https://arxiv.org/abs/2610.31404)
+* **Compositional Safety Failures in Harness Evolution: Identification and Runtime Monitoring** - Identifies and monitors safety failures in evolving agent harnesses. [https://arxiv.org/abs/2609.33123](https://arxiv.org/abs/2609.33123)
+* **AgentSafety-Papers** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 422 stars) - Open detection-rule standard for AI agent security threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **red-team-blue-team-agent-fabric** (⭐ 32 stars) - AI agent security harness for adversarial testing across MCP, A2A, governance, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR** - Evaluation framework for autonomous cyber defense configuration of commercial EDR. [https://arxiv.org/abs/2606.08168](https://arxiv.org/abs/2606.08168)
+* **trident** (⭐ 32) - Security-focused Azure Linux servicing agent for install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **shep** (⭐ 267) - AI development agent with built-in memory, Kubernetes agent, and SDD/SDLC security. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients** - Rowhammer attack leveraging adversarial observations on federated learning clients. [https://arxiv.org/abs/2505.06335](https://arxiv.org/abs/2505.06335)
+* **CoSec: Benchmarking Agent Security in Communities** - Benchmarking LLM agent security in persistent collaborative community settings. [https://arxiv.org/abs/2609.34790](https://arxiv.org/abs/2609.34790)
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 421) - Open detection-rule standard for AI agent security threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 31) - Azure Linux servicing agent focused on secure install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **shep** (⭐ 267) - Development tool with built-in memory, K8S agent, and security across SDD/SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization** - Behavior-aware fraud detection and cybersecurity for trusted AI-agent payment authorization. [https://arxiv.org/abs/2610.27483](https://arxiv.org/abs/2610.27483)
+* **The Show-Up Attack: When Subagents Win Over Their Supervisor** - Attack surfaces in multi-agent LLM systems, including subagent-supervisor dynamics. [https://arxiv.org/abs/2610.27574](https://arxiv.org/abs/2610.27574)
+* **Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops** - Runtime safety check for robot control loops using frontier models and agent harnesses. [https://arxiv.org/abs/2610.27350](https://arxiv.org/abs/2610.27350)
+* **After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents** - Benchmarking carryover attacks on LLM agents via memory files and scheduled tasks. [https://arxiv.org/abs/2610.28425](https://arxiv.org/abs/2610.28425)
+* **AgentSafety-Papers** (⭐ 13) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 421) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+
+#### 🔒 Security of Agents
+* **Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks** - Red-teaming multi-agent attacks and loss-of-control risks in AI agent systems. [https://arxiv.org/abs/2610.24052](https://arxiv.org/abs/2610.24052)
+* **Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents** - Information injection attacks that manipulate LLM financial trading agents using fabricated news. [https://arxiv.org/abs/2610.26438](https://arxiv.org/abs/2610.26438)
+* **Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents** - Rethinks safety evaluation for phone-use agents by distinguishing genuine safety from incapability. [https://arxiv.org/abs/2605.07630](https://arxiv.org/abs/2605.07630)
+* **CoSec: Benchmarking Agent Security in Communities** - Benchmarks security of LLM agents in persistent collaborative community environments. [https://arxiv.org/abs/2609.34790](https://arxiv.org/abs/2609.34790)
+* **AgentSafety-Papers** (⭐ 13 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security** (⭐ 118 stars) - Agentic workforce security/compliance positioning with safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **LLMVault** (⭐ 342 stars) - Intentionally vulnerable OWASP LLM Top 10 training platform covering prompt injection, RAG security, agent security, and GenAI pentesting. [https://github.com/CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+* **agentveil-sdk** (⭐ 15 stars) - AI agent security SDK that intercepts risky actions and requires safe alternatives or approval before execution. [https://github.com/agentveil-protocol/agentveil-sdk](https://github.com/agentveil-protocol/agentveil-sdk)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 266) - Repo description highlights built-in Memory, K8S Agent & Security within SDD+SDLC, with a security-related agent capability noted. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 118) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 418) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agent-security** (⭐ 155) - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. https://github.com/solongate/agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **None** - No items in the provided raw data matched this category.
+
+#### 🔒 Security of Agents
+* **agentic-security (⭐ 118)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric (⭐ 33)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmarks, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **AgentSafety-Papers (⭐ 14)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-security (⭐ 116)** - Local-first security gateway for AI coding agents; enforces tool-call policies, detects secrets, and audits actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+None identified in the provided raw data.
+
+#### 🔒 Security of Agents
+* **StepSafe** - Context-aware safety reasoning for timely intervention in sequential agent actions. [https://arxiv.org/abs/2610.20960](https://arxiv.org/abs/2610.20960)
+* **Shortcut Sensitivity in Agent-Safety Evaluations** - Examines reliability and shortcut sensitivity in safety evaluations of agents' sensitive tool actions. [https://arxiv.org/abs/2610.22243](https://arxiv.org/abs/2610.22243)
+* **Language Is a Security Surface for Agent Guards** - Studies language as a security surface for step-level agent guards deciding whether tool calls are safe. [https://arxiv.org/abs/2610.22244](https://arxiv.org/abs/2610.22244)
+* **SoK: Trading Agents or Market Crashers?** - Dissects robustness and security failures in academic financial LLM trading agents. [https://arxiv.org/abs/2609.19705](https://arxiv.org/abs/2609.19705)
+* **agent-security (⭐ 113 stars)** - Local-first security gateway for AI coding agents enforcing tool-call policies, secret detection, and on-device audit. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **agentos (⭐ 50 stars)** - Agent-focused OS built on seL4 with capability-based security for agentic requirements. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **AgentSafety-Papers (⭐ 14 stars)** - Tracks LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **red-team-blue-team-agent-fabric (⭐ 33 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-16)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 31) - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning** - Context-aware safety reasoning for timely intervention in sequential agentic systems. https://arxiv.org/abs/2610.20960
+* **Shortcut Sensitivity in Agent-Safety Evaluations** - Evaluation concerns for guards supervising sensitive agent actions. https://arxiv.org/abs/2610.22243
+* **Language Is a Security Surface for Agent Guards** - Step-level guards deciding whether an agent's next tool call is safe. https://arxiv.org/abs/2610.22244
+* **SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes** - Robustness and security failures in financial LLM trading agents. https://arxiv.org/abs/2609.19705
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agent-threat-rules** (⭐ 416) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agentic-security** (⭐ 118) - Agentic workforce platform focused on safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **CWE-bench: Refocusing Agentic Security from Exploitation to Defense** - Paper on evaluating AI agents for software security defense rather than exploitation. https://arxiv.org/abs/2610.17020
+
+#### 🔒 Security of Agents
+* **Can agents whose sole duty is to keep humans alive be hijacked to kill? Delayed multi-turn derived-action trap attacks in simulated high-stakes environments** - Paper on delayed prompt injection to hijack a tool-using agent into harmful actions. https://arxiv.org/abs/2610.15153
+* **TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents** - Paper on replaying tool results to probe misbinding in LLM agents. https://arxiv.org/abs/2610.16333
+* **EvolvAttack: Backdooring self Evolving VLM Agents** - Paper on backdooring self-evolving VLM agents through evolving memory. https://arxiv.org/abs/2610.15244
+* **agent-threat-rules** (⭐ 416) - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **pre-production-checklist** (⭐ 15) - Pre-production checklists including AI/agent security and bugs AI coding assistants write. https://github.com/FarzamHabibi/pre-production-checklist
+* **agent-security** (⭐ 100) - Local-first security gateway for AI coding agents to enforce tool-call policies, detect secrets, and audit actions. https://github.com/solongate/agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **CWE-bench: Refocusing Agentic Security from Exploitation to Defense** - Evaluates AI agents on defensive cybersecurity capabilities, shifting from exploitation toward making software safe. [https://arxiv.org/abs/2610.17020](https://arxiv.org/abs/2610.17020)
+* **trident** (⭐ 31) - Azure Linux servicing agent with security-focused install, provisioning, and update workflows. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Can agents whose sole duty is to keep humans alive be hijacked to kill? Delayed multi-turn derived-action trap attacks in simulated high-stakes environments** - Studies delayed prompt injection attacks that can hijack tool-using keep-alive agents into harmful actions. [https://arxiv.org/abs/2610.15153](https://arxiv.org/abs/2610.15153)
+* **TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents** - Probes misbinding in LLM agents through tool-result replay attacks. [https://arxiv.org/abs/2610.16333](https://arxiv.org/abs/2610.16333)
+* **EvolvAttack: Backdooring self Evolving VLM Agents** - Examines backdoor attacks against self-evolving vision-language model agents. [https://arxiv.org/abs/2610.15244](https://arxiv.org/abs/2610.15244)
+* **agent-threat-rules** (⭐ 415) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agent-security** (⭐ 82) - Local-first security gateway for AI coding agents that enforces tool-call policies, detects secrets, and audits actions on-device. [https://github.com/solongate/agent-security](https://github.com/solongate/agent-security)
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None identified from the provided raw data.
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 14) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **mcp-agent-security-gateway** (⭐ 17) - Default-deny MCP/JSON-RPC security gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. https://github.com/poojakira/mcp-agent-security-gateway
+* **agent-security** (⭐ 69) - Local-first security gateway for AI coding agents, enforcing tool-call policies, secret detection, and on-device action auditing. https://github.com/solongate/agent-security
+* **awesome-ai-agent-attacks** (⭐ 81) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). https://github.com/webpro255/awesome-ai-agent-attacks
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance** - A local agentic AI framework to generate edge case scenarios for safety assurance of autonomous systems. https://arxiv.org/abs/2610.13479
+* **EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents** - Uses self-improving LLM agents to generate safety-critical scenarios for validating autonomous driving systems. https://arxiv.org/abs/2606.03678
+
+#### 🔒 Security of Agents
+* **DRYLAB-Bench: Benchmarking the Biosecurity Risk of Agentic LLM Mutation Design** - Benchmarks the biosecurity risk of agentic LLM mutation design. https://arxiv.org/abs/2610.13116
+* **Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents** - Evolves runtime guard skills to defend skill-augmented agents from malicious skills. https://arxiv.org/abs/2609.01487
+* **agentic-security (⭐ 118 stars)** - Build faster with an Agentic Workforce; safe, secure, and compliant is now the default. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers (⭐ 13 stars)** - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **awesome-ai-security-tools (⭐ 1638 stars)** - A curated list of tools for AI security and AI-assisted cybersecurity, covering agent security, pentest agents, LLM red-teaming, and more. https://github.com/scadastrangelove/awesome-ai-security-tools
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Default-deny MCP/JSON-RPC security gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 263) - Development tool with built-in K8S Agent and Security for SDD+SDLC workflows. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **red-team-blue-team-agent-fabric** (⭐ 32) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **AgentSafety-Papers** (⭐ 12) - Tracks LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 118) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor (⭐ 97)** - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [https://github.com/vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **Workerville: Towards an Organizational Behavior Account of Agent Safety** - Explores organizational behavior factors shaping LLM-based agent safety. [https://arxiv.org/abs/2610.11561](https://arxiv.org/abs/2610.11561)
+* **One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails** - Examines an attack against typed decision models used as agent guardrails. [https://arxiv.org/abs/2610.12292](https://arxiv.org/abs/2610.12292)
+* **From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents** - Draws lessons from real-world agent security incidents and containment failures. [https://arxiv.org/abs/2610.12463](https://arxiv.org/abs/2610.12463)
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Proposes human-intervention routing safeguards for LLM agent tool calls. [https://arxiv.org/abs/2607.13594](https://arxiv.org/abs/2607.13594)
+* **AgentSafety-Papers (⭐ 12)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security (⭐ 118)** - Agentic workforce security, safety, and compliance positioning. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **agent-threat-rules (⭐ 410)** - Open detection-rule standard for AI agent security threats, including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-09)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 31) - Azure Linux servicing agent with security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **Workerville: Towards an Organizational Behavior Account of Agent Safety** - Organizational behavior account of safety for continuously interacting LLM agents. https://arxiv.org/abs/2610.11561
+* **One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails** - Option-channel attack on typed decision models used as agent guardrails. https://arxiv.org/abs/2610.12292
+* **From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents** - Lessons from agent security incidents for proactive assurance. https://arxiv.org/abs/2610.12463
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Context-aware human intervention routing for LLM agent tool calls. https://arxiv.org/abs/2607.13594
+* **mcp-agent-security-gateway** (⭐ 17) - Default-deny MCP/JSON-RPC security gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. https://github.com/poojakira/mcp-agent-security-gateway
+* **AgentSafety-Papers** (⭐ 12) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agent-threat-rules** (⭐ 410) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Contextualization of Third-Party Cloud Security Findings** - Discusses contextualizing static severity of third-party cloud security findings to improve remediation prioritization. https://arxiv.org/abs/2610.08895
+* **awesome-ai-security-tools** (⭐ 1596) - Curated list of tools for AI security and AI-assisted cybersecurity, including autotriage, pentest agents, AI SAST, SOC/SIEM triage, and LLM red-teaming. https://github.com/scadastrangelove/awesome-ai-security-tools
+
+#### 🔒 Security of Agents
+* **How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis** - Analyzes fragility of on-device small language model safety and localizes safety-critical parameters for fault analysis in agentic systems. https://arxiv.org/abs/2610.09000
+* **RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment** - Benchmarks agent safety in real-time embodied environments, moving beyond digital evaluations. https://arxiv.org/abs/2610.09294
+* **AI Safety Considerations for Agents With Limited Time to Act** - Examines AI safety and alignment for agents that have limited time to act. https://arxiv.org/abs/2610.10285
+* **agentic-security** (⭐ 119) - Provides an agentic workforce with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers** (⭐ 12) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentos** (⭐ 47) - Operating system designed for agents and agentic security requirements, built on seL4 with capability-based security. https://github.com/jordanhubbard/agentos
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review** - LLM agents for design-time security review, converting requirements into attack trees. [https://arxiv.org/abs/2610.03820](https://arxiv.org/abs/2610.03820)
+* **trident** (⭐ 31) - Azure Linux servicing agent focused on security install, provisioning, and updates. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+* **agentic-security** (⭐ 118) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+
+#### 🔒 Security of Agents
+* **AI Safety via Debate is Compromised by Cognitive Biases** - Research on cognitive biases undermining AI safety debate. [https://arxiv.org/abs/2610.05461](https://arxiv.org/abs/2610.05461)
+* **Visual Grounding Safety in Vision-Language Models** - Safety of vision-language models in visual grounding tasks. [https://arxiv.org/abs/2610.05637](https://arxiv.org/abs/2610.05637)
+* **Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation** - Safety evaluation of autonomous vehicle agents via realistic crash scenario generation. [https://arxiv.org/abs/2610.04366](https://arxiv.org/abs/2610.04366)
+* **AgentSafety-Papers** (⭐ 12) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **mcp-agent-security-gateway** (⭐ 17) - Default-deny MCP/JSON-RPC gateway for agent tool-call authorization, prompt-injection detection, exfiltration controls, and audit telemetry. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review** - Uses grounded LLM agents to derive attack trees from requirements for design-time security review. [https://arxiv.org/abs/2610.03820](https://arxiv.org/abs/2610.03820)
+* **trident (⭐ 31 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AI Safety via Debate is Compromised by Cognitive Biases** - Examines how AI safety via debate and RLHF can be compromised by cognitive biases. [https://arxiv.org/abs/2610.05461](https://arxiv.org/abs/2610.05461)
+* **Visual Grounding Safety in Vision-Language Models** - Studies safety issues in VLMs that generate structured outputs like points and bounding boxes for downstream agents. [https://arxiv.org/abs/2610.05637](https://arxiv.org/abs/2610.05637)
+* **Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation** - Generates realistic crash scenarios for evaluating autonomous vehicle safety. [https://arxiv.org/abs/2610.04366](https://arxiv.org/abs/2610.04366)
+* **AgentSafety-Papers (⭐ 12 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentic-security (⭐ 118 stars)** - Agentic workforce platform with safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **siq-agent-security (⭐ 51 stars)** - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 31 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and updates. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **A GHOST in Long-Horizon Agents: Governance Hazard from Overlooked Safety Constraints across Turns** - Examines governance hazards from overlooked safety constraints across turns in long-horizon agents. https://arxiv.org/abs/2610.02664
+* **HASTE: Evolving Agent Harnesses Against Emerging Attacks Using Sparse Evidence** - Evolves agent harnesses to enforce safety constraints against emerging attacks. https://arxiv.org/abs/2610.02920
+* **Positive-Unlabeled Learning for Agent Safety False Alarm Auditing** - Audits false alarms from safety monitors safeguarding language-model agents. https://arxiv.org/abs/2610.02925
+* **Beyond Predefined Sinks: Security-Aware Dependency Analysis for LLM Agents** - Security-aware dependency analysis for LLM agents connecting decisions to sensitive software capabilities. https://arxiv.org/abs/2610.03014
+* **agentic-security (⭐ 117 stars)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **AgentSafety-Papers (⭐ 12 stars)** - Tracks LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-04)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools (⭐ 1580)** - Curated list of tools for AI security and AI-assisted cybersecurity, including autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, and LLM red-teaming. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **symfony-security-auditor (⭐ 95)** - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [https://github.com/vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **agentic-security (⭐ 118)** - Build faster with an Agentic Workforce; safe, secure, and compliant is now the default. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **AgentSafety-Papers (⭐ 12)** - Daily tracking of LLM Agent Security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools** (⭐ 1577) - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, AI SAST, LLM-driven fuzzing, SOC/SIEM triage, and reverse engineering. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 406) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **Awesome-GUI-Agent-Security** (⭐ 73) - Curated paper list for GUI/computer-use/browser agent security, organized by attack-defense axis. [https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-02)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution** - Proposes using LLMs for hierarchical cyber defense, from planning to execution. https://arxiv.org/abs/2610.00590
+* **shep** (⭐ 262) - AI agent platform with built-in memory, Kubernetes agent, and security for SDD/SDLC, aimed at shipping features faster. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation** - Audit framework for LLM safety evaluation in molecular tumor boards, highlighting over-refusal and clinical expert perspectives. https://arxiv.org/abs/2610.01497
+* **Safety in Self-Evolving Agents: A Survey** - Survey on safety challenges and approaches for self-evolving LLM agents. https://arxiv.org/abs/2610.00093
+* **Representation Transitions Reveal Emerging Safety Risks in Multi-Turn LLM Agents** - Study on multi-turn attacks and emerging safety risks in LLM agents via representation transitions. https://arxiv.org/abs/2610.00400
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **agentic-security** (⭐ 117) - Platform for building with an agentic workforce with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 406) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-10-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. https://github.com/microsoft/trident
+* **trilane** (⭐ 28 stars) - TriLane: autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. Built with Rust and Tauri. https://github.com/xyun92/trilane
+
+#### 🔒 Security of Agents
+* **MADBench: Benchmarking the Security of Multi-Agent Debate** - Paper benchmarking the security of multi-agent debate. https://arxiv.org/abs/2609.39146
+* **Safety of Latent Communication in Multi-Agent Systems** - Paper on safety of latent communication in multi-agent systems. https://arxiv.org/abs/2609.39788
+* **Who Verifies the Graph? Misspecification Attacks on Causal Action Verification for Language Agents** - Paper on misspecification attacks against causal action verification for language agents. https://arxiv.org/abs/2609.40027
+* **Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks** - Paper on proactive defense against multi-turn agent attacks. https://arxiv.org/abs/2609.39549
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Monitor MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+* **AgentSafety-Papers** (⭐ 11 stars) - Daily Tracking of LLM Agent Security Papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery** - Uses autonomous LLM agents for repository-scale vulnerability discovery and verification. [https://arxiv.org/abs/2609.35909](https://arxiv.org/abs/2609.35909)
+* **shep** (⭐ 262 stars) - Developer tool with built-in Memory, K8S Agent & Security for SDD/SDLC, supporting agent-assisted security in development workflows. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time** - Co-evolves safety harnesses and guards to protect LLM agents at test time. [https://arxiv.org/abs/2609.36580](https://arxiv.org/abs/2609.36580)
+* **Environment Steering: Using Data Flow Control to Improve Agent Utility and Safety** - Uses data flow control to prevent unsafe tool calls and improve LLM agent safety. [https://arxiv.org/abs/2609.35807](https://arxiv.org/abs/2609.35807)
+* **Render Before Reading: Visual Rendering as a Prompt Injection Defense** - Defends LLMs against prompt injection via visual rendering before reading. [https://arxiv.org/abs/2609.36121](https://arxiv.org/abs/2609.36121)
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **AgentSafety-Papers** (⭐ 11 stars) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agent-threat-rules** (⭐ 404 stars) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **auditor-skill (⭐ 60 stars)** - Claude Code / agentic security skill for Solana programs and software, covering audit-firm lifecycle, executable PoC + fix-patch delivery, Rust pre-scanner, cross-audit memory, and extensive checks/attack vectors. [https://github.com/solanabr/auditor-skill](https://github.com/solanabr/auditor-skill)
+
+#### 🔒 Security of Agents
+* **PlanGuard** - Guardrail for multi-step plan safety in embodied agents, addressing physical risks from subtask dependencies and environment interactions during execution. [https://arxiv.org/abs/2609.32801](https://arxiv.org/abs/2609.32801)
+* **Agent Safety From Within** - Detects harmful trajectories from LLM internal states in agents performing tool-based action sequences. [https://arxiv.org/abs/2609.33039](https://arxiv.org/abs/2609.33039)
+* **Compositional Safety Failures in Harness Evolution** - Identifies and runtime-monitors safety failures in self-evolving agent harnesses that update memory, prompts, skills, and tools. [https://arxiv.org/abs/2609.33123](https://arxiv.org/abs/2609.33123)
+* **AgentBoundary** - Counterfactual evaluation of safety in tool-using LLM agents. [https://arxiv.org/abs/2609.33658](https://arxiv.org/abs/2609.33658)
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **AgentSafety-Papers (⭐ 11 stars)** - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **orbit (⭐ 30 stars)** - Multi-agent security benchmarking framework. [https://github.com/wlanderson0/orbit](https://github.com/wlanderson0/orbit)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations** - Evaluates an enterprise security brain for agentic cloud-security investigations. [https://arxiv.org/abs/2609.30345]
+
+#### 🔒 Security of Agents
+* **Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems** - Studies skill cascading attacks on skill-based agent systems. [https://arxiv.org/abs/2609.30383]
+* **MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens** - Multi-objective optimization of LLM harnesses for accuracy, safety, and token use. [https://arxiv.org/abs/2609.30967]
+* **Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation** - Taxonomy, risk discovery, and evaluation for safety of recursive self-improving AI. [https://arxiv.org/abs/2609.31186]
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers]
+* **agent-threat-rules** (⭐ 402) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules]
+* **LLMVault** (⭐ 328) - Intentionally vulnerable OWASP LLM Top 10 training platform for AI security, prompt injection, RAG security, agent security, and GenAI pentesting. [https://github.com/CyberSunil/LLMVault]
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-27)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools** (⭐ 1553) - Curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity, including pentest agents, AI SAST, SOC/SIEM triage, and more. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM Agent Security Papers on arXiv. [https://github.com/NY1024/AgentSafety-Papers](https://github.com/NY1024/AgentSafety-Papers)
+* **agentos** (⭐ 42) - Operating system designed for agents and agentic security requirements, built on seL4 microkernel with capability-based security. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **agent-threat-rules** (⭐ 402) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Awesome-LLMSecOps** (⭐ 161) - Curated resources for LLM/agentic security operations, with links and visuals. https://github.com/wearetyomsmnv/Awesome-LLMSecOps
+
+#### 🔒 Security of Agents
+* **red-team-blue-team-agent-fabric** (⭐ 31) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, benchmark integrity, human-in-the-loop, and skill supply chain. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agentos** (⭐ 39) - Agent-native OS built on seL4 with capability-based security for agentic security requirements. https://github.com/jordanhubbard/agentos
+* **AgentSafety-Papers** (⭐ 11) - Daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications** - Paper on blockchain and AI/AI agents for secure data sharing, model integrity, and cybersecurity applications. [https://arxiv.org/abs/2609.28843](https://arxiv.org/abs/2609.28843)
+* **shep** (⭐ 258) - Development tool with built-in memory, K8S agent, and security for SDD/SDLC workflows. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support** - Safety-grounded multimodal agentic framework for skincare support, emphasizing evidence and safety. [https://arxiv.org/abs/2609.29341](https://arxiv.org/abs/2609.29341)
+* **Persistent Billable State: Denial-of-Wallet Attacks and Defenses in Tool-Calling LLM Agents** - Examines denial-of-wallet attacks and defenses in tool-calling LLM agents. [https://arxiv.org/abs/2609.28585](https://arxiv.org/abs/2609.28585)
+* **Decision Hijacking: Prompt Injection Attacks on Jev's Typed Probabilistic Decisions** - Studies prompt injection attacks on models with schema-defined outputs. [https://arxiv.org/abs/2609.28613](https://arxiv.org/abs/2609.28613)
+* **agentos** (⭐ 38) - Agent-focused OS built on seL4 with capability-based security and agentic security requirements. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **red-team-blue-team-agent-fabric** (⭐ 31) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, and related agent security areas. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules** (⭐ 400) - Open detection-rule standard for AI agent security threats including prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **rust-in-peace** (⭐ 21) - Agentic security review for Rust: autonomous find/triage/patch for unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws. [https://github.com/scadastrangelove/rust-in-peace](https://github.com/scadastrangelove/rust-in-peace)
+* **trident** (⭐ 32) - Azure Linux servicing agent focused on security install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Indirect tipping: a social attack surface in AI agent populations** - Explores social attack surfaces in populations of deployed generative AI agents. [https://arxiv.org/abs/2609.25194](https://arxiv.org/abs/2609.25194)
+* **StepTrigger: Contact-State-Triggered Backdoor Attacks on VLM-Powered Legged Robots** - Backdoor attacks triggered by contact states against VLM-powered legged robots. [https://arxiv.org/abs/2609.26131](https://arxiv.org/abs/2609.26131)
+* **Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems** - Internal-state-triggered backdoor attacks on LLM-powered robotic control systems. [https://arxiv.org/abs/2609.26184](https://arxiv.org/abs/2609.26184)
+* **A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle** - Survey of attacks, defenses, and governance for long-term memory security in LLM agents. [https://arxiv.org/abs/2604.16548](https://arxiv.org/abs/2604.16548)
+* **red-team-blue-team-agent-fabric** (⭐ 31) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, decision governance, benchmark integrity, human-in-the-loop, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 256 stars) - AI agent platform with built-in memory, K8S agent, and security for SDD+SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Indirect tipping: a social attack surface in AI agent populations** - Examines social attack surfaces in AI agent populations. [https://arxiv.org/abs/2609.25194](https://arxiv.org/abs/2609.25194)
+* **StepTrigger: Contact-State-Triggered Backdoor Attacks on VLM-Powered Legged Robots** - Backdoor attacks triggered by contact states on VLM-powered legged robots. [https://arxiv.org/abs/2609.26131](https://arxiv.org/abs/2609.26131)
+* **Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems** - Internal-state-triggered backdoor attacks on LLM-powered robotic systems. [https://arxiv.org/abs/2609.26184](https://arxiv.org/abs/2609.26184)
+* **A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle** - Survey of attacks, defenses, and governance for long-term memory security in LLM agents. [https://arxiv.org/abs/2604.16548](https://arxiv.org/abs/2604.16548)
+* **agentos** (⭐ 33 stars) - OS built for agents and agentic security on seL4 with capability-based security. [https://github.com/jordanhubbard/agentos](https://github.com/jordanhubbard/agentos)
+* **agent-threat-rules** (⭐ 399 stars) - Open detection-rule standard for AI agent security threats like prompt injection, tool poisoning, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing** - LLM-based agents for long-horizon automated penetration testing and vulnerability discovery. https://arxiv.org/abs/2609.07344
+* **shep (⭐ 256)** - Development tooling with built-in K8S Agent & Security features for SDD/SDLC. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving** - Safety-oriented occupancy modeling for end-to-end autonomous driving agents. https://arxiv.org/abs/2609.21470
+* **LLMVault (⭐ 323)** - Intentionally vulnerable OWASP LLM Top 10 training platform for AI security, prompt injection, RAG security, agent security, and GenAI penetration testing. https://github.com/CyberSunil/LLMVault
+* **agent-threat-rules (⭐ 399)** - Open detection-rule standard for AI agent security threats such as prompt injection, tool poisoning, context exfiltration, and MCP attacks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **agentos (⭐ 33)** - seL4-based operating system with capability-based security for agents and agentic security requirements. https://github.com/jordanhubbard/agentos
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing** - LLM-based agents for automated penetration testing and vulnerability discovery. [https://arxiv.org/abs/2609.07344](https://arxiv.org/abs/2609.07344)
+* **shep (⭐ 255 stars)** - Built-in memory, K8S agent, and security for SDD+SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving** - Safety/risk-aware perception for an end-to-end driving agent (agent safety, not cybersecurity). [https://arxiv.org/abs/2609.21470](https://arxiv.org/abs/2609.21470)
+* **mcp-agent-security-gateway (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **red-team-blue-team-agent-fabric (⭐ 29 stars)** - AI agent security harness and adversarial testing across MCP, A2A, x402/L402, governance, and supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **LLMVault (⭐ 322 stars)** - Intentionally vulnerable OWASP LLM Top 10 training platform for prompt injection, RAG security, agent security, and GenAI pentesting. [https://github.com/CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trilane** (⭐ 28) - Autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. https://github.com/xyun92/trilane
+* **shep** (⭐ 255) - AI agent platform with built-in memory, K8S agent, and security (SDD+SDLC) for faster feature shipping. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **LLMVault** (⭐ 322) - Intentionally vulnerable OWASP LLM Top 10 training platform covering prompt injection, RAG security, agent security, and GenAI pentesting. https://github.com/CyberSunil/LLMVault
+* **agentic-security** (⭐ 116) - Agentic workforce platform with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 255) - AI agent platform for faster feature shipping with built-in memory, K8s agent, and security across SDD/SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+* **OpenHack** (⭐ 415) - Open-source agentic security scanner. [https://github.com/openhackai/OpenHack](https://github.com/openhackai/OpenHack)
+
+#### 🔒 Security of Agents
+* **siq-agent-security** (⭐ 23) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+* **agent-threat-rules** (⭐ 395) - Open detection-rule standard for AI agent security threats, covering prompt injection, tool poisoning, context exfiltration, and MCP attacks. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs** - Proposes multi-agent auto-formalization to verify and guarantee safety of code generated by LLM coding agents. https://arxiv.org/abs/2609.19391
+* **shep (⭐ 255 stars)** - AI agent platform with built-in memory, K8S agent, and security for SDD+SDLC to ship features faster. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes** - Analyzes robustness and security failures in autonomous financial LLM trading agents. https://arxiv.org/abs/2609.19705
+* **Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape** - Studies practical fingerprinting attacks and exploitation of inference engines by frontier AI models. https://arxiv.org/abs/2609.20614
+* **MAS-Shield: A Defense Framework for Secure and Efficient LLM MAS** - Defense framework protecting LLM-based multi-agent systems from linguistic attacks and cascading failures. https://arxiv.org/abs/2511.22924
+* **agent-threat-rules (⭐ 393 stars)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **siq-agent-security (⭐ 23 stars)** - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+* **Awesome-GUI-Agent-Security (⭐ 70 stars)** - Curated list of papers on GUI/computer-use/browser agent security, organized by attack-defense axes. https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Autonomy in Check: Governor-Mediated Adaptive Security at the Edge** - Paper on using automated planners and LLM-assisted controllers for adaptive security at the network edge. https://arxiv.org/abs/2609.18338
+* **shep** (⭐ 254 stars) - AI agent platform for faster feature shipping with built-in memory, K8S agent, and security for SDD/SDLC. https://github.com/shep-ai/shep
+
+#### 🔒 Security of Agents
+* **Safety Signals to Verify NetOps Agents with Action-Level Granularity** - Paper on verifying agentic network operations agents using action-level safety signals. https://arxiv.org/abs/2609.14422
+* **HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark** - Benchmark for evaluating unsafe agent trajectories arising under benign conditions. https://arxiv.org/abs/2604.13954
+* **Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents** - Paper on safety risks in autonomous LLM agent loops and non-decaying loop state. https://arxiv.org/abs/2608.27141
+* **siq-agent-security** (⭐ 23 stars) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+* **agent-threat-rules** (⭐ 391 stars) - Open detection-rule standard for AI agent security threats, similar to Sigma for AI agents. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **orbit** (⭐ 27 stars) - Multi-agent security benchmarking framework. https://github.com/wlanderson0/orbit
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-16)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **trident (⭐ 32)** - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself** - Fine-tunes an LLM recommender with safety constraints and self-explanation. https://arxiv.org/abs/2609.13657
+* **Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges** - Surveys cybersecurity threats, defense architectures, and open challenges for agentic AI. https://arxiv.org/abs/2609.13731
+* **Safety Signals to Verify NetOps Agents with Action-Level Granularity** - Verifies NetOps agents with action-level safety signals. https://arxiv.org/abs/2609.14422
+* **AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems** - Vision for accountable AI deployment in safety-critical socio-technical systems. https://arxiv.org/abs/2609.14592
+* **orbit (⭐ 27)** - Multi-agent security benchmarking framework. https://github.com/wlanderson0/orbit
+* **agent-threat-rules (⭐ 392)** - Open detection-rule standard for AI agent security threats. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **siq-agent-security (⭐ 23)** - Provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* (No items classified in this category)
+
+#### 🔒 Security of Agents
+* **Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself** - Paper on fine-tuning a LLM recommender with safety constraints to explain its recommendations. [https://arxiv.org/abs/2609.13657](https://arxiv.org/abs/2609.13657)
+* **Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges** - Survey on cybersecurity threats and defenses for autonomous agentic AI systems. [https://arxiv.org/abs/2609.13731](https://arxiv.org/abs/2609.13731)
+* **Safety Signals to Verify NetOps Agents with Action-Level Granularity** - Paper on using safety signals to verify NetOps agents at action-level granularity. [https://arxiv.org/abs/2609.14422](https://arxiv.org/abs/2609.14422)
+* **AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems** - Vision paper on engineering accountability for AI deployment in safety-critical systems. [https://arxiv.org/abs/2609.14592](https://arxiv.org/abs/2609.14592)
+* **awesome-ai-agent-attacks (⭐ 73)** - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). [https://github.com/webpro255/awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **Adrian (⭐ 564)** - Open-source runtime AI agent security tool that monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift. [https://github.com/secureagentics/Adrian](https://github.com/secureagentics/Adrian)
+* **agent-threat-rules (⭐ 392)** - Open detection-rule standard for AI agent security threats, like Sigma for AI agents. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **pre-production-checklist (⭐ 15)** - Pre-production checklists including AI/agent security and common bugs from AI coding assistants. [https://github.com/FarzamHabibi/pre-production-checklist](https://github.com/FarzamHabibi/pre-production-checklist)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks** - Evaluates context segmentation in locally deployable small language models for cybersecurity CTF tasks. https://arxiv.org/abs/2609.12839
+* **trident (⭐ 32 stars)** - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+* **awesome-ai-security-tools (⭐ 1121 stars)** - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, AI SAST, LLM-driven fuzzing, and SOC/SIEM triage. https://github.com/scadastrangelove/awesome-ai-security-tools
+
+#### 🔒 Security of Agents
+* **SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration** - SoK on jailbreaking attacks and defenses for agentic AI systems. https://arxiv.org/abs/2609.12413
+* **agent-threat-rules (⭐ 391 stars)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **dodoguard (⭐ 106 stars)** - Full-lifecycle agent security for Dify, Coze, FastGPT, n8n, Tencent ADP, ByteDance HiAgent, and more. https://github.com/dodoguardai/dodoguard
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **shep** (⭐ 253) - AI agent platform with built-in Kubernetes agent and security features for SDD/SDLC. [https://github.com/shep-ai/shep](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 113) - Agentic workforce platform focused on safe, secure, and compliant AI agents. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **siq-agent-security** (⭐ 23) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+* **agent-threat-rules** (⭐ 391) - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-12)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Beyond Static Guarantees: Measuring the Static-Pass Dynamic-Fail Gap in Security-Sensitive and LLM-Generated Python Code** - Examines gaps between static and dynamic security checks for security-sensitive and LLM-generated Python code. https://arxiv.org/abs/2609.10762
+* **trident** (⭐ 32) - Azure Linux servicing agent for security-focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **siq-agent-security** (⭐ 20) - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. https://github.com/maoyadongsh/siq-agent-security
+* **agentic-security** (⭐ 113) - Agentic workforce platform emphasizing safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 389) - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education** - Gamified recommender for cybersecurity education and threat-awareness training. [https://arxiv.org/abs/2604.26964](https://arxiv.org/abs/2604.26964)
+* **trident (⭐ 32)** - Azure Linux servicing agent for security-focused install, provisioning, and update. [https://github.com/microsoft/trident](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents** - Evaluates image-triggered command injection attacks against computer-use agents. [https://arxiv.org/abs/2609.09212](https://arxiv.org/abs/2609.09212)
+* **An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks** - Tests multimodal prompt injection attacks on agentic AI frameworks with tools and memory. [https://arxiv.org/abs/2609.09404](https://arxiv.org/abs/2609.09404)
+* **red-team-blue-team-agent-fabric (⭐ 30)** - AI agent security harness for adversarial testing across MCP, A2A, governance, HITL, and skill supply chain. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agentic-security (⭐ 113)** - Agentic workforce security, safety, and compliance by default. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **siq-agent-security (⭐ 13)** - Research artifacts for provenance-bound agent authorization, signed effect evidence, and reproducible security evaluation. [https://github.com/maoyadongsh/siq-agent-security](https://github.com/maoyadongsh/siq-agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education** - Gamified 20Q recommender for cybersecurity education. [https://arxiv.org/abs/2604.26964](https://arxiv.org/abs/2604.26964)
+
+#### 🔒 Security of Agents
+* **AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents** - Visual patch attacks and image-triggered command injection against multimodal computer-use agents. [https://arxiv.org/abs/2609.09212](https://arxiv.org/abs/2609.09212)
+* **An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks** - Multimodal prompt injection attacks on agentic AI frameworks. [https://arxiv.org/abs/2609.09404](https://arxiv.org/abs/2609.09404)
+* **agentic-security (⭐ 113)** - Agentic workforce platform emphasizing safe, secure, and compliant defaults. [https://github.com/Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric (⭐ 30)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and supply chain; aligns with OWASP Agentic, AIUC-1, NIST AI 800-2. [https://github.com/msaleme/red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **dodoguard (⭐ 53)** - Full-lifecycle agent security for Dify, Coze, FastGPT, n8n, Tencent ADP, ByteDance HiAgent, and more. [https://github.com/dodoguardai/dodoguard](https://github.com/dodoguardai/dodoguard)
+* **agentshield (⭐ 1163)** - AI agent security scanner detecting vulnerabilities in agent configurations, MCP servers, and tool permissions. [https://github.com/affaan-m/agentshield](https://github.com/affaan-m/agentshield)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-09)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[It is Not Yet Another Tool: Creating and Deploying an Agentic AI Companion in a Security Operations Center](https://arxiv.org/abs/2609.06250)** - Uses an agentic AI companion in a SOC to work through high volumes of low-interest security tickets.
+* **[Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing](https://arxiv.org/abs/2609.07344)** - Uses LLM-based agents with structured state for long-horizon automated penetration testing.
+* **[trident](https://github.com/microsoft/trident) (⭐ 32)** - Azure Linux servicing agent for security-focused install, provisioning, and update.
+
+#### 🔒 Security of Agents
+* **[Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents](https://arxiv.org/abs/2609.05911)** - Measures security exposure of long-horizon LLM agents interacting with untrusted content, persistent memory, external state, and sensitive tools.
+* **[Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation](https://arxiv.org/abs/2609.06433)** - Generates safety-critical traffic scenarios for training and evaluating autonomous vehicle safety.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 113)** - Builds agentic workflows with safe, secure, and compliant behavior as the default.
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 30)** - AI agent security harness and adversarial testing platform with 623 executable tests across agent protocols, governance, and supply-chain areas.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 388)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[auditor-skill](https://github.com/solanabr/auditor-skill) (⭐ 53)** - Claude Code/agentic security skill for auditing Solana programs and software; full audit-firm lifecycle, executable PoC + fix-patch delivery, Rust pre-scanner, 1,346 checks, and 131 real-world attack vectors.
+* **[shep](https://github.com/shep-ai/shep) (⭐ 248)** - AI agent that ships features faster with built-in automation for memory, Kubernetes operations, and security enforcement across the SDD/SDLC process.
+
+#### 🔒 Security of Agents
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 30)** - AI agent security harness for adversarial testing with 623 executable tests across MCP, A2A, x402/L402, governance, and supply-chain surfaces; mapped to OWASP Agentic T1-T17 and NIST AI 800-2.
+* **[awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks) (⭐ 69)** - Curated, sourced, and dated timeline of real AI agent security incidents, breaches, and vulnerabilities from 2024-2026.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+
+#### 🔒 Security of Agents
+* **[Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models](https://arxiv.org/abs/2609.04714)** - Analyzes safety-tuning responses to reduce false refusals while preserving a helpfulness/safety balance in LLMs.
+* **[One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation](https://arxiv.org/abs/2609.04921)** - Uses a diffusion model in closed-loop driving simulation for trajectory planning and generation of safety-critical driving scenarios.
+* **[CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls](https://arxiv.org/abs/2609.05269)** - Introduces security-context contracts that combine provenance tracking, authorization, policy enforcement, protocol adapters, and execution controls for LLM agent systems.
+* **[pre-production-checklist](https://github.com/FarzamHabibi/pre-production-checklist) (⭐ 13)** - Pre-production checklists for solo founders, including AI/agent security considerations and common bugs introduced by AI coding assistants.
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 30)** - AI agent security and adversarial-testing harness with executable tests for MCP, A2A, x402/L402, decision governance, human-in-the-loop, and skill supply chain.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 110)** - Repository focused on running an agentic workforce with safety, security, and compliance as defaults.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 387)** - Open, Sigma-like detection-rule standard for AI agent security threats, with executable rules across 10 categories and broad ecosystem adoption.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* No qualifying items in this dataset.
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 96 stars) - Agentic workforce framework with safety, security, and compliance by default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **red-team-blue-team-agent-fabric** (⭐ 30 stars) - AI agent security harness with 611 executable adversarial tests across MCP, A2A, L402, and more, aligned with OWASP and NIST AI frameworks. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules** (⭐ 383 stars) - Open detection-rule standard for AI agent security threats, covering 10 categories and integrated with major security standards. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **pre-production-checklist** (⭐ 11 stars) - Pre-production checklist for solo founders, including AI/agent security concerns and bugs commonly introduced by AI coding assistants. [Link](https://github.com/FarzamHabibi/pre-production-checklist)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-05)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **SENTINEL-RL** - Offloads topological reasoning from LLM agents for use as autonomous SOC analysts, addressing enterprise-scale limitations. https://arxiv.org/abs/2609.04159
+* **OpenHack** (⭐ 401 stars) - Open-source agentic security scanner. https://github.com/openhackai/OpenHack
+
+#### 🔒 Security of Agents
+* **Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning** - Uses federated graph learning to localize risky agents in LLM-based multi-agent systems. https://arxiv.org/abs/2609.02967
+* **A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors** - Examines how attacker-controlled hook updates can drive AI agent harnesses toward malicious behavior. https://arxiv.org/abs/2609.03884
+* **Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents** - Analyzes safety issues stemming from non-decaying loop state in autonomous LLM agent deployments. https://arxiv.org/abs/2608.27141
+* **red-team-blue-team-agent-fabric** (⭐ 30 stars) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, OWASP Agentic, NIST AI, and related control surfaces. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agentic-security** (⭐ 93 stars) - Enables building an agentic workforce with safety, security, and compliance as the default. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 382 stars) - Open detection-rule standard for AI agent security threats, executable across 10 categories and aligned with major industry frameworks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-04)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center]** - Improves LLM-based SOC agents by offloading topological reasoning to make autonomous analysts more reliable. [https://arxiv.org/abs/2609.04159]
+* **[trident]** (⭐ 32) - Microsoft Azure Linux servicing agent focused on secure installation, provisioning, and updates. [https://github.com/microsoft/trident]
+* **[awesome-ai-security-tools]** (⭐ 1102) - Curated list covering AI security and AI-assisted cybersecurity, including autotriage, pentest agents, SOC/SIEM triage, and related categories. [https://github.com/scadastrangelove/awesome-ai-security-tools]
+
+#### 🔒 Security of Agents
+* **[Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning]** - Uses federated graph learning to safeguard LLM-based multi-agent systems and localize risky agents. [https://arxiv.org/abs/2609.02967]
+* **[A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors]** - Describes attacks where attacker-controlled lifecycle hook updates push AI agent harnesses toward malicious behavior. [https://arxiv.org/abs/2609.03884]
+* **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents]** - Examines safety issues for autonomous LLM agents caused by non-decaying state across repeated execution loops. [https://arxiv.org/abs/2608.27141]
+* **[agentic-security]** (⭐ 93) - Provides safe, secure, and compliant defaults for building with an agentic AI workforce. [https://github.com/Clear-Capabilities/agentic-security]
+* **[Awesome-GUI-Agent-Security]** (⭐ 50) - Curated list of GUI / computer-use / browser agent security papers organized by attack and defense perspectives. [https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None of the provided items clearly falls into this category — no item is an AI agent used for cybersecurity auditing, defense, or monitoring.
+
+#### 🔒 Security of Agents
+* **SafeEvolve** - Paper on safety alignment for LLM agents through harness-policy co-evolution from agent experience. https://arxiv.org/abs/2609.02786
+* **Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions** - Paper defining isolation as a foundational safety principle for LLM-agent systems. https://arxiv.org/abs/2607.12406
+* **SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction** - Paper presenting a world-model-based safety framework for mobile GUI agents. https://arxiv.org/abs/2607.15550
+* **OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets** - Paper proposing system-wide safety boundaries for heterogeneous AI agent fleets. https://arxiv.org/abs/2609.00015
+* **agentic-security** (⭐ 92 stars) - Platform for building with an Agentic Workforce, with safety, security, and compliance as defaults. https://github.com/Clear-Capabilities/agentic-security
+* **mcp-agent-security-gateway** (⭐ 17 stars) - Gateway that monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+* **red-team-blue-team-agent-fabric** (⭐ 29 stars) - AI-agent security and adversarial-testing harness with executable tests across MCP, A2A, x402/L402, and related agent-security areas. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agent-threat-rules** (⭐ 381 stars) - Open, executable detection-rule standard for AI-agent security threats across 10 categories. https://github.com/Agent-Threat-Rule/agent-threat-rules
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-02)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **auditor-skill** (⭐ 52) - Claude Code / agentic security skill for auditing Solana programs and software, with checklists, PoC + fix-patch delivery, and real-world attack vectors. [Link](https://github.com/solanabr/auditor-skill)
+
+#### 🔒 Security of Agents
+* **OpenAgentFlow** - Paper on enabling system-wide safety boundaries for heterogeneous AI agent fleets. [Link](https://arxiv.org/abs/2609.00015)
+* **Jailbreaking Text-to-Image Models Through Cracks** - Paper on using multi-agent debate to jailbreak T2I models by navigating heterogeneous safety filters. [Link](https://arxiv.org/abs/2609.01168)
+* **Distributed Implicit Harm** - Paper exposing a compositional safety blind spot in MLLM-based video moderation. [Link](https://arxiv.org/abs/2609.00206)
+* **SoK: When Safe Agents Fail Together** - Paper systematizing the security of multi-agent LLM systems. [Link](https://arxiv.org/abs/2609.00595)
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+* **red-team-blue-team-agent-fabric** (⭐ 28) - AI agent security harness and adversarial testing framework for agent protocols, governance, and supply chains. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **DVLAA** (⭐ 26) - Damn Vulnerable LLM and Agent Application, a local security range for LLM and agent attack training. [Link](https://github.com/Tcotl/DVLAA)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-09-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment** - Overview of LLM agents applied to software and systems security workflows. [Link](https://arxiv.org/abs/2608.28490)
+* **trident** (⭐ 32 stars) - Azure Linux servicing agent focused on security-focused install, provisioning, and updates. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI** - Investigates how ASR input errors can cause unsafe outputs in Embodied AI agents. [Link](https://arxiv.org/abs/2608.28518)
+* **CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?** - Explores LLM agent defenses against prompt injection attacks. [Link](https://arxiv.org/abs/2608.27990)
+* **The Autonomy Tax: Defense Training Breaks LLM Agents** - Analyzes how defense training impacts LLM agent autonomy and tool use. [Link](https://arxiv.org/abs/2603.19423)
+* **red-team-blue-team-agent-fabric** (⭐ 28 stars) - AI agent security harness with adversarial tests across MCP, A2A, x402/L402, governance, and more. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **awesome-ai-agent-attacks** (⭐ 66 stars) - Curated and dated timeline of real AI agent security incidents and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **agentic_security** (⭐ 1982 stars) - LLM vulnerability scanner and AI red teaming kit for agentic systems. [Link](https://github.com/msoedov/agentic_security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-31)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment** - Survey of LLM agents applied to software and systems security workflows, including artifact inspection, hypothesis formation, tool use, and interpretation. [Link](https://arxiv.org/abs/2608.28490)
+* **awesome-ai-security-tools** (⭐ 1095) - Curated list of AI security and AI-assisted cybersecurity tools, including autotriage, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, and reverse engineering. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI** - Investigates how automatic speech recognition errors in voice commands can lead to unsafe outputs from embodied AI agents. [Link](https://arxiv.org/abs/2608.28518)
+* **CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?** - Studies prompt-injection attacks on LLM agents and whether agents can autonomously generate defenses. [Link](https://arxiv.org/abs/2608.27990)
+* **The Autonomy Tax: Defense Training Breaks LLM Agents** - Analyzes how defense training can degrade the autonomous tool-use capabilities of LLM agents. [Link](https://arxiv.org/abs/2603.19423)
+* **red-team-blue-team-agent-fabric** (⭐ 28) - AI agent security harness with adversarial testing across MCP, A2A, x402/L402, decision governance, and human-in-the-loop. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **agent-threat-rules** (⭐ 377) - Open, Sigma-like detection-rule standard for AI agent security threats across 10 categories. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentic_security** (⭐ 1980) - Agentic LLM vulnerability scanner and AI red-teaming kit. [Link](https://github.com/msoedov/agentic_security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+*No items found in the provided data.*
+
+#### 🔒 Security of Agents
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 28)** - AI agent security harness with adversarial testing; includes 608 executable tests across MCP, A2A, x402/L402, governance, and more, aligned with OWASP Agentic v1.1, AIUC-1, and NIST AI 800-2.
+* **[DVLAA](https://github.com/Tcotl/DVLAA) (⭐ 18)** - Damn Vulnerable LLM and Agent Application; a local security range for OWASP LLM Top 10 and agent security training.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 376)** - Open detection-rule standard for AI agent security threats, similar to Sigma but for agents; executable rules across 10 categories, adopted by Microsoft, Cisco, MISP, OWASP, and others.
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident](https://github.com/microsoft/trident) (⭐ 30)** - Azure Linux servicing agent focused on security-focused install, provisioning, and update.
+
+#### 🔒 Security of Agents
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 28)** - AI agent security harness with 606 executable adversarial/conformance tests across MCP, A2A, x402/L402, and governance; aligned with OWASP Agentic and NIST.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 85)** - Platform for building an Agentic Workforce with safe, secure, and compliant defaults.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 376)** - Open detection-rule standard for AI agent security threats, like Sigma but for AI agents, with executable rules across 10 categories.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation]** - Evaluates LLM agents' offensive security capabilities in CTF benchmarks via trace-level provenance. [Link](https://arxiv.org/abs/2608.26237)
+* **[trident (⭐ 30)]** - Azure Linux servicing agent for security-focused install, provisioning, and updates. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents]** - Analyzes safety issues in long-running autonomous LLM agent loops. [Link](https://arxiv.org/abs/2608.27141)
+* **[RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards]** - Safeguards LLM agents by learning context-dependent safety-policy invocation. [Link](https://arxiv.org/abs/2608.24275)
+* **[red-team-blue-team-agent-fabric (⭐ 28)]** - AI agent security harness with adversarial tests covering OWASP Agentic threats across MCP, A2A, and more. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **[agent-threat-rules (⭐ 376)]** - Open detection-rule standard for AI agent security threats, similar to Sigma but for agents. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **[mcp-agent-security-gateway (⭐ 17)]** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident](https://github.com/microsoft/trident) (⭐ 30 stars)** - Azure Linux servicing agent for security-focused installation, provisioning, and updates.
+
+#### 🔒 Security of Agents
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 81 stars)** - Enables safe, secure, and compliant agentic workforce by default.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 376 stars)** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident]** (⭐ 30 stars) - Azure Linux servicing agent focused on security install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **[RePolicy]** - Reinforcement learning for safety-policy invocation in AI agent safeguards. [Link](https://arxiv.org/abs/2608.24275)
+* **[StepGuard]** - Step-level guardrails protecting LLM agent tool use via safety-utility balancing. [Link](https://arxiv.org/abs/2608.24777)
+* **[TrustShiftProbe]** - Characterizes, benchmarks, and defends against staged trust attacks on MCP servers. [Link](https://arxiv.org/abs/2608.23763)
+* **[Beyond the Mandate]** - Systematic security analysis of the Agent Payments Protocol (AP2) for LLM shopping agents. [Link](https://arxiv.org/abs/2608.23858)
+* **[agentic-security]** (⭐ 79 stars) - Agentic workforce platform with safe, secure, and compliant defaults. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **[red-team-blue-team-agent-fabric]** (⭐ 28 stars) - AI agent security harness for adversarial testing across MCP, A2A, protocols, OWASP Agentic, and NIST. [Link](https://github.com/msaleme/red-team-blue-team-agent-fabric)
+* **[awesome-ai-agent-attacks]** (⭐ 66 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities](https://arxiv.org/abs/2608.21444)** - Explores agentic AI for safety-critical multi-drone missions such as search and rescue and critical infrastructure monitoring.
+* **[Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing](https://arxiv.org/abs/2608.21423)** - Systematizes LLM-driven agents used to plan, dispatch, and interpret security tools for penetration testing.
+* **[trident](https://github.com/microsoft/trident) (⭐ 30 stars)** - Microsoft's Azure Linux servicing agent focused on security-focused install, provisioning, and update.
+
+#### 🔒 Security of Agents
+* **[MEMORY Wins All: Indirect Bias Injection Attacks via Social Media Feeds](https://arxiv.org/abs/2608.22061)** - Shows indirect bias injection attacks against personal AI agents that consume external content such as social media feeds.
+* **[InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://arxiv.org/abs/2608.23471)** - Attacks persistent memory subsystems being adopted in deployed LLM agents.
+* **[red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric) (⭐ 27 stars)** - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, decision governance, and skill supply chain.
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 373 stars)** - Open detection-rule standard for AI agent security threats, with rules adopted by major security frameworks.
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17 stars)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[Large Language Models at the Intersection of Software Engineering and Software Security: An Evidence-Centered Structured Survey and Research Agenda]** - Structured survey and research agenda on LLM-driven agents in software engineering and software security. [https://arxiv.org/abs/2608.21107](https://arxiv.org/abs/2608.21107)
+* **[Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents]** - Analyzes failure modes in long-horizon security-focused LLM agents. [https://arxiv.org/abs/2608.20563](https://arxiv.org/abs/2608.20563)
+* **[awesome-ai-security-tools (⭐ 1082 stars)]** - Curated list of AI security and AI-assisted cybersecurity tools, including pentest agents, AI SAST, LLM-driven fuzzing, SOC/SIEM triage, and red-teaming. [https://github.com/scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **[ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models]** - Test-time safety alignment approach for multimodal LLMs. [https://arxiv.org/abs/2608.21100](https://arxiv.org/abs/2608.21100)
+* **[Vibe Coding and Web Application Security: A Twin-Prompt Study]** - Investigates whether explicit security prompting changes security outcomes in LLM-generated web applications. [https://arxiv.org/abs/2608.20963](https://arxiv.org/abs/2608.20963)
+* **[mcp-agent-security-gateway (⭐ 17 stars)]** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [https://github.com/poojakira/mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway)
+* **[agent-threat-rules (⭐ 373 stars)]** - Open detection-rule standard for AI agent security threats, with executable rules across 10 categories. [https://github.com/Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **[Awesome-Agentic-Security (⭐ 51 stars)]** - Curated list of 260+ papers/resources on Agentic Security: applications (Red/Blue Teaming), threats (Injection, Poisoning), and defenses (Guardrails, Verification). [https://github.com/kagnlp/Awesome-Agentic-Security](https://github.com/kagnlp/Awesome-Agentic-Security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)** (⭐ 86) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
+
+#### 🔒 Security of Agents
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)** (⭐ 373) - Open detection-rule standard for AI agent security threats, like Sigma but for AI agents.
+* **[Awesome-LLMSecOps](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)** (⭐ 152) - Curated repository of resources on LLM, agentic security, and operations.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security)** (⭐ 78) - Framework for building agentic workforces with secure, safe, and compliant defaults.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* _No items_
+
+#### 🔒 Security of Agents
+* **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 372)** - Open detection-rule standard for AI agent security threats, covering 10 categories and integrated with major security frameworks.
+* **[agentic-security](https://github.com/Clear-Capabilities/agentic-security) (⭐ 74)** - Framework for building secure, compliant agentic workforces.
+* **[mcp-agent-security-gateway](https://github.com/poojakira/mcp-agent-security-gateway) (⭐ 17)** - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration.
+* **[WebCrypt](https://github.com/putervision/WebCrypt) (⭐ 20)** - Web Crypto suite and MCP server providing encryption and AI agent security.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[OpenHack]** (⭐ 394) - Open source agentic security scanner for security auditing. [Link](https://github.com/openhackai/OpenHack)
+
+#### 🔒 Security of Agents
+* **[Breaking Planner Integrity Boundary: Enviroment State-Text Injection Attack on LLM-Driven Embodied Agents]** - Paper on state-text injection attacks targeting LLM-driven embodied agents. [Link](https://arxiv.org/abs/2608.16806)
+* **[mcp-agent-security-gateway]** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+* **[agentic-security]** (⭐ 73) - Secure, compliant default for building with an agentic workforce. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **[agent-threat-rules]** (⭐ 372) - Open detection-rule standard for AI agent security threats; executable rules across categories. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **attachment** (⭐ 31) - Connects processes providing HTTP data to the open-appsec Agent security logic. [Link](https://github.com/openappsec/attachment)
+
+#### 🔒 Security of Agents
+* **Breaking Planner Integrity Boundary: Enviroment State-Text Injection Attack on LLM-Driven Embodied Agents** - Explores environment state‑text injection attacks against LLM‑driven embodied agents. [Link](https://arxiv.org/abs/2608.16806)
+* **agentic-security** (⭐ 73) - Builds a safe, secure, and compliant Agentic Workforce by default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **mcp-agent-security-gateway** (⭐ 17) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. [Link](https://github.com/poojakira/mcp-agent-security-gateway)
+* **agent-threat-rules** (⭐ 371) - Open detection‑rule standard for AI agent security threats, like Sigma for AI agents, spanning 10 categories. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **[trident]** (⭐ 30) - Azure Linux servicing agent - security focused install, provisioning, and update. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **[Auditing Self-Evolution in Financial Agents: Capability Gains, Security Drift, and Execution-Interface Mismatch]** - Audits security drift in self-evolving financial agents. https://arxiv.org/abs/2608.17684
+* **[When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling]** - Surveys the attack surface of agent tool calling and MCP ecosystems. https://arxiv.org/abs/2608.17275
+* **[HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety]** - Benchmark for safety of agent harnesses managing tools, permissions, and external actions. https://arxiv.org/abs/2608.17597
+* **[MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps]** - Benchmarks GUI agent safety against environmental injection attacks. https://arxiv.org/abs/2608.17659
+* **[agentic-security]** (⭐ 73) - Build faster with an Agentic Workforce; safe, secure, and compliant by default. https://github.com/Clear-Capabilities/agentic-security
+* **[agent-threat-rules]** (⭐ 371) - Open detection-rule standard for AI agent security threats, like Sigma for AI agents. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **[mcp-agent-security-gateway]** (⭐ 17) - Monitor MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* [SysEvolve](https://arxiv.org/abs/2608.15012) - An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system for cybersecurity.
+* [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) (⭐ 15 stars) - Agentic security review for Rust; autonomously finds, triages, and patches unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws.
+
+#### 🔒 Security of Agents
+* [Beyond Pass@k](https://arxiv.org/abs/2608.14711) - Analyzes misapplication of pass@k in AI coding agent benchmarks, focusing on reliability and security measurement of agentic code generation.
+* [Bounded Agents](https://arxiv.org/abs/2608.15888) - Introduces delegation security for multi-agent AI systems to control permissions and protect agent actions as session start.
+* [Workspace Topology as an Attack Vector](https://arxiv.org/abs/2608.14876) - Identifies workspace topology as an attack vector against agentic coding assistants.
+* [agentic_security](https://github.com/msoedov/agentic_security) (⭐ 1966 stars) - Agentic LLM vulnerability scanner / AI red teaming kit.
+* [Adrian](https://github.com/secureagentics/Adrian) (⭐ 542 stars) - Runtime AI agent security tool that monitors and controls agents, catching malicious tool use, prompt injection, and policy drift in real time.
+* [agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) (⭐ 371 stars) - Open detection-rule standard for AI agent security threats; executable rules across 10 categories.
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **rust-in-peace** (⭐ 14) - Agentic security review for Rust: autonomous find/triage/patch for unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws. https://github.com/scadastrangelove/rust-in-peace
+* **agentic-security** (⭐ 73) - Build faster with an Agentic Workforce where safe, secure, and compliant is the default. https://github.com/Clear-Capabilities/agentic-security
+
+#### 🔒 Security of Agents
+* **Adrian** (⭐ 542) - Runtime AI agent security tool that monitors/controls agents, catching malicious tool use, prompt injection, and policy drift in real time. https://github.com/secureagentics/Adrian
+* **awesome-ai-agent-attacks** (⭐ 65) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). https://github.com/webpro255/awesome-ai-agent-attacks
+* **Sensor-Driven Mission Synthesis for UAV/UGV Swarms** - Coordination architecture for UAV/UGV swarms with hardware-enforced safety; relevant to securing autonomous agent operations. https://arxiv.org/abs/2608.14306
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-08-16)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* **awesome-ai-security-tools** (⭐ 1063) - Curated list of tools for AI security and AI-assisted cybersecurity, including pentest agents, SOC/SIEM triage, AI SAST, and LLM red-teaming. https://github.com/scadastrangelove/awesome-ai-security-tools
+
+#### 🔒 Security of Agents
+* **Sensor-Driven Mission Synthesis for UAV/UGV Swarms** - Coordination architecture for autonomous UAV/UGV swarms with hardware-enforced safety. https://arxiv.org/abs/2608.14306
+* **agentic-security** (⭐ 73) - Agentic workforce platform with safe, secure, and compliant defaults. https://github.com/Clear-Capabilities/agentic-security
+* **agent-threat-rules** (⭐ 371) - Open detection-rule standard for AI agent security threats, merged into major frameworks. https://github.com/Agent-Threat-Rule/agent-threat-rules
+* **mcp-agent-security-gateway** (⭐ 12) - Monitors MCP tool calls for prompt injection, PII leakage, shadow servers, and exfiltration patterns. https://github.com/poojakira/mcp-agent-security-gateway
+
+---
+
+
+
+### 📅 Daily Security Intelligence (2026-07-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 314 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **Adrian** (⭐ 472 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **Distributing Security Controls Through Harness Engineering** - AI coding agents are being adopted at historic speed, yet security and risk concerns remain the primary barrier to scaling agentic AI across organizations. [Link](https://arxiv.org/abs/2607.25890)
+* **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - We present key challenges and future research directions in the security and privacy of agentic AI, based on a horizon-scanning exercise that... [Link](https://arxiv.org/abs/2607.06608)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT** - Focuses on security in IIoT environments using multi-agent systems. [Link](https://arxiv.org/abs/2601.17303)
+* **ASEval: Automated Trajectory-Level Security Testing for Autonomous Agents** - Discusses security testing for autonomous agents operating with deep privileges. [Link](https://arxiv.org/abs/2605.22321)
+* **trident (⭐ 29 stars)** - Azure Linux servicing agent focused on security installation, provisioning, and updates. [Link](https://github.com/microsoft/trident)
+* **agentic-security (⭐ 73 stars)** - A framework for building secure and compliant AI agents. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **orbit (⭐ 14 stars)** - A benchmarking framework for multi-agent security. [Link](https://github.com/wlanderson0/orbit)
+* **agent-threat-rules (⭐ 354 stars)** - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+#### 🔒 Security of Agents
+* **ToolGuardian: Declarative Security for AI Agent-Tool Interactions** - Addresses security boundaries in AI agent interactions with third-party tools. [Link](https://arxiv.org/abs/2607.21835)
+* **Agent Security Needs Redefinition through a Holistic Framework** - Proposes a new framework for understanding agent security beyond action content. [Link](https://arxiv.org/abs/2607.22024)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-27)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT** - A consensus-based approach to enhance security in IIoT environments using multi-agent systems. [Link](https://arxiv.org/abs/2601.17303)
+* **ASEval: Automated Trajectory-Level Security Testing for Autonomous Agents** - Focuses on security testing for autonomous agents operating with deep system-level privileges. [Link](https://arxiv.org/abs/2605.22321)
+* **agentic-security (⭐ 73 stars)** - Build faster with an Agentic Workforce. Safe, secure, and compliant is now the default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **awesome-ai-security-tools (⭐ 892 stars)** - A curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **ToolGuardian: Declarative Security for AI Agent-Tool Interactions** - Discusses security boundaries created by LLM agents using third-party tools. [Link](https://arxiv.org/abs/2607.21835)
+* **Agent Security Needs Redefinition through a Holistic Framework** - Proposes a new framework for understanding agent security beyond just action content. [Link](https://arxiv.org/abs/2607.22024)
+* **sigma-ai (⭐ 15 stars)** - Sigma detection rules for monitoring AI agent security. [Link](https://github.com/agentshield-ai/sigma-ai)
+* **awesome-ai-agent-attacks (⭐ 42 stars)** - A timeline of real AI agent security incidents, breaches, and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 311 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 820 stars) - A curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **agent-security-scanner-mcp** (⭐ 117 stars) - Security scanner MCP server for AI coding agents with various detection capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+#### 🔒 Security of Agents
+* **agent-security-scanner-mcp** (⭐ 117 stars) - Security scanner MCP server for AI coding agents with prompt injection firewall and vulnerability rules. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-25)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 113 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **OpenHack** (⭐ 309 stars) - Open Source Agentic Security Scanner. [Link](https://github.com/openhackai/OpenHack)
+
+#### 🔒 Security of Agents
+* **agent-threat-rules** (⭐ 349 stars) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-24)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **AI Security Policy Should Assess Systems, Not Only Models** - Discusses an adversarial testing framework for AI agents. [Link](https://arxiv.org/abs/2605.09504)
+* **Adrian** (⭐ 421 stars) - Open-source runtime AI agent security tool that monitors and controls AI agents in real time. [Link](https://github.com/secureagentics/Adrian)
+
+#### 🔒 Security of Agents
+* **Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation** - Explores authorization for autonomous AI agents. [Link](https://arxiv.org/abs/2607.21325)
+* **SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety** - Focuses on safety mechanisms for LLM agents. [Link](https://arxiv.org/abs/2605.05704)
+* **Doberman-Core** (⭐ 113 stars) - AI agent security framework for various protective measures. [Link](https://github.com/fu351/Doberman-Core)
+* **agent-threat-rules** (⭐ 349 stars) - Detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agent-security-scanner-mcp** (⭐ 117 stars) - Security scanner for AI coding agents with various detection capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Operational Hallucination and Safety Drift in AI Agents** - Discusses reliability risks in AI agents using LLMs for planning. [Link](https://arxiv.org/abs/2607.18366)
+* **SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring** - Examines the risks of LLMs in converting hazardous knowledge into actionable misuse. [Link](https://arxiv.org/abs/2607.18665)
+* **Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing** - Evaluates LLM agents in HPC environments for security monitoring and diagnostics. [Link](https://arxiv.org/abs/2607.18485)
+* **Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents** - Analyzes the impact of LLM-based browser agents on web security. [Link](https://arxiv.org/abs/2607.18659)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 143 stars) - Curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **OpenHack** (⭐ 306 stars) - Open Source Agentic Security Scanner. [Link](https://github.com/openhackai/OpenHack)
+* **agent-threat-rules** (⭐ 347 stars) - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+#### 🔒 Security of Agents
+* **Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing** - Focuses on the security of LLM agents in HPC environments. [Link](https://arxiv.org/abs/2607.18485)
+* **Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents** - Discusses the security challenges posed by LLM-based browser agents. [Link](https://arxiv.org/abs/2607.18659)
+* **agent-threat-rules** (⭐ 347 stars) - Provides detection rules for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-22)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agent-threat-rules** (⭐ 343 stars) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **agentshield** (⭐ 1007 stars) - AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️ [Link](https://github.com/affaan-m/agentshield)
+* **Doberman-Core** (⭐ 113 stars) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **Operational Hallucination and Safety Drift in AI Agents** - Discusses reliability risks in AI agents using LLMs in multi-turn execution. [Link](https://arxiv.org/abs/2607.18366)
+* **Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing** - Examines security risks of LLM agents in high-performance computing environments. [Link](https://arxiv.org/abs/2607.18485)
+* **Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents** - Analyzes the changing threat landscape for web security due to LLM-based browser agents. [Link](https://arxiv.org/abs/2607.18659)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-21)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 407 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **agent-threat-rules** (⭐ 340 stars) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+#### 🔒 Security of Agents
+* **PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection** - Discusses attacks on multi-agent LLM systems through prompt injection. [Link](https://arxiv.org/abs/2607.16199)
+* **Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?** - Explores how self-hosted AI agents can be compromised through their own memory and configuration files. [Link](https://arxiv.org/abs/2607.17986)
+* **Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security** - Introduces a benchmark for evaluating the security of LLM-based agents against prompt injection and manipulation. [Link](https://arxiv.org/abs/2607.18063)
+* **awesome-ai-agent-attacks** (⭐ 38 stars) - A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry sourced and dated. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **piolium** (⭐ 57 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+* **CyberGym-E2E: Scalable Real-World Benchmark for AI Agents' End-to-End Cybersecurity Capabilities** - Discusses the potential of AI in transforming cybersecurity through autonomous detection and remediation of vulnerabilities. [Link](https://arxiv.org/abs/2606.04460)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-20)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 299 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, prompt injection defense, and secure AI deployment [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction** - Framework addressing safety in mobile GUI agents [Link](https://arxiv.org/abs/2607.15550)
+* **Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking** - Discusses jailbreak techniques for large language models [Link](https://arxiv.org/abs/2602.24009)
+* **AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations** - Focuses on threats from indirect prompt injection in tool-use agents [Link](https://arxiv.org/abs/2606.02240)
+* **Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents** - Evaluates security agents' capabilities, emphasizing vulnerability discovery [Link](https://arxiv.org/abs/2607.15263)
+* **agent-threat-rules** (⭐ 336 stars) - Open detection-rule standard for AI agent security threats [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-19)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **agent-threat-rules** (⭐ 325 stars) - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, prompt injection defense, and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **LLMVault** (⭐ 200 stars) - Intentionally vulnerable training platform for AI Security and penetration testing. [Link](https://github.com/CyberSunil/LLMVault)
+
+#### 🔒 Security of Agents
+* **agentic-security** (⭐ 73 stars) - Build faster with an Agentic Workforce, focusing on safety and compliance. [Link](https://github.com/Clear-Capabilities/agentic-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-18)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 81 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agent-threat-rules** (⭐ 318 stars) - Open detection-rule standard for AI agent security threats. [Link](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, monitoring, and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **LLMVault** (⭐ 183 stars) - Intentionally vulnerable training platform for AI Security and prompt injection defense. [Link](https://github.com/CyberSunil/LLMVault)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-17)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows** - Discusses the use of LLMs in fraud detection and trust-and-safety workflows. [Link](https://arxiv.org/abs/2607.13078)
+* **Adrian** (⭐ 398 stars) - Open-source runtime AI agent security tool that monitors and controls AI agents. [Link](https://github.com/secureagentics/Adrian)
+* **shep** (⭐ 231 stars) - Tool for shipping features faster with built-in security for AI agents. [Link](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Focuses on safeguarding LLM agents from harmful actions. [Link](https://arxiv.org/abs/2607.13594)
+* **Mind the Gap: Action Rebinding Attacks against Android GUI Agents** - Explores vulnerabilities in GUI agents on mobile platforms. [Link](https://arxiv.org/abs/2601.12349)
+* **agentic-security** (⭐ 73 stars) - Aims to build secure and compliant AI agent workflows. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **symfony-security-auditor** (⭐ 80 stars) - AI-powered security auditor for Symfony applications, focusing on agent security. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-16)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 396 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **symfony-security-auditor** (⭐ 80 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 105 stars) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **LLMVault** (⭐ 21 stars) - An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing. [Link](https://github.com/CyberSunil/LLMVault)
+* **Mind the Gap: Action Rebinding Attacks against Android GUI Agents** - Discusses vulnerabilities in AI agents operating on mobile platforms. [Link](https://arxiv.org/abs/2601.12349)
+* **SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing** - Addresses safeguards for LLM agents to prevent harmful actions. [Link](https://arxiv.org/abs/2607.13594)
+* **Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows** - Explores the limitations of LLMs in trust-and-safety workflows, relevant to agent security. [Link](https://arxiv.org/abs/2607.13078)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-15)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **A Knowledge-Based Multi-Agent Framework for Security Control Recommendation** - Framework for cybersecurity recommendations using multi-agent systems. [Link](https://arxiv.org/abs/2607.09954)
+* **awesome-ai-security-tools** (⭐ 104 stars) - Curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **symfony-security-auditor** (⭐ 78 stars) - AI-powered security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **shep** (⭐ 231 stars) - Tool for faster feature shipping with built-in security capabilities. [Link](https://github.com/shep-ai/shep)
+* **trident** (⭐ 28 stars) - Security-focused agent for Azure Linux servicing. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation** - Discusses vulnerabilities in AI navigation systems due to adversarial attacks. [Link](https://arxiv.org/abs/2607.11063)
+* **Safety from Honesty in a Disinterested AI Predictor** - Explores risks of implicit agency in AI systems and their training. [Link](https://arxiv.org/abs/2606.29657)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-14)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **A Knowledge-Based Multi-Agent Framework for Security Control Recommendation** - Framework for cybersecurity decision support. [Link](https://arxiv.org/abs/2607.09954)
+* **symfony-security-auditor** (⭐ 78 stars) - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Adrian** (⭐ 391 stars) - Open-source runtime AI agent security tool for monitoring and controlling AI agents. [Link](https://github.com/secureagentics/Adrian)
+* **awesome-ai-security-tools** (⭐ 101 stars) - Curated list of tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **Awesome-LLMSecOps** (⭐ 144 stars) - Repository focused on LLM security and operations. [Link](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)
+
+#### 🔒 Security of Agents
+* **Adrian** (⭐ 391 stars) - Open-source runtime AI agent security tool for monitoring and controlling AI agents. [Link](https://github.com/secureagentics/Adrian)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-13)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls** - Cyberattacks on operational technology and the limitations of traditional rule-based systems. [Link](https://arxiv.org/abs/2607.09076)
+* **Beyond Black-Box Obfuscation: Mechanistic Analysis and Defense of White-Box Monitors** - White-box monitoring as an auditing tool for safe operations of LLMs. [Link](https://arxiv.org/abs/2505.14300)
+* **symfony-security-auditor (⭐ 77 stars)** - AI-powered multi-agent security auditor for Symfony applications. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **sigma-ai (⭐ 15 stars)** - Sigma detection rules for AI agent security monitoring. [Link](https://github.com/agentshield-ai/sigma-ai)
+* **awesome-ai-agent-attacks (⭐ 35 stars)** - A curated timeline of real AI agent security incidents, breaches, and vulnerabilities. [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+#### 🔒 Security of Agents
+* **trident (⭐ 28 stars)** - Azure Linux servicing agent focused on security installation and updates. [Link](https://github.com/microsoft/trident)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-12)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **OpenHack** (⭐ 281 stars) - Open Source Agentic Security Scanner [Link](https://github.com/openhackai/OpenHack)
+* **Doberman-Core** (⭐ 112 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, and secure AI deployment [Link](https://github.com/fu351/Doberman-Core)
+* **agent-security-scanner-mcp** (⭐ 116 stars) - Security scanner MCP server for AI coding agents with vulnerability rules and auto-fix [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+#### 🔒 Security of Agents
+* **symfony-security-auditor** (⭐ 76 stars) - AI-powered multi-agent security auditor for Symfony applications [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-11)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **auditor-skill** (⭐ 34 stars) - Claude Code / agentic security skill for Solana programs and software, including a full audit-firm lifecycle and real-world attack vectors. [Link](https://github.com/solanabr/auditor-skill)
+* **agent-security-scanner-mcp** (⭐ 115 stars) - Security scanner MCP server for AI coding agents, featuring prompt injection firewall and vulnerability rules. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **shep** (⭐ 229 stars) - Tool to ship features faster with built-in memory and security for AI development. [Link](https://github.com/shep-ai/shep)
+
+#### 🔒 Security of Agents
+* **Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring** - Discusses how persuasion attacks can undermine AI safety mechanisms like CoT monitoring. [Link](https://arxiv.org/abs/2607.08066)
+* **Distributed Attacks in Persistent-State AI Control** - Explores the risks of persistent-state AI coding agents and the potential for distributed attacks. [Link](https://arxiv.org/abs/2607.02514)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-10)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 76 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **trilane** (⭐ 26 stars) - TriLane: autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. Built with Rust and Tauri. [Link](https://github.com/xyun92/trilane)
+
+#### 🔒 Security of Agents
+* **Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety** - Discusses safety evaluations of multi-agent LLM systems. [Link](https://arxiv.org/abs/2607.07097)
+* **When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents** - Explores memory poisoning attacks on personal AI agents. [Link](https://arxiv.org/abs/2607.06595)
+* **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - Presents challenges and future research directions in the security and privacy of agentic AI. [Link](https://arxiv.org/abs/2607.06608)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-09)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 75 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agent-security-scanner-mcp** (⭐ 113 stars) - Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST & taint analysis, auto-fix. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **trilane** (⭐ 26 stars) - TriLane: autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. Built with Rust and Tauri. [Link](https://github.com/xyun92/trilane)
+
+#### 🔒 Security of Agents
+* **When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents** - Discusses memory poisoning attacks on AI agents. [Link](https://arxiv.org/abs/2607.06595)
+* **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - Presents challenges and future research directions in the security and privacy of agentic AI. [Link](https://arxiv.org/abs/2607.06608)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-08)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **agent-security-scanner-mcp** (⭐ 113 stars) - Security scanner MCP server for AI coding agents with prompt injection firewall, package hallucination detection, and auto-fix capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **trilane** (⭐ 26 stars) - Autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. [Link](https://github.com/xyun92/trilane)
+* **symfony-security-auditor** (⭐ 74 stars) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities** - Discusses vulnerabilities in AI coding agents related to execution security. [Link](https://arxiv.org/abs/2607.05743)
+* **SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models** - Addresses the production of vulnerable code by AI coding assistants and the need for a training dataset. [Link](https://arxiv.org/abs/2512.18542)
+* **AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming** - Focuses on safety rule evolution for LLM agents to enhance their security in automated tasks. [Link](https://arxiv.org/abs/2606.24245)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-07)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 74 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **FORGE: Research-Trajectory Hijacking Attacks on Deep Research Agents** - Discusses attacks on deep research agents. [Link](https://arxiv.org/abs/2607.04718)
+* **Determinants and Limits of LLM Security-Tool Orchestration: A Study with HexStrike-AI** - Examines factors affecting LLM agents in security tool orchestration. [Link](https://arxiv.org/abs/2607.02873)
+* **Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses** - Explores attacks on LLM agent memory and defenses. [Link](https://arxiv.org/abs/2607.05029)
+* **Agent Data Injection Attacks are Realistic Threats to AI Agents** - Investigates threats posed by data injection attacks on AI agents. [Link](https://arxiv.org/abs/2607.05120)
+* **agent-security-scanner-mcp** (⭐ 112 stars) - Security scanner MCP server for AI coding agents, including prompt injection firewall and vulnerability rules. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **shep** (⭐ 225 stars) - Features for faster shipping with built-in memory, K8S agent, and security. [Link](https://github.com/shep-ai/shep)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-06)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **agent-security-scanner-mcp** (⭐ 113 stars) - Security scanner MCP server for AI coding agents with prompt injection firewall, package hallucination detection, and auto-fix capabilities. [Link](https://github.com/sinewaveai/agent-security-scanner-mcp)
+* **symfony-security-auditor** (⭐ 72 stars) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+
+#### 🔒 Security of Agents
+* **awesome-ai-agent-attacks** (⭐ 30 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-05)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 72 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **shep** (⭐ 221 stars) - Ship features 10x faster. Built In Auto: Memory, K8S Agent & Security (SDD+SDLC). 😇 [Link](https://github.com/shep-ai/shep)
+* **piolium** (⭐ 37 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+* **sigma-ai** (⭐ 15 stars) - Sigma detection rules for AI agent security monitoring. [Link](https://github.com/agentshield-ai/sigma-ai)
+
+#### 🔒 Security of Agents
+* *(No items classified under this category based on the provided data.)*
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-04)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 71 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **piolium** (⭐ 37 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+* **sigma-ai** (⭐ 15 stars) - Sigma detection rules for AI agent security monitoring. [Link](https://github.com/agentshield-ai/sigma-ai)
+* **Doberman-Core** (⭐ 111 stars) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+#### 🔒 Security of Agents
+* **Doberman-Core** (⭐ 111 stars) - Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-03)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 71 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **Adrian** (⭐ 369 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+
+#### 🔒 Security of Agents
+* **Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification** - Discusses safety testing for LLM agents and evolving safety risks. [Link](https://arxiv.org/abs/2607.01793)
+* **Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems** - Focuses on safety in complex autonomous systems integrating AI. [Link](https://arxiv.org/abs/2607.02376)
+* **Distributed Attacks in Persistent-State AI Control** - Examines risks associated with autonomous AI coding agents and persistent codebases. [Link](https://arxiv.org/abs/2607.02514)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-02)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 365 stars) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 71 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **awesome-ai-security-tools** (⭐ 24 stars) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems** - Discusses failure modes of autonomous agents and governance for safety. [Link](https://arxiv.org/abs/2607.00334)
+* **EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards** - Evaluates vision-language models as safety guards for embodied agents. [Link](https://arxiv.org/abs/2607.00218)
+* **Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity** - Focuses on safety evaluations for language models and ambiguous behavior. [Link](https://arxiv.org/abs/2607.01153)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-07-01)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Adrian** (⭐ 359 stars) - Open-source runtime AI agent security tool that monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. [Link](https://github.com/secureagentics/Adrian)
+* **symfony-security-auditor** (⭐ 66 stars) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 111 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection, and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **awesome-ai-security-tools** (⭐ 24 stars) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity, including autotriage, agent security, and more. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+
+#### 🔒 Security of Agents
+* **Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens** - Discusses the security of claw-like AI agents with persistent access to credentials and external services. [Link](https://arxiv.org/abs/2606.30755)
+* **A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems** - Explores vulnerabilities in large language models, including risks and defenses. [Link](https://arxiv.org/abs/2606.31639)
+* **Containment Verification: AI Safety Guarantees Independent of Alignment** - Examines safety methods for AI agents that focus on containment rather than model alignment. [Link](https://arxiv.org/abs/2605.09045)
+* **From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching** - Investigates vulnerabilities in semantic caching techniques used by large language models. [Link](https://arxiv.org/abs/2601.23088)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-30)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 110 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **awesome-ai-security-tools** (⭐ 24 stars) - Curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity. [Link](https://github.com/scadastrangelove/awesome-ai-security-tools)
+* **trilane** (⭐ 22 stars) - Autonomous AI pentester and multi-agent security auditor for authorized gray-box testing of web apps and APIs. [Link](https://github.com/xyun92/trilane)
+
+#### 🔒 Security of Agents
+* **awesome-ai-agent-attacks** (⭐ 28 stars) - Curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). [Link](https://github.com/webpro255/awesome-ai-agent-attacks)
+* **Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems** - Discusses security challenges in autonomous agents cooperating across organizational boundaries. [Link](https://arxiv.org/abs/2505.23847)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-29)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 90 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **agentic-security** (⭐ 68 stars) - Build faster with an Agentic Workforce. Safe, secure, and compliant is now the default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **trident** (⭐ 28 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems** - Discusses security challenges in autonomous agents that cooperate across organizational boundaries. [Link](https://arxiv.org/abs/2505.23847)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-28)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **agentic-security** (⭐ 68 stars) - Build faster with an Agentic Workforce. Safe, secure, and compliant is now the default. [Link](https://github.com/Clear-Capabilities/agentic-security)
+* **Doberman-Core** (⭐ 84 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **trident** (⭐ 28 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+
+#### 🔒 Security of Agents
+* **Doberman-Core** (⭐ 84 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-27)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **Doberman-Core** (⭐ 78 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **trident** (⭐ 28 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+* **piolium** (⭐ 35 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+
+#### 🔒 Security of Agents
+* **Doberman-Core** (⭐ 78 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 66 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **piolium** (⭐ 35 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+
+#### 🔒 Security of Agents
+* **Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents** - Discusses strategies for defending tool-using LLM agents against indirect prompt injection. [Link](https://arxiv.org/abs/2606.26479)
+* **ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP** - Explores vulnerabilities in LLM-driven agents and the Model Context Protocol (MCP). [Link](https://arxiv.org/abs/2606.27027)
+* **Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI** - Proposes an architectural blueprint for safe AGI, focusing on intrinsic safety. [Link](https://arxiv.org/abs/2606.26406)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-26)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by GitHub Models (gpt-4o-mini).* 
+
+#### 🛡️ Agents for Security
+* **Doberman-Core** (⭐ 64 stars) - AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment. [Link](https://github.com/fu351/Doberman-Core)
+* **symfony-security-auditor** (⭐ 64 stars) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai. [Link](https://github.com/vinceAmstoutz/symfony-security-auditor)
+* **trident** (⭐ 28 stars) - Azure Linux servicing agent - security focused install, provisioning, and update. [Link](https://github.com/microsoft/trident)
+* **piolium** (⭐ 35 stars) - A Pi-native extension for thorough, agentic security audits. [Link](https://github.com/vigolium/piolium)
+
+#### 🔒 Security of Agents
+* **Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents** - Discusses strategies for defending tool-using LLM agents against indirect prompt injection. [Link](https://arxiv.org/abs/2606.26479)
+* **ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP** - Explores vulnerabilities in LLM-driven agents and the Model Context Protocol (MCP). [Link](https://arxiv.org/abs/2606.27027)
+* **Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI** - Proposes an architectural blueprint for safe AGI, focusing on intrinsic safety. [Link](https://arxiv.org/abs/2606.26406)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-22)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **code-review-agents** - A centralized code-review platform for GitHub built on Claude, featuring a Security agent that automatically runs on every PR. [https://github.com/dsngeu/code-review-agents](https://github.com/dsngeu/code-review-agents)
+
+#### 🔒 Security of Agents
+* **securemind.live** - SecureMind — The AI Agent Security Platform. [https://github.com/kaushikdharamshi/securemind.live](https://github.com/kaushikdharamshi/securemind.live)
+* **agentic-security-marketplace** - No description. [https://github.com/clover-security-public/agentic-security-marketplace](https://github.com/clover-security-public/agentic-security-marketplace)
+* **kaggle-agent-security** - No description. [https://github.com/tiitable/kaggle-agent-security](https://github.com/tiitable/kaggle-agent-security)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-21)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* No entries identified in this batch.
+
+#### 🔒 Security of Agents
+* **agentic-security-harness** - Defensive benchmark toolkit for evaluating agentic AI boundary failures with traces, scorecards, remediation, run diffs, and model/runtime checks. https://github.com/krivonosoff161/agentic-security-harness
+* **agent-security-scanner** - A local-first security scanner for AI Agent, MCP, and AI coding tool projects that detects risky permissions, plaintext credentials, suspicious shell commands, and other risks. https://github.com/LeeBush22/agent-security-scanner
+* **agent-security-framework** - No description. https://github.com/alfredocarta/agent-security-framework
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-20)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+
+#### 🔒 Security of Agents
+* **shellward** - AI Agent Security Middleware featuring an 8-layer defense, DLP data flow, prompt injection detection, and SDK/MCP server support. https://github.com/jnMetaCode/shellward
+* **ams** - An authority-managed system for agent security featuring provenance, taint tracking, and a deterministic gate. https://github.com/hariharsecure/ams
+* **Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems** - A study analyzing defensive misdirection against model-guided automated attacks targeting language-model components in agentic AI systems. https://arxiv.org/abs/2606.20470
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-17)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **An AI Security Agent for Banking: Multi-Vector Fraud and AML Detection Across Retail and Corporate Accounts** - A research paper proposing an AI security agent designed to detect multi-vector fraud and conduct anti-money laundering (AML) detection across retail and corporate banking accounts. https://arxiv.org/abs/2606.17555
+* **Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks** - A study evaluating the readiness of frontier LLMs for cybersecurity tasks using dual-mode vulnerability detection benchmarks. https://arxiv.org/abs/2605.23243
+
+#### 🔒 Security of Agents
+* **Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks** - A security assessment of code-capable LLM agents against systematic jailbreaking attacks within software engineering workflows. https://arxiv.org/abs/2510.01359
+* **enterprise-agent-security-platform** - An enterprise-focused security platform designed for governing, authorizing, monitoring, and auditing AI agents. https://github.com/mathurshubh/enterprise-agent-security-platform
+* **mcp-agent-security-experiment** - A local MCP-based LLM agent security experiment analyzing indirect prompt injection, tool poisoning, defenses, and results. https://github.com/Zveneodm/mcp-agent-security-experiment
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-15)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **Safety-Contract Graph Multi-Agent Reinforcement Learning for Autonomous Network Security Response** - An autonomous network-security response system using multi-agent reinforcement learning to reduce Security Operations Centre (SOC) reaction latency. [https://arxiv.org/abs/2606.13832]
+* **ReviewBot** - An AI-powered GitHub PR review tool utilizing four parallel LangGraph agents (security, performance, quality, and testing) with live SSE streaming and MongoDB-backed score trends. [https://github.com/Guruvarshin/ReviewBot]
+
+#### 🔒 Security of Agents
+* **Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents** - A safety primitive proposing risk-aware causal gating to enable least-privilege execution for LLM agents. [https://arxiv.org/abs/2606.13884]
+* **Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DECOMPBENCH** - A benchmark designed to evaluate LLM-based agent safety against adversarial misuse via decomposition attacks. [https://arxiv.org/abs/2606.13994]
+* **catchclaw** - A multi-platform AI agent security assessment tool featuring 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-14)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **hackingaiagent-labs** - Offensive AI Agents course featuring Python labs for agent security, prompt injection, RAG attacks, and MCP exploitation. https://github.com/kitnge7/hackingaiagent-labs
+
+#### 🔒 Security of Agents
+* **agentic-security-harness** - Open-source defensive harness and learning lab for reproducing and measuring agentic AI failure modes with portable traces, attack graphs, scorecards, and data-boundary tests. https://github.com/krivonosoff161/agentic-security-harness
+* **Doberman-Core** - An AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, and autonomous workflow protection. https://github.com/fu351/Doberman-Core
+* **kaggle-ai-agent-security** - No description. https://github.com/tuannm3812/kaggle-ai-agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-11)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment** - An empirical assessment exploring the value and efficacy of agentic AI tools and general-purpose GenAI LLMs for cybersecurity purposes. [https://arxiv.org/abs/2606.11672]
+* **Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks** - An evaluation of whether frontier LLMs are ready for cybersecurity tasks using a dual-mode benchmark for vulnerability detection. [https://arxiv.org/abs/2605.23243]
+* **MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation** - A repository-level benchmark designed to evaluate Large Language Model (LLM) code repair on Secure Multi-Party Computation (MPC) software. [https://arxiv.org/abs/2606.11416]
+
+#### 🔒 Security of Agents
+* **Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security** - A security approach that uses targeted runtime probing to audit LLM agent skills and detect hidden malicious behaviors. [https://arxiv.org/abs/2606.11671]
+* **enterprise-agent-security-platform** - An enterprise-focused security platform built for governing, authorizing, monitoring, and auditing AI agents. [https://github.com/mathurshubh/enterprise-agent-security-platform]
+* **catchclaw** - A tool providing multi-platform AI agent security assessment equipped with 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-10)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+* **vellaveto** - Agentic security control plane and MCP-native policy gateway with topology discovery and audit for MCP and AI agent tool calls. [https://github.com/paolovella/vellaveto]
+* **ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity** - A benchmark designed to evaluate LLM agent capabilities relevant to biological research and biosecurity. [https://arxiv.org/abs/2606.11150]
+
+#### 🔒 Security of Agents
+* **Doberman-Core** - An AI agent security framework providing guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, and autonomous workflow protection. [https://github.com/fu351/Doberman-Core]
+* **kevlar-benchmark** - A tool to automate the detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. [https://github.com/samsaeed22/kevlar-benchmark]
+* **GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines** - Research examining prompt injection attacks against autonomous AI agents embedded in CI/CD pipelines. [https://arxiv.org/abs/2606.09935]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-08)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **EVA** - An evolutionary semantic adversary framework used for red-teaming GUI agents against environmental injection attacks. [https://arxiv.org/abs/2505.14289]
+* **catchclaw** - A multi-platform AI agent security assessment tool featuring 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+* **awesome-mcp-security** - A security tool that scans and analyzes MCP servers to assess AI agent security risks and provide daily safety scores. [https://github.com/usevebu3783/awesome-mcp-security]
+
+#### 🔒 Security of Agents
+* **Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety** - A research paper analyzing AI control safety frameworks, showing how strategic attack selection makes attackers significantly harder to detect. [https://arxiv.org/abs/2606.06529]
+* **airlock** - A layered prompt-injection and agent-security guard organized around trust boundaries, featuring a shared core, Claude Code plugin, and openclaw adapter. [https://github.com/Iskz17/airlock]
+* **ai-sec-tracker** - An automated daily digest tracking new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-07)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+
+#### 🔒 Security of Agents
+* **kevlar-benchmark** - Automate detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework for AI agent security testing. https://github.com/samsaeed22/kevlar-benchmark
+* **agentshield** - Bidirectional AI agent security middleware. https://github.com/anshul23102/agentshield
+* **awesome-agent-security** - Explore resources on AI agent identity, authorization, coordination, and security for safer agent systems. https://github.com/nephritispeepshow717/awesome-agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-06)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **trident** - Azure Linux servicing agent focused on security install, provisioning, and update. https://github.com/microsoft/trident
+* **ai-sec-tracker** - Automated daily digest tool tracking CVEs, advisories, and research relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **PSEBench** - A controllable and verifiable benchmark for evaluating LLMs in patient safety event triage. https://arxiv.org/abs/2606.05463
+
+#### 🔒 Security of Agents
+* **kevlar-benchmark** - Automates detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. https://github.com/samsaeed22/kevlar-benchmark
+* **Data Flow Control: Data Safety Policies for AI Agents** - Introduces data safety policies for AI agents generating SQL, orchestrating pipelines, and automating data analysis. https://arxiv.org/abs/2606.05679
+* **Domain-Conditioned Safety in Frontier Computer-Using Agents** - A browser benchmark and reproducibility audit of prompt-injection attacks on computer-using agents. https://arxiv.org/abs/2606.05233
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-05)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+* **catchclaw** - A security assessment tool providing multi-platform AI agent security testing with 78 exploit modules, ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+* **kevlar-benchmark** - An automated security testing tool to detect and exploit Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. [https://github.com/samsaeed22/kevlar-benchmark]
+
+#### 🔒 Security of Agents
+* **Domain-Conditioned Safety in Frontier Computer-Using Agents** - A research paper presenting a 793-episode browser benchmark and a reproducibility audit of recent red-teaming on computer-using agents. [https://arxiv.org/abs/2606.05233]
+* **Data Flow Control: Data Safety Policies for AI Agents** - A study focusing on data safety policies for AI agents that generate SQL, orchestrate pipelines, and automate data analysis. [https://arxiv.org/abs/2606.05679]
+* **awesome-agent-security** - A repository of curated resources covering AI agent identity, authorization, coordination, and security practices for safer agent systems. [https://github.com/nephritispeepshow717/awesome-agent-security]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-04)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **CyberGym-E2E** - A scalable, real-world benchmark designed to evaluate the end-to-end autonomous cybersecurity capabilities of AI agents, including vulnerability detection, analysis, and remediation. https://arxiv.org/abs/2606.04460
+
+#### 🔒 Security of Agents
+* **From Untrusted Input to Trusted Memory** - A systematic study of memory poisoning attacks in LLM agents, exploring how untrusted inputs can compromise persistent agent memory. https://arxiv.org/abs/2606.04329
+* **Agent-Security-Regression-Harness** - An executable security regression testing framework from OWASP designed for agentic applications and MCP-integrated systems. https://github.com/OWASP/Agent-Security-Regression-Harness
+* **RUBAS** - A rubric-based reinforcement learning framework aimed at ensuring agent safety during real-world execution of tool-enabled LLMs. https://arxiv.org/abs/2606.04051
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-03)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **sec-sre-ag** - Custom skills for the Azure SRE Agent to conduct security operations across Microsoft Sentinel, Defender XDR, and Entra ID, including threat dashboards and incident investigation. https://github.com/stefanpems/sec-sre-ag
+* **Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis** - A research paper proposing agentic dialogue to improve reliable hazard identification analysis in safety-critical and autonomous systems. https://arxiv.org/abs/2606.03812
+* **EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents** - A research paper utilizing self-improving LLM agents to generate safety-critical scenarios for validating and improving autonomous driving systems. https://arxiv.org/abs/2606.03678
+
+#### 🔒 Security of Agents
+* **A New Framework for Cybersecurity Refusals in AI Agents** - A research paper introducing a framework to handle cybersecurity refusals in AI agents to mitigate risks in complex, long-horizon tasks. https://arxiv.org/abs/2606.02644
+* **agentwatch** - An AI Agent Security Observability Platform. https://github.com/Nifemi0/agentwatch
+* **Inference Cost Attacks for Retrieval-Augmented Large Language Models** - A research paper analyzing attacks that exploit RAG-enhanced LLM systems to introduce substantial inference costs. https://arxiv.org/abs/2606.02643
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-06-01)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **An Organization-Scoped LLM Agent Runtime Architecture for Regulated Cybersecurity Operations** - Proposes a runtime substrate designed to enforce organization-level scope across retrieval, tool calls, memory, and findings for LLM agents operating within regulated cybersecurity workflows. [https://arxiv.org/abs/2605.30604]
+* **catchclaw** - A multi-platform AI agent security assessment tool that provides 78 exploit modules, MITRE ATT&CK mapping, and attack graph visualization. [https://github.com/Marathe-2/catchclaw]
+
+#### 🔒 Security of Agents
+* **agentwatch** - An AI agent security observability platform designed to monitor and secure agent systems. [https://github.com/Nifemi0/agentwatch]
+* **awesome-agent-security** - A curated collection of resources covering AI agent identity, authorization, coordination, and security to build safer agent systems. [https://github.com/nephritispeepshow717/awesome-agent-security]
+* **Investigating Detection and Obfuscation of Prompt Injection Attacks Against Software Reverse Engineering AI Agents** - A study analyzing prompt injection attacks embedded within the source code of executable binary files targeting agentic reverse engineering systems. [https://arxiv.org/abs/2605.30677]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-31)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **kevlar-benchmark** - Automate detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework for AI agent security testing. https://github.com/samsaeed22/kevlar-benchmark
+
+#### 🔒 Security of Agents
+* **agentic-security** - Build faster with an Agentic Workforce where safe, secure, and compliant is the default. https://github.com/Clear-Capabilities/agentic-security
+* **awesome-agent-security** - Explore resources on AI agent identity, authorization, coordination, and security for safer agent systems. https://github.com/nephritispeepshow717/awesome-agent-security
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-30)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **synaptic-sentinel** - An agentic security toolkit for AI-assisted projects featuring five deterministic scouts and an LLM Brain Layer for IDE and CI environments. [https://github.com/golab-arch/synaptic-sentinel](https://github.com/golab-arch/synaptic-sentinel)
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker](https://github.com/InertFluid/ai-sec-tracker)
+
+#### 🔒 Security of Agents
+* **permaegis** - An enterprise security platform designed for AI agents. [https://github.com/phoenixgoku00-cell/permaegis](https://github.com/phoenixgoku00-cell/permaegis)
+* **kevlar-benchmark** - A testing suite to automate the detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework. [https://github.com/samsaeed22/kevlar-benchmark](https://github.com/samsaeed22/kevlar-benchmark)
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-29)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **catchclaw** - A multi-platform AI agent security assessment tool featuring 78 exploit modules, ATT&CK mapping, and attack graph visualization. https://github.com/Marathe-2/catchclaw
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **awesome-mcp-security** - A security tool designed to scan and analyze MCP servers to assess AI agent security risks and provide daily updated safety scores. https://github.com/usevebu3783/awesome-mcp-security
+
+#### 🔒 Security of Agents
+* **AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security** - A lightweight and scalable alignment framework designed to mitigate safety and security risks in open-world AI agents. https://arxiv.org/abs/2605.29801
+* **Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents** - A study demonstrating how integrating external web retrieval tools can degrade the safety alignment of LLM agents. https://arxiv.org/abs/2605.29224
+* **Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction** - Research investigating stealthy Trojan attacks that exploit the long-term memory capabilities of LLM agents through conversational interaction. https://arxiv.org/abs/2605.29960
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-28)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+* **catchclaw** - Multi-platform AI agent security assessment tool providing 78 exploit modules, ATT&CK mapping, and attack graph visualization. https://github.com/Marathe-2/catchclaw
+
+#### 🔒 Security of Agents
+* **Defending LLM-based Multi-Agent Systems Against Cooperative Attacks with Sentence-Level Rectification** - A study on defending collaborative LLM-based Multi-Agent Systems against cooperative attacks using sentence-level rectification. https://arxiv.org/abs/2605.28104
+* **Plant, Persist, Trigger: Sleeper Attack on Large Language Model Agents** - Analysis of sleeper attacks where attackers inject adversarial content into external environments to exploit LLM agents. https://arxiv.org/abs/2605.28201
+* **rag-agent-security-gate** - An application-level security gate for RAG and Agent applications featuring a PASS/FAIL release gate and traceable evidence. https://github.com/TomWhite-tgz/rag-agent-security-gate
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-27)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **CyberEvolver** - An LLM-based agent framework for cybersecurity tasks that utilizes structured self-evolution on the fly to adapt to complex environments. [https://arxiv.org/abs/2605.26195]
+* **agenticshield** - An AI Agent Security Auditor featuring a 5-step wizard with Anthropic Claude API integration. [https://github.com/PavelGoblin/agenticshield]
+* **ai-sec-tracker** - An automated daily digest tool tracking new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+
+#### 🔒 Security of Agents
+* **Position: AI Safety Requires Effective Controllability** - A research paper proposing that AI safety should be framed around effective controllability rather than solely focusing on alignment. [https://arxiv.org/abs/2605.27117]
+* **Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction** - A method to improve the behavioral safety of LLM-based agents through iterative reasoning and thought correction during tool use and environment interaction. [https://arxiv.org/abs/2505.11063]
+* **securemind.live** - A dedicated security platform designed for securing AI agents. [https://github.com/kaushikdharamshi/securemind.live]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-26)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **guardian-iam-lockdown** - An AI-powered agentic security lockdown template for home users, startups, and SMBs that implements PIM/PAM best practices using Microsoft Entra ID and CyberArk. https://github.com/siriusbkid-commits/guardian-iam-lockdown
+* **agentic-security-review-skill** - A tool to create branded CompleteTech LLC security, safety, and launch-readiness review PDFs for agentic workflows. https://github.com/CompleteTech-LLC/agentic-security-review-skill
+
+#### 🔒 Security of Agents
+* **nocklock** - An AI agent security fence providing filesystem, network, and secret isolation to lock coding agents in place. https://github.com/nocktechnologies/nocklock
+* **Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security** - A comprehensive survey paper detailing safety, robustness, privacy, and system security challenges in LLM-driven agentic AI systems. https://arxiv.org/abs/2605.23989
+* **When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents** - A realistic benchmark designed to evaluate Model Context Protocol (MCP) poisoning attacks against tool-using LLM agents. https://arxiv.org/abs/2605.24069
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-25)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks** - Evaluates whether frontier LLMs are ready for cybersecurity tasks, specifically focusing on white-box function-level vulnerability detection. [https://arxiv.org/abs/2605.23243]
+* **ai-sec-tracker** - An automated daily digest tool that tracks new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. [https://github.com/InertFluid/ai-sec-tracker]
+
+#### 🔒 Security of Agents
+* **SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety** - A hierarchical memory-augmented guardrail system designed to ensure the safety of autonomous LLM agents. [https://arxiv.org/abs/2605.05704]
+* **sekimore-gw** - An AI Agent Security Gateway. [https://github.com/Amakata/sekimore-gw]
+* **awesome-agent-security** - A collection of resources on AI agent identity, authorization, coordination, and security for building safer agent systems. [https://github.com/nephritispeepshow717/awesome-agent-security]
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-24)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **recon-agent** - Multi-agent security reconnaissance toolkit powered by LLM reasoning that reduces false positives from 70% to under 5%. https://github.com/lucasjustinudin/recon-agent
+* **ai-sec-tracker** - Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security. https://github.com/InertFluid/ai-sec-tracker
+
+#### 🔒 Security of Agents
+* **kevlar-benchmark** - Automate detection and exploitation of Agent-Specific Injection vulnerabilities using the OWASP Top 10 framework for AI agent security testing. https://github.com/samsaeed22/kevlar-benchmark
+* **whyyoupick-v2** - AI-powered personalized review simulation and recommendation agent that is security hardened with real dataset integration. https://github.com/emmanuel-123tech/whyyoupick-v2
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-23)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **PocketAgents** - A manifest-driven library of autonomous defense agents designed to connect LLMs to defensive enforcement. https://arxiv.org/abs/2605.21694
+* **trident** - A security-focused Azure Linux servicing agent for installation, provisioning, and updates. https://github.com/microsoft/trident
+
+#### 🔒 Security of Agents
+* **Blind Spots in the Guard** - A study on how domain-camouflaged injection attacks evade detection in multi-agent LLM systems. https://arxiv.org/abs/2605.22001
+* **Sentinel** - An agentic security proxy for AI agents featuring PyTorch guardrails, Docker sandboxing, and AWS audit logs. https://github.com/owen-tsao/Sentinel
+* **agentk** - A tiny agent security kernel prototype with typed syscalls, policy receipts, and replayable evidence. https://github.com/Atomics-hub/agentk
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-22)
+
+> 💡 *Note: Data fetched directly via arXiv/GitHub APIs and formatted by Gemini 3.5 Flash.* 
+
+#### 🛡️ Agents for Security
+* **GenAI-Driven Threat Detection with Microsoft Security Copilot** - A research paper exploring how to defend against sophisticated cyberattacks by translating evolving attacker tradecraft using generative AI. https://arxiv.org/abs/2605.20896
+* **CyberVerseAI** - An Autonomous Multi-Agent Security Intelligence Platform designed to automate code scanning, vulnerability analysis, and threat intelligence mapping. https://github.com/cybertarr-A/CyberVerseAI
+
+#### 🔒 Security of Agents
+* **Agent Security is a Systems Problem** - A research paper proposing that agent security must be approached as a systems problem, treating the underlying AI model as untrusted. https://arxiv.org/abs/2605.18991
+* **agent_security** - A repository focused on runtime security for agentic systems, including a research paper, publication pipeline, and generated artifacts. https://github.com/edamametechnologies/agent_security
+* **coding-agent-security-benchmark** - A security benchmark project designed for the Claude Agent SDK. https://github.com/lirantal/coding-agent-security-benchmark
+
+---
+
+
+### 📅 Daily Security Intelligence (2026-05-21)
+
+> 💡 *Note: This section is automatically summarized daily by Gemini 3.5 Flash and verified by an automated dead-link checker.* 
+
+#### 🛡️ Agents for Security
+
+* **PentestGPT** - An innovative open-source project that leverages LLMs to create an autonomous penetration testing agent. It guides security professionals through the pentesting lifecycle, offering step-by-step instructions, interactive command execution, and vulnerability analysis. [https://github.com/GreyDGL/PentestGPT]
+* **LLM Agents can Autonomously Exploit One-Day Vulnerabilities** - A highly regarded academic paper demonstrating that LLM agents (specifically GPT-4) can autonomously exploit real-world, one-day vulnerabilities (CVEs) when provided with the vulnerability description, highlighting the dual-use risks of advanced agents. [https://arxiv.org/abs/2404.08144]
+* **CyberSecEval** - Meta's comprehensive evaluation suite designed to measure cybersecurity risks in LLMs. It benchmarks models on their propensity to assist in cyberattacks, their autonomous hacking capabilities, and their vulnerability to exploitation. [https://notfoundco.com/]
+
+#### 🔒 Security of Agents
+
+* **LLM Guard** - A leading open-source toolkit by Protect AI designed to secure LLM-based agents. It provides real-time sanitization, detects prompt injections, prevents data leakage, and mitigates toxic or harmful outputs before they reach the agent or user. [https://github.com/protectai/llm-guard]
+* **InjecAgent** - A specialized academic benchmark designed to evaluate the vulnerability of LLM agents to indirect prompt injection attacks, where malicious instructions are hidden in external data (like emails or web pages) retrieved by the agent. [https://notfoundco.com/]
+* **WildGuard** - A robust, open-source safety classifier and defense framework designed to detect jailbreaks, prompt injections, and harmful content in LLM agent interactions in real-time. [https://notfoundco.com/]
+
+---
+# An Awesome List for AI Security Agents
+
+We curate an Awesome List of **AI security agents** , specifically addressing:
+
+- **Agents for Security**: Research and tools using AI agents to enhance cybersecurity defenses
+
+- **Security of Agents**: Techniques to protect AI agents themselves from adversarial attacks
+
+
+**Curated resources** including:  
+
+🔬 *Research Papers* | 💻 *Open-Source Projects* | ✍️ *Technical Blogs* | 📂 *Benchmarks*
+
+> Continuously updated with state-of-the-art developments in AI-powered security agents.
+
+
+## 🔬 *Research Papers* 
+
+> 📖 for papers accepted by reputed conferences/journals.
+
+* 📖 [May 2025] **"Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents."** *Hanrong Zhang (Zhejiang University) et al.* ICLR 2025. [[paper](https://arxiv.org/abs/2410.02644)] [[code](https://github.com/agiresearch/ASB)] 
+
+* [Apr 2025] **"WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks."** *Ivan Evtimov (FAIR at Meta) et al.* arxiv. [[paper](https://arxiv.org/abs/2504.18575)] [[code](https://github.com/facebookresearch/wasp)] 
+
+* 📖 [Feb 2025] **"Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems."** *Pierre Peigne-Lefebvre (PRISM Eval) et al.* AAAI 2025. [[paper](https://arxiv.org/abs/2502.19145)] [[code](https://github.com/apartresearch/prompt-worms)] 
+
+* 📖 [Feb 2025] **"AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways."** *Zehang Deng (Swinburne University of Technology) et al.* ACM Computing Surveys. [[paper](https://dl.acm.org/doi/full/10.1145/3716628)]
+
+* 📖 [Feb 2024] **"Secret Collusion among AI Agents: Multi-Agent Deception via Steganography."** *Sumeet Ramesh Motwani (UC Berkeley) et al.* NeurIPS 2024. [[paper](https://arxiv.org/pdf/2402.07510)]
+
+
+
+## 💻 *Open-Source Projects* 
+
+* ![Armorer Guard Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard) [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - A local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call detection before execution.
+
+* ![Agentic Security Stars](https://img.shields.io/github/stars/msoedov/agentic_security) [Agentic Security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs) Protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
+
+* ![agentic-radar Stars](https://img.shields.io/github/stars/splx-ai/agentic-radar) [agentic-radar](https://github.com/splx-ai/agentic-radar) - A security scanner for your LLM agentic workflows.
+
+* ![promptfoo](https://img.shields.io/github/stars/promptfoo/promptfoo) [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+
+* ![fast-llm-security-guardrails](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security-guardrails) [fast-llm-security-guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - The fastest Trust Layer for AI Agents.
+
+
+
+## ✍️ *Technical Blogs*
+
+* [How OpenAI’s red team made ChatGPT agent into an AI fortress](https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/) - LouisColumbus, July 18, 2025. [[Chinese Blog](https://www.secrss.com/articles/81124)]
+
+* [Google's Approach for Secure AI Agents](https://research.google/pubs/an-introduction-to-googles-approach-for-secure-ai-agents/) - Google Research, May, 2025. [[pdf](https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf)]
+
+* [Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/) -  GEN AI, February 17, 2025.
+
+* [Understanding AI Agent Security](https://www.promptfoo.dev/blog/agent-security/) - Vanessa Sauter, February 14, 2025.
+
+* [Blueprint for AI Agents in Cybersecurity](https://www.cybersec-automation.com/p/blueprint-for-ai-agents-in-cybersecurity) - Filip Stojkovski
+& Dylan Williams, Nov 25, 2024.
+
+* [什么是 AI 智能体安全？](https://www.ibm.com/cn-zh/think/topics/ai-agent-security) -IBM 
+
+
+
+## 📂 *Benchmarks*
+
+* ![ASB](https://img.shields.io/github/stars/agiresearch/ASB) [ASB](https://github.com/agiresearch/ASB) - Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents.
+
+* ![wasp](https://img.shields.io/github/stars/facebookresearch/wasp) [wasp](https://github.com/facebookresearch/wasp) - Benchmarking Web Agent Security Against Prompt Injection Attacks.

@@ -5,6 +5,7 @@ env:
 
 on:
   schedule:
+    # 03:17 Beijing time (UTC+8)
     - cron: '17 19 * * *'
   workflow_dispatch:
 
@@ -26,198 +27,18 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # 移除了大模型专属 SDK，只需要极简的 requests 即可调用 DeepSeek
-        pip install requests feedparser
+        pip install -r requirements.txt
 
-    - name: Fetch Data, Generate Content and Append
+    - name: Fetch data and update This Week
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}  # 🌟 注入 DeepSeek 密钥
-      run: |
-        python - <<EOF
-        import os
-        import time
-        import requests
-        import feedparser
-        from datetime import datetime, timedelta
-
-        print("🚀 开始混合抓取：arXiv(RSS) + GitHub(API) ...")
-        
-        # ==========================================
-        # 1. 抓取 arXiv (稳定可靠的 RSS 官方流)
-        # ==========================================
-        arxiv_url = 'https://rss.arxiv.org/rss/cs.AI'
-        print("正在获取 arXiv 论文流...")
-        arxiv_feed = feedparser.parse(arxiv_url)
-        
-        arxiv_data = ""
-        count = 0
-        for entry in arxiv_feed.entries:
-            title_lower = entry.title.lower()
-            summary_lower = entry.summary.lower()
-            if "agent" in title_lower or "agent" in summary_lower:
-                if any(keyword in title_lower for keyword in ["security", "safety", "attack", "defense"]):
-                    arxiv_data += f"- Title: {entry.title}\n- Link: {entry.link}\n- Summary: {entry.summary[:200]}...\n\n"
-                    count += 1
-            if count >= 4:
-                break
-        print(f"✅ 获取到 {count} 篇 arXiv 论文。")
-
-        # ==========================================
-        # 2. 抓取 GitHub (增加 Star > 10 过滤)
-        # ==========================================
-        print("正在获取 GitHub 最新高质量开源项目...")
-        gh_token = os.environ.get("GITHUB_TOKEN")
-        headers = {
-            'Authorization': f'token {gh_token}', 
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'Awesome-Security-Agents-Daily-Action'
-        }
-        
-        days_ago_str = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
-        gh_url = f'https://api.github.com/search/repositories?q="agent+security"+pushed:>{days_ago_str}+stars:>10&sort=updated&order=desc&per_page=4'
-        
-        gh_data = ""
-        max_retries = 3
-        for attempt in range(max_retries):
-            try:
-                gh_resp = requests.get(gh_url, headers=headers)
-                
-                if gh_resp.status_code == 200:
-                    data = gh_resp.json()
-                    items = data.get('items', [])
-                    for item in items:
-                        desc = item['description'] or "No description"
-                        stars = item.get('stargazers_count', 0)
-                        gh_data += f"- Repo: {item['name']} (⭐ {stars} stars)\n- Link: {item['html_url']}\n- Desc: {desc}\n\n"
-                    print(f"✅ 获取到 {len(items)} 个高质量 GitHub 项目。")
-                    break 
-                
-                elif gh_resp.status_code in [403, 429]:
-                    sleep_time = 30 * (attempt + 1)
-                    print(f"⚠️ 触发 GitHub 搜索 API 限流保护 (状态码 {gh_resp.status_code})。深度休眠 {sleep_time} 秒后重试...")
-                    time.sleep(sleep_time)
-                else:
-                    print(f"❌ GitHub API 请求失败: HTTP {gh_resp.status_code}")
-                    break
-            except Exception as e:
-                print(f"网络异常: {e}")
-                break
-
-        raw_context = f"=== NEW ARXIV PAPERS ===\n{arxiv_data}\n=== NEW GITHUB REPOS ===\n{gh_data}"
-        
-        if not arxiv_data and not gh_data:
-            print("⚠️ 今日未抓取到任何新数据，Action 将提前正常退出，不更新 README。")
-            exit(0)
-
-        # ==========================================
-        # 3. DeepSeek 数据融合排版
-        # ==========================================
-        print("🤖 正在将抓取到的数据交给 DeepSeek (deepseek-v4-flash) 进行智能化排版...")
-        
-        deepseek_key = os.environ.get("DEEPSEEK_API_KEY")
-        if not deepseek_key:
-            print("❌ 致命错误：未找到 DEEPSEEK_API_KEY！请在仓库 Secrets 中配置。")
-            exit(1)
-            
-        endpoint = "https://api.deepseek.com/chat/completions"
-        ai_headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {deepseek_key}"
-        }
-        
-        prompt = f"""
-        I have just scraped the latest raw data from arXiv (academic papers) and GitHub (open source repos).
-        
-        RAW DATA:
-        {raw_context}
-
-        YOUR TASK:
-        Review the RAW DATA above. Classify EACH item (whether it is a paper or a repo) into one of two semantic categories:
-        1. "Agents for Security": Using AI agents to solve cybersecurity problems (e.g., auditing, defense, monitoring).
-        2. "Security of Agents": Protecting AI agents from attacks (e.g., prompt injection, jailbreaks, malicious tool use).
-        
-        CRITICAL RULES:
-        1. ONLY use the information provided in the RAW DATA. DO NOT make up papers or repos.
-        2. Classify strictly by TOPIC, not by source. Both papers and repos can belong to either category.
-        3. Keep descriptions concise.
-        4. ALL OUTPUT MUST BE IN ENGLISH.
-        
-        STRICT OUTPUT FORMAT:
-        #### 🛡️ Agents for Security
-        * **[Name]** [Include (⭐ Stars) if it is a GitHub repo] - [Brief Description] [Link]
-
-        #### 🔒 Security of Agents
-        * **[Name]** [Include (⭐ Stars) if it is a GitHub repo] - [Brief Description] [Link]
-        """
-        
-        # 使用 DeepSeek 最新版 deepseek-v4-flash [cite: 1.1.1]
-        payload = {
-            "model": "deepseek-v4-flash",
-            "messages": [
-                {"role": "system", "content": "You are an expert AI cybersecurity analyst."},
-                {"role": "user", "content": prompt}
-            ],
-            "temperature": 0.1
-        }
-        
-        max_ai_retries = 3
-        report_text = "> ⚠️ *AI generation resulted in empty text or failed.*"
-        
-        for attempt in range(max_ai_retries):
-            try:
-                ai_resp = requests.post(endpoint, headers=ai_headers, json=payload, timeout=60)
-                
-                if ai_resp.status_code == 200:
-                    result_json = ai_resp.json()
-                    report_text = result_json['choices'][0]['message']['content'].strip()
-                    print("✅ DeepSeek 排版成功完成！")
-                    break
-                elif ai_resp.status_code == 429:
-                    sleep_time = 20 * (attempt + 1)
-                    print(f"⚠️ DeepSeek API 限流 (尝试 {attempt + 1}/{max_ai_retries})。休眠 {sleep_time} 秒后重试...")
-                    time.sleep(sleep_time)
-                else:
-                    print(f"❌ DeepSeek 推理失败 (HTTP {ai_resp.status_code}): {ai_resp.text}")
-                    if attempt == max_ai_retries - 1:
-                        exit(1)
-                    time.sleep(10)
-                    
-            except Exception as e:
-                print(f"❌ AI 网络请求异常: {e}")
-                if attempt == max_ai_retries - 1:
-                    exit(1)
-                time.sleep(10)
-
-        # ==========================================
-        # 4. 追加写入 README.md
-        # ==========================================
-        today_str = datetime.now().strftime("%Y-%m-%d")
-        report_content = f"\n### 📅 Daily Security Intelligence ({today_str})\n\n"
-        report_content += "> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* \n\n"
-        report_content += report_text + "\n\n---\n"
-
-        readme_path = "README.md"
-        with open(readme_path, "r", encoding="utf-8") as f:
-            readme_text = f.read()
-
-        marker = "<!-- DAILY_REPORT_MARKER -->"
-        if marker not in readme_text:
-            print("❌ 致命错误：在 README.md 中未找到插入占位符！请在 README 中添加 <!-- DAILY_REPORT_MARKER -->")
-            exit(1)
-            
-        new_readme_text = readme_text.replace(marker, f"{marker}\n{report_content}", 1)
-
-        with open(readme_path, "w", encoding="utf-8") as f:
-            f.write(new_readme_text)
-            
-        print("🎉 README.md 历史追加更新成功！")
-        EOF
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      run: python scripts/daily_update.py
 
     - name: Commit and Push
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Action Bot"
-        git add README.md
-        git diff-index --quiet HEAD || git commit -m "docs: 🤖 Auto-append daily security brief ($(date +'%Y-%m-%d'))"
+        git add README.md data/seen.json data/catalog.json
+        git diff --cached --quiet || git commit -m "docs: auto-update weekly security brief ($(date +'%Y-%m-%d'))"
         git push

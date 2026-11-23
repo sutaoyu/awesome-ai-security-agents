@@ -2,3 +2,9 @@
 .idea
 .DS_Store
 .vscode
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

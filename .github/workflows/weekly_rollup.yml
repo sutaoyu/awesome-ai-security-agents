@@ -1,0 +1,43 @@
+name: Weekly Catalog Rollup
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  schedule:
+    # Sunday 12:00 Beijing time (UTC+8) = 04:00 UTC Sunday
+    - cron: '0 4 * * 0'
+  workflow_dispatch:
+
+jobs:
+  weekly-rollup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Roll up This Week into Catalog
+      env:
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      run: python scripts/weekly_rollup.py
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add README.md data/catalog.json data/seen.json archive/weekly
+        git diff --cached --quiet || git commit -m "docs: weekly catalog rollup ($(date +'%Y-%m-%d'))"
+        git push

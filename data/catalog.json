@@ -1,0 +1,2706 @@
+{
+  "entries": [
+    {
+      "id": "arxiv:2611.05823",
+      "name": "A Hybrid Approach for Automated Security Pattern Recovery",
+      "url": "https://arxiv.org/abs/2611.05823",
+      "description": "Automated recovery of security patterns to support security-by-design.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2607.09954",
+      "name": "A Knowledge-Based Multi-Agent Framework for Security Control Recommendation",
+      "url": "https://arxiv.org/abs/2607.09954",
+      "description": "Framework for cybersecurity recommendations using multi-agent systems.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "arxiv:2610.13479",
+      "name": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
+      "url": "https://arxiv.org/abs/2610.13479",
+      "description": "A local agentic AI framework to generate edge case scenarios for safety assurance of autonomous systems.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "arxiv:2606.11150",
+      "name": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+      "url": "https://arxiv.org/abs/2606.11150",
+      "description": "A benchmark designed to evaluate LLM agent capabilities relevant to biological research and biosecurity.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-10"
+    },
+    {
+      "id": "arxiv:2611.22589",
+      "name": "Adaptive LLM-Driven Honeypots vs. LLM-Driven Attackers: Does Narrative Coherence Improve Deception?",
+      "url": "https://arxiv.org/abs/2611.22589",
+      "description": "LLM-driven honeypots for deception against LLM-driven attackers.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "arxiv:2608.21444",
+      "name": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+      "url": "https://arxiv.org/abs/2608.21444",
+      "description": "Explores agentic AI for safety-critical multi-drone missions such as search and rescue and critical infrastructure monitoring.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "arxiv:2608.21423",
+      "name": "Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing",
+      "url": "https://arxiv.org/abs/2608.21423",
+      "description": "Systematizes LLM-driven agents used to plan, dispatch, and interpret security tools for penetration testing.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "arxiv:2606.17555",
+      "name": "An Autonomous AI Security Agent for Banking: Multi-Vector Fraud and AML Detection Across Retail and Corporate Accounts",
+      "url": "https://arxiv.org/abs/2606.17555",
+      "description": "A research paper proposing an AI security agent designed to detect multi-vector fraud and conduct anti-money laundering (AML) detection across retail and corporate banking accounts.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "arxiv:2605.30604",
+      "name": "An Organization-Scoped LLM Agent Runtime Architecture for Regulated Cybersecurity Operations",
+      "url": "https://arxiv.org/abs/2605.30604",
+      "description": "Proposes a runtime substrate designed to enforce organization-level scope across retrieval, tool calls, memory, and findings for LLM agents operating within regulated cybersecurity workflows.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "arxiv:2605.23243",
+      "name": "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks",
+      "url": "https://arxiv.org/abs/2605.23243",
+      "description": "Evaluates whether frontier LLMs are ready for cybersecurity tasks, specifically focusing on white-box function-level vulnerability detection.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-05-25"
+    },
+    {
+      "id": "arxiv:2510.02677",
+      "name": "ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks",
+      "url": "https://arxiv.org/abs/2510.02677",
+      "description": "Adaptive red-teaming agent using plug-and-play attacks to stress-test multimodal model safety.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2605.22321",
+      "name": "ASEval: Automated Trajectory-Level Security Testing for Autonomous Agents",
+      "url": "https://arxiv.org/abs/2605.22321",
+      "description": "Focuses on security testing for autonomous agents operating with deep system-level privileges.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "arxiv:2609.18338",
+      "name": "Autonomy in Check: Governor-Mediated Adaptive Security at the Edge",
+      "url": "https://arxiv.org/abs/2609.18338",
+      "description": "Paper on using automated planners and LLM-assisted controllers for adaptive security at the network edge.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "arxiv:2505.14300",
+      "name": "Beyond Black-Box Obfuscation: Mechanistic Analysis and Defense of White-Box Monitors",
+      "url": "https://arxiv.org/abs/2505.14300",
+      "description": "White-box monitoring as an auditing tool for safe operations of LLMs.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "arxiv:2610.32453",
+      "name": "Beyond Copying: Lifelong Smart Contract Security Task Construction via Protocol Mutation",
+      "url": "https://arxiv.org/abs/2610.32453",
+      "description": "Uses AI agents to inspect code and run tests for smart contract security.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "id": "arxiv:2608.20563",
+      "name": "Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents",
+      "url": "https://arxiv.org/abs/2608.20563",
+      "description": "Analyzes failure modes in long-horizon security-focused LLM agents.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "arxiv:2609.10762",
+      "name": "Beyond Static Guarantees: Measuring the Static-Pass Dynamic-Fail Gap in Security-Sensitive and LLM-Generated Python Code",
+      "url": "https://arxiv.org/abs/2609.10762",
+      "description": "Examines gaps between static and dynamic security checks for security-sensitive and LLM-generated Python code.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "arxiv:2609.28843",
+      "name": "Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications",
+      "url": "https://arxiv.org/abs/2609.28843",
+      "description": "Paper on blockchain and AI/AI agents for secure data sharing, model integrity, and cybersecurity applications.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "arxiv:2606.11672",
+      "name": "Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment",
+      "url": "https://arxiv.org/abs/2606.11672",
+      "description": "An empirical assessment exploring the value and efficacy of agentic AI tools and general-purpose GenAI LLMs for cybersecurity purposes.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "arxiv:2609.35909",
+      "name": "Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery",
+      "url": "https://arxiv.org/abs/2609.35909",
+      "description": "Uses autonomous LLM agents for repository-scale vulnerability discovery and verification.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "arxiv:2606.08168",
+      "name": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+      "url": "https://arxiv.org/abs/2606.08168",
+      "description": "Evaluation framework for autonomous cyber defense configuration of commercial EDR.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "arxiv:2609.30345",
+      "name": "Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations",
+      "url": "https://arxiv.org/abs/2609.30345",
+      "description": "Evaluates an enterprise security brain for agentic cloud-security investigations.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "arxiv:2610.41044",
+      "name": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "url": "https://arxiv.org/abs/2610.41044",
+      "description": "Decentralized LLM multi-agent teams for perimeter defense.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2610.08895",
+      "name": "Contextualization of Third-Party Cloud Security Findings",
+      "url": "https://arxiv.org/abs/2610.08895",
+      "description": "Discusses contextualizing static severity of third-party cloud security findings to improve remediation prioritization.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "arxiv:2610.17020",
+      "name": "CWE-bench: Refocusing Agentic Security from Exploitation to Defense",
+      "url": "https://arxiv.org/abs/2610.17020",
+      "description": "Evaluates AI agents on defensive cybersecurity capabilities, shifting from exploitation toward making software safe.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "arxiv:2605.26195",
+      "name": "CyberEvolver: Structured Self-Evolution for Cybersecurity Agents On the Fly",
+      "url": "https://arxiv.org/abs/2605.26195",
+      "description": "An LLM-based agent framework for cybersecurity tasks that utilizes structured self-evolution on the fly to adapt to complex environments.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-05-27"
+    },
+    {
+      "id": "arxiv:2606.04460",
+      "name": "CyberGym-E2E: Scalable Real-World Benchmark for AI Agents' End-to-End Cybersecurity Capabilities",
+      "url": "https://arxiv.org/abs/2606.04460",
+      "description": "A scalable, real-world benchmark designed to evaluate the end-to-end autonomous cybersecurity capabilities of AI agents, including vulnerability detection, analysis, and remediation.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-04"
+    },
+    {
+      "id": "arxiv:2601.17303",
+      "name": "Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT: A Consensus-based Approach",
+      "url": "https://arxiv.org/abs/2601.17303",
+      "description": "A consensus-based approach to enhance security in IIoT environments using multi-agent systems.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "arxiv:2607.18665",
+      "name": "DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring",
+      "url": "https://arxiv.org/abs/2607.18665",
+      "description": "Benchmark for measuring scientific safety risks and actionable misuse guidance from LLMs.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "arxiv:2604.26964",
+      "name": "Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education",
+      "url": "https://arxiv.org/abs/2604.26964",
+      "description": "Gamified recommender for cybersecurity education and threat-awareness training.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "arxiv:2606.03812",
+      "name": "Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis",
+      "url": "https://arxiv.org/abs/2606.03812",
+      "description": "A research paper proposing agentic dialogue to improve reliable hazard identification analysis in safety-critical and autonomous systems.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-03"
+    },
+    {
+      "id": "arxiv:2505.14289",
+      "name": "EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks",
+      "url": "https://arxiv.org/abs/2505.14289",
+      "description": "An evolutionary semantic adversary framework used for red-teaming GUI agents against environmental injection attacks.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "arxiv:2609.12839",
+      "name": "Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks",
+      "url": "https://arxiv.org/abs/2609.12839",
+      "description": "Evaluates context segmentation in locally deployable small language models for cybersecurity CTF tasks.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "arxiv:2606.03678",
+      "name": "EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents",
+      "url": "https://arxiv.org/abs/2606.03678",
+      "description": "A research paper utilizing self-improving LLM agents to generate safety-critical scenarios for validating and improving autonomous driving systems.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-03"
+    },
+    {
+      "id": "arxiv:2611.15843",
+      "name": "Food Critic: An Agentic Visualization System for Auditable Restaurant-Safety Reasoning",
+      "url": "https://arxiv.org/abs/2611.15843",
+      "description": "Agentic visualization system for auditable restaurant-safety reasoning.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "arxiv:2610.03820",
+      "name": "From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review",
+      "url": "https://arxiv.org/abs/2610.03820",
+      "description": "Uses grounded LLM agents to derive attack trees from requirements for design-time security review.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2605.20896",
+      "name": "GenAI-Driven Threat Detection with Microsoft Security Copilot",
+      "url": "https://arxiv.org/abs/2605.20896",
+      "description": "A research paper exploring how to defend against sophisticated cyberattacks by translating evolving attacker tradecraft using generative AI.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "arxiv:2610.35982",
+      "name": "Generation and Verification: Human-Agent Collaboration for Safety-Critical Automotive Software Engineering",
+      "url": "https://arxiv.org/abs/2610.35982",
+      "description": "Human-agent collaboration for generation and verification in safety-critical automotive software engineering.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "arxiv:2610.38617",
+      "name": "How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0",
+      "url": "https://arxiv.org/abs/2610.38617",
+      "description": "Evaluates what AI coding/security agents find versus deterministic SAST in Snyk VulnBench 2.0.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "arxiv:2608.26237",
+      "name": "How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation",
+      "url": "https://arxiv.org/abs/2608.26237",
+      "description": "Evaluates LLM agents' offensive security capabilities in CTF benchmarks via trace-level provenance.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "arxiv:2609.06250",
+      "name": "It is Not Yet Another Tool: Creating and Deploying an Agentic AI Companion in a Security Operations Center",
+      "url": "https://arxiv.org/abs/2609.06250",
+      "description": "Uses an agentic AI companion in a SOC to work through high volumes of low-interest security tickets.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "arxiv:2610.41072",
+      "name": "LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale",
+      "url": "https://arxiv.org/abs/2610.41072",
+      "description": "Energy-efficient agentic AI for semi-automated SOC operations at scale.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2608.21107",
+      "name": "Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda",
+      "url": "https://arxiv.org/abs/2608.21107",
+      "description": "Structured survey and research agenda on LLM-driven agents in software engineering and software security.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "arxiv:2404.08144",
+      "name": "LLM Agents can Autonomously Exploit One-day Vulnerabilities",
+      "url": "https://arxiv.org/abs/2404.08144",
+      "description": "A highly regarded academic paper demonstrating that LLM agents (specifically GPT-4) can autonomously exploit real-world, one-day vulnerabilities (CVEs) when provided with the vulnerability description, highlighting the dual-use risks of advanced agents.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-05-21"
+    },
+    {
+      "id": "arxiv:2608.28490",
+      "name": "LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment",
+      "url": "https://arxiv.org/abs/2608.28490",
+      "description": "Survey of LLM agents applied to software and systems security workflows, including artifact inspection, hypothesis formation, tool use, and interpretation.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "arxiv:2610.36433",
+      "name": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
+      "url": "https://arxiv.org/abs/2610.36433",
+      "description": "Lightweight multi-agent system for automated daily safety bulletin generation in construction.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "arxiv:2609.19391",
+      "name": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "url": "https://arxiv.org/abs/2609.19391",
+      "description": "Proposes multi-agent auto-formalization to verify and guarantee safety of code generated by LLM coding agents.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "arxiv:2606.11416",
+      "name": "MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation",
+      "url": "https://arxiv.org/abs/2606.11416",
+      "description": "A repository-level benchmark designed to evaluate Large Language Model (LLM) code repair on Secure Multi-Party Computation (MPC) software.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "arxiv:2607.09076",
+      "name": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "description": "Cyberattacks on operational technology and the limitations of traditional rule-based systems.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "arxiv:2605.21694",
+      "name": "PocketAgents: A Manifest-Driven Library of Autonomous Defense Agents",
+      "url": "https://arxiv.org/abs/2605.21694",
+      "description": "A manifest-driven library of autonomous defense agents designed to connect LLMs to defensive enforcement.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-05-23"
+    },
+    {
+      "id": "arxiv:2606.05463",
+      "name": "PSEBench: A Controllable and Verifiable Benchmark for Evaluating LLMs in Patient Safety Event Triage",
+      "url": "https://arxiv.org/abs/2606.05463",
+      "description": "A controllable and verifiable benchmark for evaluating LLMs in patient safety event triage.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-06"
+    },
+    {
+      "id": "arxiv:2605.09504",
+      "name": "Restricting the Model, Missing the System: Measurement and Accountability in Offensive AI Governance",
+      "url": "https://arxiv.org/abs/2605.09504",
+      "description": "Discusses an adversarial testing framework for AI agents.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "arxiv:2606.13832",
+      "name": "Safety-Contract Graph Multi-Agent Reinforcement Learning for Autonomous Network Security Response",
+      "url": "https://arxiv.org/abs/2606.13832",
+      "description": "An autonomous network-security response system using multi-agent reinforcement learning to reduce Security Operations Centre (SOC) reaction latency.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-06-15"
+    },
+    {
+      "id": "arxiv:2609.04159",
+      "name": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+      "url": "https://arxiv.org/abs/2609.04159",
+      "description": "Offloads topological reasoning from LLM agents for use as autonomous SOC analysts, addressing enterprise-scale limitations.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "arxiv:2609.07344",
+      "name": "Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing",
+      "url": "https://arxiv.org/abs/2609.07344",
+      "description": "LLM-based agents for long-horizon automated penetration testing and vulnerability discovery.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "arxiv:2608.15012",
+      "name": "SysEvolve: An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system",
+      "url": "https://arxiv.org/abs/2608.15012",
+      "description": "An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system for cybersecurity.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "arxiv:2610.00590",
+      "name": "Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution",
+      "url": "https://arxiv.org/abs/2610.00590",
+      "description": "Proposes using LLMs for hierarchical cyber defense, from planning to execution.",
+      "category": "agents_for_security",
+      "type": "paper",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "arxiv:2609.03884",
+      "name": "A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors",
+      "url": "https://arxiv.org/abs/2609.03884",
+      "description": "Describes attacks where attacker-controlled lifecycle hook updates push AI agent harnesses toward malicious behavior.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "arxiv:2610.02664",
+      "name": "A GHOST in Long-Horizon Agents: Governance Hazard from Overlooked Safety Constraints across Turns",
+      "url": "https://arxiv.org/abs/2610.02664",
+      "description": "Examines governance hazards from overlooked safety constraints across turns in long-horizon agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2606.31639",
+      "name": "A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems",
+      "url": "https://arxiv.org/abs/2606.31639",
+      "description": "Explores vulnerabilities in large language models, including risks and defenses.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "arxiv:2606.02644",
+      "name": "A New Framework for Cybersecurity Refusals in AI Agents",
+      "url": "https://arxiv.org/abs/2606.02644",
+      "description": "A research paper introducing a framework to handle cybersecurity refusals in AI agents to mitigate risks in complex, long-horizon tasks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-03"
+    },
+    {
+      "id": "arxiv:2604.16548",
+      "name": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
+      "url": "https://arxiv.org/abs/2604.16548",
+      "description": "Survey of attacks, defenses, and governance for long-term memory security in LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "arxiv:2611.25469",
+      "name": "A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps",
+      "url": "https://arxiv.org/abs/2611.25469",
+      "description": "Introduces DRJanus, a visual camouflage attack that bypasses automated safety checks to show harmful content to viewers.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "arxiv:2611.06294",
+      "name": "A.S.E 2.0: Understanding How Repository Context Impacts the Security of LLM-Generated Code",
+      "url": "https://arxiv.org/abs/2611.06294",
+      "description": "Studies how repository context affects the security of code generated by LLM coding assistants/agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2610.41056",
+      "name": "Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.41056",
+      "description": "Robust memory management to accept legitimate changes and reject attacks on LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2607.18063",
+      "name": "Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security",
+      "url": "https://arxiv.org/abs/2607.18063",
+      "description": "Introduces a benchmark for evaluating the security of LLM-based agents against prompt injection and manipulation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "arxiv:2606.26479",
+      "name": "Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.26479",
+      "description": "Discusses strategies for defending tool-using LLM agents against indirect prompt injection.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "arxiv:2607.01153",
+      "name": "Adversarial Pragmatics for AI Safety Evaluation: A Diagnostic Framework and Seed Benchmark for Language-Mediated Control",
+      "url": "https://arxiv.org/abs/2607.01153",
+      "description": "Focuses on safety evaluations for language models and ambiguous behavior.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "arxiv:2611.17910",
+      "name": "Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners",
+      "url": "https://arxiv.org/abs/2611.17910",
+      "description": "Paper on adversarial attacks exploiting symbolic vocabulary vulnerabilities in LLM planners.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "arxiv:2607.11063",
+      "name": "AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation",
+      "url": "https://arxiv.org/abs/2607.11063",
+      "description": "Discusses vulnerabilities in AI navigation systems due to adversarial attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "arxiv:2610.28425",
+      "name": "After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents",
+      "url": "https://arxiv.org/abs/2610.28425",
+      "description": "Benchmarking carryover attacks on LLM agents via memory files and scheduled tasks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "arxiv:2607.05120",
+      "name": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+      "url": "https://arxiv.org/abs/2607.05120",
+      "description": "Investigates threats posed by data injection attacks on AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "arxiv:2609.33039",
+      "name": "Agent Safety From Within: Detecting Harmful Trajectories from LLM Internal States",
+      "url": "https://arxiv.org/abs/2609.33039",
+      "description": "Detects harmful trajectories from LLM internal states in agents performing tool-based action sequences.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "arxiv:2605.18991",
+      "name": "Agent Security is a Systems Problem",
+      "url": "https://arxiv.org/abs/2605.18991",
+      "description": "A research paper proposing that agent security must be approached as a systems problem, treating the underlying AI model as untrusted.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "arxiv:2607.22024",
+      "name": "Agent Security Needs Redefinition through a Holistic Framework",
+      "url": "https://arxiv.org/abs/2607.22024",
+      "description": "Proposes a new framework for understanding agent security beyond just action content.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "arxiv:2611.18999",
+      "name": "Agent-ZTA: A chain-Aware Zero Trust Model for Bidirectional Security-State Propagation and Runtime Containment in Multi-Agent Delegation",
+      "url": "https://arxiv.org/abs/2611.18999",
+      "description": "Proposes chain-aware zero trust for security-state propagation and runtime containment in multi-agent delegation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "arxiv:2609.33658",
+      "name": "AgentBoundary: Counterfactual Evaluation of Safety in Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2609.33658",
+      "description": "Counterfactual evaluation of safety in tool-using LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "arxiv:2605.29801",
+      "name": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+      "url": "https://arxiv.org/abs/2605.29801",
+      "description": "A lightweight and scalable alignment framework designed to mitigate safety and security risks in open-world AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "arxiv:2609.09212",
+      "name": "AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2609.09212",
+      "description": "Visual patch attacks and image-triggered command injection against multimodal computer-use agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "arxiv:2610.31974",
+      "name": "Agentic AI Defense: Decode-Time Provenance Binding for MCP",
+      "url": "https://arxiv.org/abs/2610.31974",
+      "description": "Defends MCP-based agentic AI systems against indirect prompt injection via untrusted tool outputs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "id": "arxiv:2610.31404",
+      "name": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
+      "url": "https://arxiv.org/abs/2610.31404",
+      "description": "Benchmarks LLM email agents against adaptive phishing attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "arxiv:2606.02240",
+      "name": "AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations",
+      "url": "https://arxiv.org/abs/2606.02240",
+      "description": "Focuses on threats from indirect prompt injection in tool-use agents",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "arxiv:2610.30738",
+      "name": "AgentTriage: Replayable Security Diagnosis Across Heterogeneous Agent Runtimes",
+      "url": "https://arxiv.org/abs/2610.30738",
+      "description": "Security diagnosis for tool-use agent runtimes and their security events.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "arxiv:2609.14592",
+      "name": "AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems",
+      "url": "https://arxiv.org/abs/2609.14592",
+      "description": "Vision paper on engineering accountability for AI deployment in safety-critical systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "arxiv:2610.10285",
+      "name": "AI Safety Considerations for Agents With Limited Time to Act",
+      "url": "https://arxiv.org/abs/2610.10285",
+      "description": "Examines AI safety and alignment for agents that have limited time to act.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "arxiv:2610.05461",
+      "name": "AI Safety via Debate is Compromised by Cognitive Biases",
+      "url": "https://arxiv.org/abs/2610.05461",
+      "description": "Examines how AI safety via debate and RLHF can be compromised by cognitive biases.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2609.09404",
+      "name": "An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks",
+      "url": "https://arxiv.org/abs/2609.09404",
+      "description": "Tests multimodal prompt injection attacks on agentic AI frameworks with tools and memory.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "arxiv:2606.20470",
+      "name": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.20470",
+      "description": "A study analyzing defensive misdirection against model-guided automated attacks targeting language-model components in agentic AI systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-20"
+    },
+    {
+      "id": "arxiv:2605.06161",
+      "name": "Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test",
+      "url": "https://arxiv.org/abs/2605.06161",
+      "description": "Stress-tests whether LLM safety judges used for agent safety are policy-invariant.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2606.06529",
+      "name": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "url": "https://arxiv.org/abs/2606.06529",
+      "description": "A research paper analyzing AI control safety frameworks, showing how strategic attack selection makes attackers significantly harder to detect.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "arxiv:2610.38869",
+      "name": "Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.38869",
+      "description": "Discusses auditable belief updates as a missing safety layer for LLM-powered multi-agent systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "arxiv:2608.17684",
+      "name": "Auditing Self-Evolution in Financial Agents: Capability Gains, Security Drift, and Execution-Interface Mismatch",
+      "url": "https://arxiv.org/abs/2608.17684",
+      "description": "Audits security drift in self-evolving financial agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "arxiv:2611.21832",
+      "name": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "description": "Study of detecting sabotage by misaligned AI systems in AI safety research transcripts.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "arxiv:2606.24245",
+      "name": "AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming",
+      "url": "https://arxiv.org/abs/2606.24245",
+      "description": "Focuses on safety rule evolution for LLM agents to enhance their security in automated tasks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "arxiv:2611.26525",
+      "name": "Backtracking Agent Applications Security Incidents",
+      "url": "https://arxiv.org/abs/2611.26525",
+      "description": "Examines backtracking and investigation of security incidents caused by agent-specific attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "arxiv:2606.26406",
+      "name": "Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI",
+      "url": "https://arxiv.org/abs/2606.26406",
+      "description": "Proposes an architectural blueprint for safe AGI, focusing on intrinsic safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "arxiv:2611.07640",
+      "name": "Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks",
+      "url": "https://arxiv.org/abs/2611.07640",
+      "description": "Benchmarks indirect prompt injection via task-tampering attacks against tool-using agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2608.14711",
+      "name": "Beyond Pass@k: Measuring Reliability and Security of Agentic Code Generation",
+      "url": "https://arxiv.org/abs/2608.14711",
+      "description": "Analyzes misapplication of pass@k in AI coding agent benchmarks, focusing on reliability and security measurement of agentic code generation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "arxiv:2610.40798",
+      "name": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "url": "https://arxiv.org/abs/2610.40798",
+      "description": "Safety sufficiency for web world models used by agents to predict action consequences.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2610.03014",
+      "name": "Beyond Predefined Sinks: Security-Aware Dependency Analysis for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.03014",
+      "description": "Security-aware dependency analysis for LLM agents connecting decisions to sensitive software capabilities.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2611.01976",
+      "name": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
+      "url": "https://arxiv.org/abs/2611.01976",
+      "description": "Paper on the tool update gap in LLM agent security beyond prompt injection.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2607.15263",
+      "name": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "url": "https://arxiv.org/abs/2607.15263",
+      "description": "Evaluates security agents' capabilities, emphasizing vulnerability discovery",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "arxiv:2608.23858",
+      "name": "Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)",
+      "url": "https://arxiv.org/abs/2608.23858",
+      "description": "Systematic security analysis of the Agent Payments Protocol (AP2) for LLM shopping agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "arxiv:2605.22001",
+      "name": "Blind Spots in the Guard: How Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.22001",
+      "description": "A study on how domain-camouflaged injection attacks evade detection in multi-agent LLM systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-23"
+    },
+    {
+      "id": "arxiv:2608.15888",
+      "name": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+      "url": "https://arxiv.org/abs/2608.15888",
+      "description": "Introduces delegation security for multi-agent AI systems to control permissions and protect agent actions as session start.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "arxiv:2608.16806",
+      "name": "Breaking Planner Integrity Boundary: Enviroment State-Text Injection Attack on LLM-Driven Embodied Agents",
+      "url": "https://arxiv.org/abs/2608.16806",
+      "description": "Explores environment state‑text injection attacks against LLM‑driven embodied agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "arxiv:2510.01359",
+      "name": "Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks",
+      "url": "https://arxiv.org/abs/2510.01359",
+      "description": "A security assessment of code-capable LLM agents against systematic jailbreaking attacks within software engineering workflows.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "arxiv:2607.18659",
+      "name": "Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents",
+      "url": "https://arxiv.org/abs/2607.18659",
+      "description": "Analyzes the changing threat landscape for web security due to LLM-based browser agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "arxiv:2608.27990",
+      "name": "CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?",
+      "url": "https://arxiv.org/abs/2608.27990",
+      "description": "Studies prompt-injection attacks on LLM agents and whether agents can autonomously generate defenses.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "arxiv:2610.15153",
+      "name": "Can agents whose sole duty is to keep humans alive be hijacked to kill? Delayed multi-turn derived-action trap attacks in simulated high-stakes environments",
+      "url": "https://arxiv.org/abs/2610.15153",
+      "description": "Studies delayed prompt injection attacks that can hijack tool-using keep-alive agents into harmful actions.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "arxiv:2606.13884",
+      "name": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+      "url": "https://arxiv.org/abs/2606.13884",
+      "description": "A safety primitive proposing risk-aware causal gating to enable least-privilege execution for LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-15"
+    },
+    {
+      "id": "arxiv:2611.17115",
+      "name": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+      "url": "https://arxiv.org/abs/2611.17115",
+      "description": "Prompt-injection defense for small language model agents without model-written security artifacts.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "arxiv:2609.06433",
+      "name": "Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation",
+      "url": "https://arxiv.org/abs/2609.06433",
+      "description": "Generates safety-critical traffic scenarios for training and evaluating autonomous vehicle safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "arxiv:2609.33123",
+      "name": "Compositional Safety Failures in Harness Evolution: Identification and Runtime Monitoring",
+      "url": "https://arxiv.org/abs/2609.33123",
+      "description": "Identifies and runtime-monitors safety failures in self-evolving agent harnesses that update memory, prompts, skills, and tools.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "arxiv:2605.09045",
+      "name": "Containment Verification: AI Safety Guarantees Independent of Alignment",
+      "url": "https://arxiv.org/abs/2605.09045",
+      "description": "Examines safety methods for AI agents that focus on containment rather than model alignment.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "arxiv:2609.05269",
+      "name": "CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls",
+      "url": "https://arxiv.org/abs/2609.05269",
+      "description": "Introduces security-context contracts that combine provenance tracking, authorization, policy enforcement, protocol adapters, and execution controls for LLM agent systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "arxiv:2609.34790",
+      "name": "CoSec: Benchmarking Agent Security in Communities",
+      "url": "https://arxiv.org/abs/2609.34790",
+      "description": "Benchmarks security of LLM agents in persistent collaborative community environments.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "arxiv:2607.21325",
+      "name": "Cryptographically verifiable authorization for autonomous AI agents: a falsifiable hypothesis and proof of concept",
+      "url": "https://arxiv.org/abs/2607.21325",
+      "description": "Explores authorization for autonomous AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "arxiv:2611.02516",
+      "name": "Cumulative and Audited Guardrail Tool Evolution for LLM Agent Safety",
+      "url": "https://arxiv.org/abs/2611.02516",
+      "description": "Paper on audited guardrail tool evolution for LLM agent safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2606.05679",
+      "name": "Data Flow Control: Data Safety Policies for AI Agents",
+      "url": "https://arxiv.org/abs/2606.05679",
+      "description": "A study focusing on data safety policies for AI agents that generate SQL, orchestrate pipelines, and automate data analysis.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "arxiv:2609.28613",
+      "name": "Decision Hijacking: Prompt Injection Attacks on Jev's Typed Probabilistic Decisions",
+      "url": "https://arxiv.org/abs/2609.28613",
+      "description": "Studies prompt injection attacks on models with schema-defined outputs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "arxiv:2605.28104",
+      "name": "Defending LLM-based Multi-Agent Systems Against Cooperative Attacks with Sentence-Level Rectification",
+      "url": "https://arxiv.org/abs/2605.28104",
+      "description": "A study on defending collaborative LLM-based Multi-Agent Systems against cooperative attacks using sentence-level rectification.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-28"
+    },
+    {
+      "id": "arxiv:2609.01487",
+      "name": "Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents",
+      "url": "https://arxiv.org/abs/2609.01487",
+      "description": "Evolves runtime guard skills to defend skill-augmented agents from malicious skills.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "arxiv:2610.36295",
+      "name": "Detecting and Mitigating Query-Based System Prompt Leakage Attacks",
+      "url": "https://arxiv.org/abs/2610.36295",
+      "description": "Detection and mitigation of query-based system prompt leakage attacks on LLMs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "arxiv:2607.02873",
+      "name": "Determinants and Limits of LLM Security-Tool Orchestration: A Study with HexStrike-AI",
+      "url": "https://arxiv.org/abs/2607.02873",
+      "description": "Examines factors affecting LLM agents in security tool orchestration.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "arxiv:2607.14256",
+      "name": "Disagreement-Guided Agentic Data Curation for Multimodal Safety",
+      "url": "https://arxiv.org/abs/2607.14256",
+      "description": "Paper on disagreement-guided agentic data curation to improve multimodal safety boundaries.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-20"
+    },
+    {
+      "id": "arxiv:2607.02514",
+      "name": "Distributed Attacks in Persistent-State AI Control",
+      "url": "https://arxiv.org/abs/2607.02514",
+      "description": "Explores the risks of persistent-state AI coding agents and the potential for distributed attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "arxiv:2609.00206",
+      "name": "Distributed Implicit Harm: A Compositional Safety Blind Spot in MLLM-Based Video Moderation",
+      "url": "https://arxiv.org/abs/2609.00206",
+      "description": "Paper exposing a compositional safety blind spot in MLLM-based video moderation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "arxiv:2607.25890",
+      "name": "Distributing Security Controls Through Harness Engineering",
+      "url": "https://arxiv.org/abs/2607.25890",
+      "description": "AI coding agents are being adopted at historic speed, yet security and risk concerns remain the primary barrier to scaling agentic AI across organizations.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-29"
+    },
+    {
+      "id": "arxiv:2610.32045",
+      "name": "Do AI-for-Science Agents Preserve Model Safety?",
+      "url": "https://arxiv.org/abs/2610.32045",
+      "description": "Examines whether AI-for-Science agents preserve model safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "id": "arxiv:2606.05233",
+      "name": "Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming",
+      "url": "https://arxiv.org/abs/2606.05233",
+      "description": "A research paper presenting a 793-episode browser benchmark and a reproducibility audit of recent red-teaming on computer-using agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "arxiv:2610.13116",
+      "name": "DRYLAB-Bench: Benchmarking the Biosecurity Risk of Agentic LLM Mutation Design",
+      "url": "https://arxiv.org/abs/2610.13116",
+      "description": "Benchmarks the biosecurity risk of agentic LLM mutation design.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "arxiv:2607.00218",
+      "name": "EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards",
+      "url": "https://arxiv.org/abs/2607.00218",
+      "description": "Evaluates vision-language models as safety guards for embodied agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "arxiv:2611.10099",
+      "name": "Enmo Safety: External, Non-invasive, Model-agnostic Oversight for Off-the-Shelf Language Models",
+      "url": "https://arxiv.org/abs/2611.10099",
+      "description": "Paper on an external safety harness and oversight for off-the-shelf language models.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "arxiv:2609.35807",
+      "name": "Environment Steering: Using Data Flow Control to Improve Agent Utility and Safety",
+      "url": "https://arxiv.org/abs/2609.35807",
+      "description": "Uses data flow control to prevent unsafe tool calls and improve LLM agent safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "arxiv:2610.31650",
+      "name": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+      "url": "https://arxiv.org/abs/2610.31650",
+      "description": "Evaluates LLM agent safety and evidence recovery when safety-relevant evidence is missing.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "arxiv:2611.22583",
+      "name": "Evolution Under Fire: Evolving Agent Safety Harnesses with Adaptive Injection Stressors",
+      "url": "https://arxiv.org/abs/2611.22583",
+      "description": "Evolving safety harnesses for tool-using LM agents against adaptive injection stressors from untrusted content.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "arxiv:2609.31186",
+      "name": "Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation",
+      "url": "https://arxiv.org/abs/2609.31186",
+      "description": "Taxonomy, risk discovery, and evaluation for safety of recursive self-improving AI.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "arxiv:2610.15244",
+      "name": "EvolvAttack: Backdooring self Evolving VLM Agents",
+      "url": "https://arxiv.org/abs/2610.15244",
+      "description": "Examines backdoor attacks against self-evolving vision-language model agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "arxiv:2608.08077",
+      "name": "Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios",
+      "url": "https://arxiv.org/abs/2608.08077",
+      "description": "Benchmark for vision-language model embodied controllers in safety-critical scenarios.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "arxiv:2610.26438",
+      "name": "Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents",
+      "url": "https://arxiv.org/abs/2610.26438",
+      "description": "Information injection attacks that manipulate LLM financial trading agents using fabricated news.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "arxiv:2607.04718",
+      "name": "FORGE: Research-Trajectory Hijacking Attacks on Deep Research Agents",
+      "url": "https://arxiv.org/abs/2607.04718",
+      "description": "Discusses attacks on deep research agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "arxiv:2611.13960",
+      "name": "From Attack Surface to Defense Architecture: Compositional Security for Agentic Coding Harnesses",
+      "url": "https://arxiv.org/abs/2611.13960",
+      "description": "Security architecture for agentic coding harnesses that connect LLMs to shells, filesystems, and network sockets.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "arxiv:2610.12463",
+      "name": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463",
+      "description": "Draws lessons from real-world agent security incidents and containment failures.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "arxiv:2601.23088",
+      "name": "From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching",
+      "url": "https://arxiv.org/abs/2601.23088",
+      "description": "Investigates vulnerabilities in semantic caching techniques used by large language models.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "arxiv:2606.04329",
+      "name": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.04329",
+      "description": "A systematic study of memory poisoning attacks in LLM agents, exploring how untrusted inputs can compromise persistent agent memory.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-04"
+    },
+    {
+      "id": "arxiv:2606.09935",
+      "name": "GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines",
+      "url": "https://arxiv.org/abs/2606.09935",
+      "description": "Research examining prompt injection attacks against autonomous AI agents embedded in CI/CD pipelines.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-10"
+    },
+    {
+      "id": "arxiv:2607.02376",
+      "name": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems",
+      "url": "https://arxiv.org/abs/2607.02376",
+      "description": "Focuses on safety in complex autonomous systems integrating AI.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "arxiv:2608.17597",
+      "name": "HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety",
+      "url": "https://arxiv.org/abs/2608.17597",
+      "description": "Benchmark for safety of agent harnesses managing tools, permissions, and external actions.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "arxiv:2610.02920",
+      "name": "HASTE: Evolving Agent Harnesses Against Emerging Attacks Using Sparse Evidence",
+      "url": "https://arxiv.org/abs/2610.02920",
+      "description": "Evolves agent harnesses to enforce safety constraints against emerging attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2606.13994",
+      "name": "Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DECOMPBENCH",
+      "url": "https://arxiv.org/abs/2606.13994",
+      "description": "A benchmark designed to evaluate LLM-based agent safety against adversarial misuse via decomposition attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-15"
+    },
+    {
+      "id": "arxiv:2604.13954",
+      "name": "HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark",
+      "url": "https://arxiv.org/abs/2604.13954",
+      "description": "Benchmark for evaluating unsafe agent trajectories arising under benign conditions.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "arxiv:2611.08914",
+      "name": "HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety",
+      "url": "https://arxiv.org/abs/2611.08914",
+      "description": "Simulation framework and benchmark for robot-IoT coordination in domestic assistance and safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "arxiv:2610.09000",
+      "name": "How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis",
+      "url": "https://arxiv.org/abs/2610.09000",
+      "description": "Analyzes fragility of on-device small language model safety and localizes safety-critical parameters for fault analysis in agentic systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "arxiv:2610.04366",
+      "name": "Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation",
+      "url": "https://arxiv.org/abs/2610.04366",
+      "description": "Safety evaluation of autonomous vehicle agents via realistic crash scenario generation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2611.08811",
+      "name": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
+      "url": "https://arxiv.org/abs/2611.08811",
+      "description": "Evaluates thought injection attacks on reasoning agents and large reasoning models.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "arxiv:2609.25194",
+      "name": "Indirect tipping: a social attack surface in AI agent populations",
+      "url": "https://arxiv.org/abs/2609.25194",
+      "description": "Explores social attack surfaces in populations of deployed generative AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "arxiv:2606.02643",
+      "name": "Inference Cost Attacks for Retrieval-Augmented Large Language Models",
+      "url": "https://arxiv.org/abs/2606.02643",
+      "description": "A research paper analyzing attacks that exploit RAG-enhanced LLM systems to introduce substantial inference costs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-03"
+    },
+    {
+      "id": "arxiv:2609.20614",
+      "name": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+      "url": "https://arxiv.org/abs/2609.20614",
+      "description": "Studies practical fingerprinting attacks and exploitation of inference engines by frontier AI models.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "arxiv:2608.23471",
+      "name": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+      "url": "https://arxiv.org/abs/2608.23471",
+      "description": "Attacks persistent memory subsystems being adopted in deployed LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "arxiv:2605.30677",
+      "name": "Investigating Detection and Obfuscation of Prompt Injection Attacks Against Software Reverse Engineering AI Agents",
+      "url": "https://arxiv.org/abs/2605.30677",
+      "description": "A study analyzing prompt injection attacks embedded within the source code of executable binary files targeting agentic reverse engineering systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "arxiv:2610.38209",
+      "name": "Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction",
+      "url": "https://arxiv.org/abs/2610.38209",
+      "description": "Studies a role-grounding attack against an agent’s memory via social interaction.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "arxiv:2607.12406",
+      "name": "Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions",
+      "url": "https://arxiv.org/abs/2607.12406",
+      "description": "Paper defining isolation as a foundational safety principle for LLM-agent systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "arxiv:2602.24009",
+      "name": "Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking",
+      "url": "https://arxiv.org/abs/2602.24009",
+      "description": "Discusses jailbreak techniques for large language models",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "arxiv:2609.01168",
+      "name": "Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2609.01168",
+      "description": "Paper on using multi-agent debate to jailbreak T2I models by navigating heterogeneous safety filters.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "arxiv:2610.22244",
+      "name": "Language Is a Security Surface for Agent Guards",
+      "url": "https://arxiv.org/abs/2610.22244",
+      "description": "Studies language as a security surface for step-level agent guards deciding whether tool calls are safe.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "arxiv:2610.36108",
+      "name": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2610.36108",
+      "description": "Prompt injection attacks on tool-using LLM agents through MCP.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "arxiv:2609.39146",
+      "name": "MADBench: Benchmarking the Security of Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2609.39146",
+      "description": "Paper benchmarking the security of multi-agent debate.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "arxiv:2607.00334",
+      "name": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2607.00334",
+      "description": "Discusses failure modes of autonomous agents and governance for safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "arxiv:2610.38361",
+      "name": "Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation",
+      "url": "https://arxiv.org/abs/2610.38361",
+      "description": "Security evaluation of manifest-assisted retrieval and `/llms.txt` consumption in AI search.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "arxiv:2511.22924",
+      "name": "MAS-Shield: A Defense Framework for Secure and Efficient LLM MAS",
+      "url": "https://arxiv.org/abs/2511.22924",
+      "description": "Defense framework protecting LLM-based multi-agent systems from linguistic attacks and cascading failures.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "arxiv:2608.22061",
+      "name": "MEMORY Wins All: Indirect Bias Injection Attacks via Social Media Content",
+      "url": "https://arxiv.org/abs/2608.22061",
+      "description": "Shows indirect bias injection attacks against personal AI agents that consume external content such as social media feeds.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "arxiv:2605.29960",
+      "name": "MemPoison: Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.29960",
+      "description": "Research investigating stealthy Trojan attacks that exploit the long-term memory capabilities of LLM agents through conversational interaction.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "arxiv:2601.12349",
+      "name": "Mind the Gap: Action Rebinding Attacks against Android GUI Agents",
+      "url": "https://arxiv.org/abs/2601.12349",
+      "description": "Discusses vulnerabilities in AI agents operating on mobile platforms.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "arxiv:2608.17659",
+      "name": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
+      "url": "https://arxiv.org/abs/2608.17659",
+      "description": "Benchmarks GUI agent safety against environmental injection attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "arxiv:2609.30967",
+      "name": "MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens",
+      "url": "https://arxiv.org/abs/2609.30967",
+      "description": "Multi-objective optimization of LLM harnesses for accuracy, safety, and token use.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "arxiv:2609.04921",
+      "name": "One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation",
+      "url": "https://arxiv.org/abs/2609.04921",
+      "description": "Uses a diffusion model in closed-loop driving simulation for trajectory planning and generation of safety-critical driving scenarios.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "arxiv:2610.12292",
+      "name": "One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails",
+      "url": "https://arxiv.org/abs/2610.12292",
+      "description": "Examines an attack against typed decision models used as agent guardrails.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "arxiv:2609.00015",
+      "name": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "url": "https://arxiv.org/abs/2609.00015",
+      "description": "Paper on enabling system-wide safety boundaries for heterogeneous AI agent fleets.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "arxiv:2610.01497",
+      "name": "OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation",
+      "url": "https://arxiv.org/abs/2610.01497",
+      "description": "Audit framework for LLM safety evaluation in molecular tumor boards, highlighting over-refusal and clinical expert perspectives.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "arxiv:2607.13078",
+      "name": "Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows",
+      "url": "https://arxiv.org/abs/2607.13078",
+      "description": "Explores the limitations of LLMs in trust-and-safety workflows, relevant to agent security.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "arxiv:2607.18366",
+      "name": "Operational Hallucination and Safety Drift in AI Agents",
+      "url": "https://arxiv.org/abs/2607.18366",
+      "description": "Discusses reliability risks in AI agents using LLMs in multi-turn execution.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "arxiv:2607.07097",
+      "name": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+      "url": "https://arxiv.org/abs/2607.07097",
+      "description": "Discusses safety evaluations of multi-agent LLM systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "arxiv:2611.14808",
+      "name": "OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design",
+      "url": "https://arxiv.org/abs/2611.14808",
+      "description": "Resource amplification attacks on SaaS agents via tool–prompt co-design.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "arxiv:2611.25325",
+      "name": "Pandora's Toolbox Or Why Agent Safety Cannot Be Verified",
+      "url": "https://arxiv.org/abs/2611.25325",
+      "description": "Discusses why agent safety cannot be verified for LLM-based agents coupled with general computing devices.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "arxiv:2609.28585",
+      "name": "Persistent Billable State: Denial-of-Wallet Attacks and Defenses in Tool-Calling LLM Agents",
+      "url": "https://arxiv.org/abs/2609.28585",
+      "description": "Examines denial-of-wallet attacks and defenses in tool-calling LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "arxiv:2607.08066",
+      "name": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+      "url": "https://arxiv.org/abs/2607.08066",
+      "description": "Discusses how persuasion attacks can undermine AI safety mechanisms like CoT monitoring.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "arxiv:2607.16199",
+      "name": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "url": "https://arxiv.org/abs/2607.16199",
+      "description": "Discusses attacks on multi-agent LLM systems through prompt injection.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "arxiv:2609.32801",
+      "name": "PlanGuard: A Guardrail for Multi-Step Plan Safety in Embodied Agents",
+      "url": "https://arxiv.org/abs/2609.32801",
+      "description": "Guardrail for multi-step plan safety in embodied agents, addressing physical risks from subtask dependencies and environment interactions during execution.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "arxiv:2605.28201",
+      "name": "Plant, Persist, Trigger: Sleeper Attack on Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2605.28201",
+      "description": "Analysis of sleeper attacks where attackers inject adversarial content into external environments to exploit LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-28"
+    },
+    {
+      "id": "arxiv:2605.27117",
+      "name": "Position: AI Safety Requires Effective Controllability",
+      "url": "https://arxiv.org/abs/2605.27117",
+      "description": "A research paper proposing that AI safety should be framed around effective controllability rather than solely focusing on alignment.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-27"
+    },
+    {
+      "id": "arxiv:2610.02925",
+      "name": "Positive-Unlabeled Learning for Agent Safety False Alarm Auditing",
+      "url": "https://arxiv.org/abs/2610.02925",
+      "description": "Audits false alarms from safety monitors safeguarding language-model agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2611.02815",
+      "name": "Predictive Safety Guardrails Do Not Always Make LLM Agents Safer",
+      "url": "https://arxiv.org/abs/2611.02815",
+      "description": "Paper on predictive safety guardrails for LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2609.02967",
+      "name": "Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning",
+      "url": "https://arxiv.org/abs/2609.02967",
+      "description": "Uses federated graph learning to safeguard LLM-based multi-agent systems and localize risky agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "arxiv:2610.24052",
+      "name": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks",
+      "url": "https://arxiv.org/abs/2610.24052",
+      "description": "Red-teaming multi-agent attacks and loss-of-control risks in AI agent systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "arxiv:2608.21100",
+      "name": "ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2608.21100",
+      "description": "Test-time safety alignment approach for multimodal LLMs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "arxiv:2609.04714",
+      "name": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
+      "url": "https://arxiv.org/abs/2609.04714",
+      "description": "Analyzes safety-tuning responses to reduce false refusals while preserving a helpfulness/safety balance in LLMs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "arxiv:2610.27350",
+      "name": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
+      "url": "https://arxiv.org/abs/2610.27350",
+      "description": "Runtime safety check for robot control loops using frontier models and agent harnesses.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "arxiv:2605.29224",
+      "name": "Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.29224",
+      "description": "A study demonstrating how integrating external web retrieval tools can degrade the safety alignment of LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "arxiv:2611.08504",
+      "name": "Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational Agents",
+      "url": "https://arxiv.org/abs/2611.08504",
+      "description": "Addresses memory, safety, and continuity governance for relational agents, including intrusion and emotional manipulation risks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "arxiv:2505.06335",
+      "name": "Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients",
+      "url": "https://arxiv.org/abs/2505.06335",
+      "description": "Rowhammer attack leveraging adversarial observations on federated learning clients.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "arxiv:2609.36121",
+      "name": "Render Before Reading: Visual Rendering as a Prompt Injection Defense",
+      "url": "https://arxiv.org/abs/2609.36121",
+      "description": "Defends LLMs against prompt injection via visual rendering before reading.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "arxiv:2611.26553",
+      "name": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+      "url": "https://arxiv.org/abs/2611.26553",
+      "description": "Focuses on auditing, investigating, and replicating security events involving LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "arxiv:2608.24275",
+      "name": "RePolicy: Learning to Select and Apply Safety Policies for Agent Safeguards",
+      "url": "https://arxiv.org/abs/2608.24275",
+      "description": "Safeguards LLM agents by learning context-dependent safety-policy invocation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "arxiv:2610.00400",
+      "name": "Representation Transitions Reveal Emerging Safety Risks in Multi-Turn LLM Agents",
+      "url": "https://arxiv.org/abs/2610.00400",
+      "description": "Study on multi-turn attacks and emerging safety risks in LLM agents via representation transitions.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "arxiv:2609.21470",
+      "name": "Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.21470",
+      "description": "Safety/risk-aware perception for an end-to-end driving agent (agent safety, not cybersecurity).",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "id": "arxiv:2610.09294",
+      "name": "RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment",
+      "url": "https://arxiv.org/abs/2610.09294",
+      "description": "Benchmarks agent safety in real-time embodied environments, moving beyond digital evaluations.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "arxiv:2606.04051",
+      "name": "RUBAS: Rubric-Based Reinforcement Learning for Agent Safety",
+      "url": "https://arxiv.org/abs/2606.04051",
+      "description": "A rubric-based reinforcement learning framework aimed at ensuring agent safety during real-world execution of tool-enabled LLMs.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-04"
+    },
+    {
+      "id": "arxiv:2606.11671",
+      "name": "Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security",
+      "url": "https://arxiv.org/abs/2606.11671",
+      "description": "A security approach that uses targeted runtime probing to audit LLM agent skills and detect hidden malicious behaviors.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "arxiv:2611.03772",
+      "name": "RuntimeTickets: Source-Grounded Security Obligations for Agent Skills",
+      "url": "https://arxiv.org/abs/2611.03772",
+      "description": "Defines security obligations to prevent malicious Agent Skills from hiding data exposure or output manipulation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "arxiv:2611.16937",
+      "name": "S1-Evo: Experience-Guided Evidence Competition Attacks on Typed System-1 Decision Models",
+      "url": "https://arxiv.org/abs/2611.16937",
+      "description": "Experience-guided evidence competition attacks on typed System-1 decision models in LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "arxiv:2611.21520",
+      "name": "Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety",
+      "url": "https://arxiv.org/abs/2611.21520",
+      "description": "Examines limits of text-similarity guardrails when injected instructions propagate across AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "arxiv:2605.07630",
+      "name": "Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents",
+      "url": "https://arxiv.org/abs/2605.07630",
+      "description": "Rethinks safety evaluation for phone-use agents by distinguishing genuine safety from incapability.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "arxiv:2609.36580",
+      "name": "SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time",
+      "url": "https://arxiv.org/abs/2609.36580",
+      "description": "Co-evolves safety harnesses and guards to protect LLM agents at test time.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "arxiv:2609.02786",
+      "name": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
+      "url": "https://arxiv.org/abs/2609.02786",
+      "description": "Paper on safety alignment for LLM agents through harness-policy co-evolution from agent experience.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "arxiv:2605.05704",
+      "name": "SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety",
+      "url": "https://arxiv.org/abs/2605.05704",
+      "description": "A hierarchical memory-augmented guardrail system designed to ensure the safety of autonomous LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-25"
+    },
+    {
+      "id": "arxiv:2609.13657",
+      "name": "Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself",
+      "url": "https://arxiv.org/abs/2609.13657",
+      "description": "Paper on fine-tuning a LLM recommender with safety constraints to explain its recommendations.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "arxiv:2608.27141",
+      "name": "Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents",
+      "url": "https://arxiv.org/abs/2608.27141",
+      "description": "Examines safety issues for autonomous LLM agents caused by non-decaying state across repeated execution loops.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "arxiv:2606.29657",
+      "name": "Safety from Honesty in a Disinterested AI Predictor",
+      "url": "https://arxiv.org/abs/2606.29657",
+      "description": "Explores risks of implicit agency in AI systems and their training.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "arxiv:2610.00093",
+      "name": "Safety in Self-Evolving Agents: A Survey",
+      "url": "https://arxiv.org/abs/2610.00093",
+      "description": "Survey on safety challenges and approaches for self-evolving LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "arxiv:2609.39788",
+      "name": "Safety of Latent Communication in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2609.39788",
+      "description": "Paper on safety of latent communication in multi-agent systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "arxiv:2607.13594",
+      "name": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
+      "url": "https://arxiv.org/abs/2607.13594",
+      "description": "Proposes human-intervention routing safeguards for LLM agent tool calls.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "arxiv:2609.14422",
+      "name": "Safety Signals to Verify NetOps Agents with Action-Level Granularity",
+      "url": "https://arxiv.org/abs/2609.14422",
+      "description": "Paper on verifying agentic network operations agents using action-level safety signals.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "arxiv:2607.01793",
+      "name": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "url": "https://arxiv.org/abs/2607.01793",
+      "description": "Discusses safety testing for LLM agents and evolving safety risks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "arxiv:2607.28685",
+      "name": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+      "url": "https://arxiv.org/abs/2607.28685",
+      "description": "Audits the validity of agent-safety benchmarks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2512.18542",
+      "name": "SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models",
+      "url": "https://arxiv.org/abs/2512.18542",
+      "description": "Addresses the production of vulnerable code by AI coding assistants and the need for a training dataset.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "arxiv:2610.27483",
+      "name": "Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization",
+      "url": "https://arxiv.org/abs/2610.27483",
+      "description": "Behavior-aware fraud detection and cybersecurity for trusted AI-agent payment authorization.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "arxiv:2607.06608",
+      "name": "Security and Privacy in Agentic AI: Grand Challenges and Future Directions",
+      "url": "https://arxiv.org/abs/2607.06608",
+      "description": "We present key challenges and future research directions in the security and privacy of agentic AI, based on a horizon-scanning exercise that...",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "arxiv:2607.15550",
+      "name": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+      "url": "https://arxiv.org/abs/2607.15550",
+      "description": "Paper presenting a world-model-based safety framework for mobile GUI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "arxiv:2607.17986",
+      "name": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
+      "url": "https://arxiv.org/abs/2607.17986",
+      "description": "Explores how self-hosted AI agents can be compromised through their own memory and configuration files.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "arxiv:2608.14306",
+      "name": "Sensor-Driven Mission Synthesis for UAV/UGV Swarms: A TB-CSPN Coordination Architecture with Hardware-Enforced Safety",
+      "url": "https://arxiv.org/abs/2608.14306",
+      "description": "Coordination architecture for UAV/UGV swarms with hardware-enforced safety; relevant to securing autonomous agent operations.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "arxiv:2505.23847",
+      "name": "Seven Security Challenges in Cross-domain Multi-agent LLM Systems",
+      "url": "https://arxiv.org/abs/2505.23847",
+      "description": "Discusses security challenges in autonomous agents that cooperate across organizational boundaries.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "arxiv:2606.27027",
+      "name": "ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+      "url": "https://arxiv.org/abs/2606.27027",
+      "description": "Explores vulnerabilities in LLM-driven agents and the Model Context Protocol (MCP).",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "arxiv:2610.22243",
+      "name": "Shortcut Sensitivity in Agent-Safety Evaluations",
+      "url": "https://arxiv.org/abs/2610.22243",
+      "description": "Examines reliability and shortcut sensitivity in safety evaluations of agents' sensitive tool actions.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "arxiv:2611.12865",
+      "name": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "url": "https://arxiv.org/abs/2611.12865",
+      "description": "Paper on RL misalignment and contextual safety learning for agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "arxiv:2609.26184",
+      "name": "Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems",
+      "url": "https://arxiv.org/abs/2609.26184",
+      "description": "Internal-state-triggered backdoor attacks on LLM-powered robotic control systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "arxiv:2609.29341",
+      "name": "SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support",
+      "url": "https://arxiv.org/abs/2609.29341",
+      "description": "Safety-grounded multimodal agentic framework for skincare support, emphasizing evidence and safety.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "arxiv:2609.12413",
+      "name": "SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration",
+      "url": "https://arxiv.org/abs/2609.12413",
+      "description": "SoK on jailbreaking attacks and defenses for agentic AI systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "arxiv:2609.00595",
+      "name": "SoK: When Safe Agents Fail Together: The Security of Multi Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2609.00595",
+      "description": "Paper systematizing the security of multi-agent LLM systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "arxiv:2506.15253",
+      "name": "Specification-based Security Evaluation of Real-World Agents Tool-Calling under Long-Horizon Context Tasks",
+      "url": "https://arxiv.org/abs/2506.15253",
+      "description": "Specification-based security evaluation of LLM agents’ tool-calling in long-horizon tasks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "arxiv:2609.39549",
+      "name": "Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks",
+      "url": "https://arxiv.org/abs/2609.39549",
+      "description": "Paper on proactive defense against multi-turn agent attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "arxiv:2609.30383",
+      "name": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "description": "Studies skill cascading attacks on skill-based agent systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "arxiv:2611.01953",
+      "name": "Step-Zero Attack: Agent Safety Before Observability",
+      "url": "https://arxiv.org/abs/2611.01953",
+      "description": "Paper on attacks and defenses for coding agents before observability.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "arxiv:2608.24777",
+      "name": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+      "url": "https://arxiv.org/abs/2608.24777",
+      "description": "Step-level guardrails protecting LLM agent tool use via safety-utility balancing.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "arxiv:2610.20960",
+      "name": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
+      "url": "https://arxiv.org/abs/2610.20960",
+      "description": "Context-aware safety reasoning for timely intervention in sequential agentic systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "arxiv:2609.26131",
+      "name": "StepTrigger: Contact-State-Triggered Backdoor Attacks on VLM-Powered Legged Robots",
+      "url": "https://arxiv.org/abs/2609.26131",
+      "description": "Backdoor attacks triggered by contact states against VLM-powered legged robots.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "arxiv:2611.13406",
+      "name": "Stinging the Swarm: Extracting Attacker Intelligence from a Twin-Controller OT Honeypot",
+      "url": "https://arxiv.org/abs/2611.13406",
+      "description": "OT honeypot study extracting attacker intelligence from autonomous LM-agent swarms probing industrial controllers.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "arxiv:2609.05911",
+      "name": "Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05911",
+      "description": "Measures security exposure of long-horizon LLM agents interacting with untrusted content, persistent memory, external state, and sensitive tools.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "arxiv:2611.10411",
+      "name": "Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows",
+      "url": "https://arxiv.org/abs/2611.10411",
+      "description": "Paper on constraining tail risks across multi-step LLM agent workflows.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "arxiv:2603.19423",
+      "name": "The Autonomy Tax: Defense Training Breaks LLM Agents",
+      "url": "https://arxiv.org/abs/2603.19423",
+      "description": "Analyzes how defense training can degrade the autonomous tool-use capabilities of LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "arxiv:2607.05743",
+      "name": "The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities",
+      "url": "https://arxiv.org/abs/2607.05743",
+      "description": "Discusses vulnerabilities in AI coding agents related to execution security.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "arxiv:2611.19037",
+      "name": "The Critic Can Hurt: On the Safety of Critics in LLM-Guided AutoML Search",
+      "url": "https://arxiv.org/abs/2611.19037",
+      "description": "Studies safety risks of LLM critics steering agentic AutoML search.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "arxiv:2609.22818",
+      "name": "The Price of Safety: Benign-Case Utility and Token Overhead of Memory-Poisoning Defenses in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.22818",
+      "description": "Examines benign-case utility and token overhead of memory-poisoning defenses in LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "arxiv:2610.27574",
+      "name": "The Show-Up Attack: When Subagents Win Over Their Supervisor",
+      "url": "https://arxiv.org/abs/2610.27574",
+      "description": "Attack surfaces in multi-agent LLM systems, including subagent-supervisor dynamics.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "arxiv:2611.03754",
+      "name": "The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents",
+      "url": "https://arxiv.org/abs/2611.03754",
+      "description": "Studies self-evolving adversarial attacks against LLM-powered search agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "arxiv:2505.11063",
+      "name": "Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction",
+      "url": "https://arxiv.org/abs/2505.11063",
+      "description": "A method to improve the behavioral safety of LLM-based agents through iterative reasoning and thought correction during tool use and environment interaction.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-27"
+    },
+    {
+      "id": "arxiv:2607.21835",
+      "name": "ToolGuardian: Declarative Security for AI Agent-Tool Interactions",
+      "url": "https://arxiv.org/abs/2607.21835",
+      "description": "Addresses security boundaries in AI agent interactions with third-party tools.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "arxiv:2611.10037",
+      "name": "Toward Safety-Aware AI Agents in Realistic Social Engineering Attack Scenarios",
+      "url": "https://arxiv.org/abs/2611.10037",
+      "description": "Paper on securing personal AI agents against social engineering attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "arxiv:2605.23989",
+      "name": "Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security",
+      "url": "https://arxiv.org/abs/2605.23989",
+      "description": "A comprehensive survey paper detailing safety, robustness, privacy, and system security challenges in LLM-driven agentic AI systems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-26"
+    },
+    {
+      "id": "arxiv:2609.19705",
+      "name": "Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+      "url": "https://arxiv.org/abs/2609.19705",
+      "description": "Analyzes robustness and security failures in autonomous financial LLM trading agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "arxiv:2610.16333",
+      "name": "TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.16333",
+      "description": "Probes misbinding in LLM agents through tool-result replay attacks.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "arxiv:2607.18485",
+      "name": "Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing",
+      "url": "https://arxiv.org/abs/2607.18485",
+      "description": "Examines security risks of LLM agents in high-performance computing environments.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "arxiv:2608.23763",
+      "name": "TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers",
+      "url": "https://arxiv.org/abs/2608.23763",
+      "description": "Characterizes, benchmarks, and defends against staged trust attacks on MCP servers.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "arxiv:2609.13731",
+      "name": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+      "url": "https://arxiv.org/abs/2609.13731",
+      "description": "Surveys cybersecurity threats, defense architectures, and open challenges for agentic AI.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "arxiv:2606.30755",
+      "name": "Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens",
+      "url": "https://arxiv.org/abs/2606.30755",
+      "description": "Discusses the security of claw-like AI agents with persistent access to credentials and external services.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "arxiv:2608.20963",
+      "name": "Vibe Coding and Web Application Security: A Twin-Prompt Study",
+      "url": "https://arxiv.org/abs/2608.20963",
+      "description": "Investigates whether explicit security prompting changes security outcomes in LLM-generated web applications.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "arxiv:2610.05637",
+      "name": "Visual Grounding Safety in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.05637",
+      "description": "Studies safety issues in VLMs that generate structured outputs like points and bounding boxes for downstream agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "arxiv:2611.04393",
+      "name": "Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents",
+      "url": "https://arxiv.org/abs/2611.04393",
+      "description": "Examines weaponized safety warnings that can manipulate and control AI agents via retrieved content.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "arxiv:2608.17275",
+      "name": "When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling",
+      "url": "https://arxiv.org/abs/2608.17275",
+      "description": "Surveys the attack surface of agent tool calling and MCP ecosystems.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "arxiv:2607.06595",
+      "name": "When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2607.06595",
+      "description": "Explores memory poisoning attacks on personal AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "arxiv:2611.04289",
+      "name": "When Debate Amplifies Risk: Social-Bias Vulnerabilities in Multi-Agent Safety Deliberation",
+      "url": "https://arxiv.org/abs/2611.04289",
+      "description": "Analyzes social-bias vulnerabilities in multi-agent safety deliberation.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "arxiv:2611.18612",
+      "name": "When Helpful Agents Cause Financial Harm: Evaluating LLM Agent Safety in Executable Economic Worlds",
+      "url": "https://arxiv.org/abs/2611.18612",
+      "description": "Evaluates LLM agent safety under economic pressures and financial harm.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "arxiv:2608.28518",
+      "name": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+      "url": "https://arxiv.org/abs/2608.28518",
+      "description": "Investigates how automatic speech recognition errors in voice commands can lead to unsafe outputs from embodied AI agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "arxiv:2605.24069",
+      "name": "When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents",
+      "url": "https://arxiv.org/abs/2605.24069",
+      "description": "A realistic benchmark designed to evaluate Model Context Protocol (MCP) poisoning attacks against tool-using LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-05-26"
+    },
+    {
+      "id": "arxiv:2609.40027",
+      "name": "Who Verifies the Graph? Misspecification Attacks on Causal Action Verification for Language Agents",
+      "url": "https://arxiv.org/abs/2609.40027",
+      "description": "Paper on misspecification attacks against causal action verification for language agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "arxiv:2610.11561",
+      "name": "Workerville: Towards an Organizational Behavior Account of Agent Safety",
+      "url": "https://arxiv.org/abs/2610.11561",
+      "description": "Organizational behavior account of safety for continuously interacting LLM agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "arxiv:2608.14876",
+      "name": "Workspace Topology as an Attack Vector in Agentic Coding Assistants",
+      "url": "https://arxiv.org/abs/2608.14876",
+      "description": "Identifies workspace topology as an attack vector against agentic coding assistants.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "arxiv:2607.05029",
+      "name": "Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses",
+      "url": "https://arxiv.org/abs/2607.05029",
+      "description": "Explores attacks on LLM agent memory and defenses.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "arxiv:2611.09256",
+      "name": "Zero-Query Transferable Pretend Benign Attacks with Amortized Online Generation for Cooperative Perception",
+      "url": "https://arxiv.org/abs/2611.09256",
+      "description": "Studies transferable pretend-benign attacks against cooperative perception agents.",
+      "category": "security_of_agents",
+      "type": "paper",
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "github:secureagentics/adrian",
+      "name": "Adrian",
+      "url": "https://github.com/secureagentics/Adrian",
+      "description": "Open-source runtime AI agent security tool that monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-01",
+      "stars": 359
+    },
+    {
+      "id": "github:sinewaveai/agent-security-scanner-mcp",
+      "name": "agent-security-scanner-mcp",
+      "url": "https://github.com/sinewaveai/agent-security-scanner-mcp",
+      "description": "Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST & taint analysis, auto-fix.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-06",
+      "stars": 113
+    },
+    {
+      "id": "github:agent-threat-rule/agent-threat-rules",
+      "name": "agent-threat-rules",
+      "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+      "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS & SigmaHQ. MIT-licensed.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-18",
+      "stars": 318
+    },
+    {
+      "id": "github:affaan-m/agentshield",
+      "name": "agentshield",
+      "url": "https://github.com/affaan-m/agentshield",
+      "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-22",
+      "stars": 1431
+    },
+    {
+      "id": "github:wearetyomsmnv/awesome-llmsecops",
+      "name": "Awesome-LLMSecOps",
+      "url": "https://github.com/wearetyomsmnv/Awesome-LLMSecOps",
+      "description": "Curated resources for LLM/agentic security operations, with links and visuals.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-14",
+      "stars": 172
+    },
+    {
+      "id": "github:openhackai/openhack",
+      "name": "OpenHack",
+      "url": "https://github.com/openhackai/OpenHack",
+      "description": "Open source agentic security scanner for security auditing.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-12",
+      "stars": 446
+    },
+    {
+      "id": "github:greydgl/pentestgpt",
+      "name": "PentestGPT",
+      "url": "https://github.com/GreyDGL/PentestGPT",
+      "description": "An innovative open-source project that leverages LLMs to create an autonomous penetration testing agent. It guides security professionals through the pentesting lifecycle, offering step-by-step instructions, interactive command execution, and vulnerability analysis.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-05-21",
+      "stars": 16548
+    },
+    {
+      "id": "github:shep-ai/shep",
+      "name": "shep",
+      "url": "https://github.com/shep-ai/shep",
+      "description": "AI agent that ships features faster with built-in automation for memory, Kubernetes operations, and security enforcement across the SDD/SDLC process.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-07-05",
+      "stars": 282
+    },
+    {
+      "id": "github:vinceamstoutz/symfony-security-auditor",
+      "name": "symfony-security-auditor",
+      "url": "https://github.com/vinceAmstoutz/symfony-security-auditor",
+      "description": "AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-06-26",
+      "stars": 101
+    },
+    {
+      "id": "github:tracecathq/tracecat",
+      "name": "tracecat",
+      "url": "https://github.com/TracecatHQ/tracecat",
+      "description": "Open-source agentic security automation platform.",
+      "category": "agents_for_security",
+      "type": "project",
+      "first_seen": "2026-11-20",
+      "stars": 3908
+    },
+    {
+      "id": "github:solongate/agent-security",
+      "name": "agent-security",
+      "url": "https://github.com/solongate/agent-security",
+      "description": "Local-first security gateway for AI coding agents, enforcing tool-call policies, detecting secrets, and auditing actions on-device.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-10-13",
+      "stars": 674
+    },
+    {
+      "id": "github:owasp/agent-security-regression-harness",
+      "name": "Agent-Security-Regression-Harness",
+      "url": "https://github.com/OWASP/Agent-Security-Regression-Harness",
+      "description": "An executable security regression testing framework from OWASP designed for agentic applications and MCP-integrated systems.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-06-04",
+      "stars": 57
+    },
+    {
+      "id": "github:clear-capabilities/agentic-security",
+      "name": "agentic-security",
+      "url": "https://github.com/Clear-Capabilities/agentic-security",
+      "description": "Repository focused on running an agentic workforce with safety, security, and compliance as defaults.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-05-31",
+      "stars": 121
+    },
+    {
+      "id": "github:kagnlp/awesome-agentic-security",
+      "name": "Awesome-Agentic-Security",
+      "url": "https://github.com/kagnlp/Awesome-Agentic-Security",
+      "description": "Curated list of 260+ papers/resources on Agentic Security: applications (Red/Blue Teaming), threats (Injection, Poisoning), and defenses (Guardrails, Verification).",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-08-24",
+      "stars": 69
+    },
+    {
+      "id": "github:yuxuan2003/awesome-gui-agent-security",
+      "name": "Awesome-GUI-Agent-Security",
+      "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security",
+      "description": "Curated list of GUI / computer-use / browser agent security papers organized by attack and defense perspectives.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-09-04",
+      "stars": 61
+    },
+    {
+      "id": "github:fu351/doberman-core",
+      "name": "Doberman-Core",
+      "url": "https://github.com/fu351/Doberman-Core",
+      "description": "Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-06-10",
+      "stars": 240
+    },
+    {
+      "id": "github:dodoguardai/dodoguard",
+      "name": "dodoguard",
+      "url": "https://github.com/dodoguardai/dodoguard",
+      "description": "Full-lifecycle agent security for Dify, Coze, FastGPT, n8n, Tencent ADP, ByteDance HiAgent, and more.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-09-10",
+      "stars": 275
+    },
+    {
+      "id": "github:protectai/llm-guard",
+      "name": "LLM Guard",
+      "url": "https://github.com/protectai/llm-guard",
+      "description": "A leading open-source toolkit by Protect AI designed to secure LLM-based agents. It provides real-time sanitization, detects prompt injections, prevents data leakage, and mitigates toxic or harmful outputs before they reach the agent or user.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-05-21",
+      "stars": 3221
+    },
+    {
+      "id": "github:jnmetacode/shellward",
+      "name": "shellward",
+      "url": "https://github.com/jnMetaCode/shellward",
+      "description": "AI Agent Security Middleware featuring an 8-layer defense, DLP data flow, prompt injection detection, and SDK/MCP server support.",
+      "category": "security_of_agents",
+      "type": "project",
+      "first_seen": "2026-06-20",
+      "stars": 140
+    }
+  ],
+  "last_rollup_week": null
+}
