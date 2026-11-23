@@ -1,6 +1,22 @@
 
 <!-- DAILY_REPORT_MARKER -->
 
+### 📅 Daily Security Intelligence (2026-11-23)
+
+> 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
+
+#### 🛡️ Agents for Security
+* None identified in the provided raw data.
+
+#### 🔒 Security of Agents
+* **AgentSafety-Papers** (⭐ 17) - Repository for daily tracking of LLM agent security papers on arXiv. https://github.com/NY1024/AgentSafety-Papers
+* **oasb** (⭐ 11) - Open Agent Security Benchmark with 223 attack scenarios, adapter interface, and MITRE ATLAS mapping. https://github.com/opena2a-org/oasb
+* **red-team-blue-team-agent-fabric** (⭐ 34) - AI agent security harness for adversarial testing across MCP, A2A, x402/L402, governance, and supply chain risks. https://github.com/msaleme/red-team-blue-team-agent-fabric
+* **agent-security** (⭐ 690) - Local-first security gateway for AI coding agents to enforce tool-call policies, detect secrets, and audit actions. https://github.com/solongate/agent-security
+
+---
+
+
 ### 📅 Daily Security Intelligence (2026-11-21)
 
 > 💡 *Note: Data fetched via arXiv/GitHub APIs and formatted by DeepSeek (deepseek-v4-flash).* 
