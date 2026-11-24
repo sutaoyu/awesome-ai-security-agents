@@ -15,6 +15,7 @@ from common import (
     CATEGORY_SECURITY_OF_AGENTS,
     HIGHLIGHTS_PATH,
     README_PATH,
+    WEEKLY_END,
     WEEKLY_START,
     catalog_ids,
     deepseek_chat,
