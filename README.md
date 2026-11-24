@@ -15,6 +15,20 @@ We curate an Awesome List of **AI security agents**, specifically addressing:
 ## This Week
 
 <!-- WEEKLY_START -->
+### Daily Security Intelligence (2026-11-24)
+
+> Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
+
+#### Agents for Security
+
+*None today.*
+
+#### Security of Agents
+
+* ![coregold-usdt-vcc-system-resilience-agent-security-isolation-guide Stars](https://img.shields.io/github/stars/laloli2145-star/coregold-usdt-vcc-system-resilience-agent-security-isolation-guide) [coregold-usdt-vcc-system-resilience-agent-security-isolation-guide](https://github.com/laloli2145-star/coregold-usdt-vcc-system-resilience-agent-security-isolation-guide) - A guide explaining how isolating virtual cards can protect AI subscriptions and cloud tools from single-point failures amid AI agent security concerns.
+
+---
+
 ### Daily Security Intelligence (2026-11-23)
 
 > Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
