@@ -15,6 +15,28 @@ We curate an Awesome List of **AI security agents**, specifically addressing:
 ## This Week
 
 <!-- WEEKLY_START -->
+### Daily Security Intelligence (2026-11-25)
+
+> Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
+
+#### Agents for Security
+
+* [Nov 2026] **"The Effect of Security-Focused Prompts on Reported Findings: A Controlled Experiment on 400 AI-Generated Web Applications"** [[paper](https://arxiv.org/abs/2611.28408)]
+  > A controlled experiment examines how security-focused prompts affect the security findings reported for 400 AI-generated web applications built by agentic coding tools.
+
+#### Security of Agents
+
+* [Nov 2026] **"Persuasion from Within: Model-Based Insider Attacks in Multi-Agent LLM Debate and Consensus"** [[paper](https://arxiv.org/abs/2611.28660)]
+  > The paper studies model-based insider attacks that can manipulate multi-agent LLM debate and consensus processes.
+
+* [Nov 2026] **"DoppelVet: Comparative Safety Verification for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2611.29306)]
+  > DoppelVet introduces comparative safety verification to prevent mistaken approvals from shaping the future behavior of self-evolving agents.
+
+* [Nov 2026] **"MobileGrail: Learning Compact Guardrails for On-Device deployable Mobile GUI Agent Safety"** [[paper](https://arxiv.org/abs/2611.29847)]
+  > MobileGrail learns compact on-device runtime guardrails that assess proposed actions to protect mobile GUI agents.
+
+---
+
 ### Daily Security Intelligence (2026-11-24)
 
 > Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
