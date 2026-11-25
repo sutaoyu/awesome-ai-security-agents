@@ -41,7 +41,37 @@ from common import (
 from render_readme import update_weekly_section, write_readme
 
 
-def fetch_arxiv(limit: int = 4) -> list[dict]:
+ARXIV_TOPIC_TERMS = (
+    "security",
+    "safety",
+    "attack",
+    "defense",
+    "pentest",
+    "penetration",
+    "vulnerability",
+    "prompt injection",
+    "jailbreak",
+    "guardrail",
+    "honeypot",
+    "red team",
+    "malware",
+    "threat detection",
+)
+
+# Quoted phrases stay precise. The list mixes both themes so one query cannot fill the day.
+GITHUB_QUERY_TERMS = (
+    '"agent security"',
+    '"prompt injection" agent',
+    '"agent safety"',
+    '"pentest" agent',
+    '"vulnerability" agent',
+    '"threat detection" agent',
+    '"honeypot" agent',
+    '"security agent"',
+)
+
+
+def fetch_arxiv(limit: int = 6) -> list[dict]:
     print("Fetching arXiv RSS...")
     feed = feedparser.parse("https://rss.arxiv.org/rss/cs.AI")
     items: list[dict] = []
@@ -50,9 +80,10 @@ def fetch_arxiv(limit: int = 4) -> list[dict]:
         summary = entry.get("summary", "")
         title_lower = title.lower()
         summary_lower = summary.lower()
-        if "agent" not in title_lower and "agent" not in summary_lower:
+        text = f"{title_lower} {summary_lower}"
+        if "agent" not in text:
             continue
-        if not any(k in title_lower for k in ("security", "safety", "attack", "defense")):
+        if not any(term in text for term in ARXIV_TOPIC_TERMS):
             continue
         link = entry.get("link", "")
         item_id, canonical = normalize_url(link)
@@ -73,23 +104,11 @@ def fetch_arxiv(limit: int = 4) -> list[dict]:
     return items
 
 
-def fetch_github(limit: int = 4) -> list[dict]:
-    print("Fetching GitHub new repos...")
-    token = os.environ.get("GITHUB_TOKEN")
-    headers = {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Awesome-Security-Agents-Daily-Action",
-    }
-    if token:
-        headers["Authorization"] = f"token {token}"
-
-    created_after = (now_beijing() - timedelta(days=7)).strftime("%Y-%m-%d")
-    query = f'"agent security" created:>{created_after} stars:>10'
+def search_github_query(query: str, headers: dict, per_page: int) -> list[dict]:
     url = (
         "https://api.github.com/search/repositories"
-        f"?q={quote(query)}&sort=stars&order=desc&per_page={limit}"
+        f"?q={quote(query)}&sort=stars&order=desc&per_page={per_page}"
     )
-
     for attempt in range(3):
         resp = requests.get(url, headers=headers, timeout=45)
         if resp.status_code == 200:
@@ -107,18 +126,55 @@ def fetch_github(limit: int = 4) -> list[dict]:
                         "description": (repo.get("description") or "No description").strip(),
                         "stars": repo.get("stargazers_count", 0),
                         "source": "github",
+                        "query": query,
                     }
                 )
-            print(f"Got {len(items)} GitHub repos")
+            print(f"GitHub {query}: {len(items)}")
             return items
         if resp.status_code in (403, 429):
-            sleep_time = 30 * (attempt + 1)
-            print(f"GitHub rate limited ({resp.status_code}), sleep {sleep_time}s")
+            sleep_time = 20 * (attempt + 1)
+            print(f"GitHub rate limited ({resp.status_code}) on {query}, sleep {sleep_time}s")
             time.sleep(sleep_time)
             continue
-        print(f"GitHub API failed: HTTP {resp.status_code}")
+        print(f"GitHub API failed for {query}: HTTP {resp.status_code}")
         break
     return []
+
+
+def fetch_github(per_query: int = 2, limit: int = 8) -> list[dict]:
+    print("Fetching GitHub new repos across keyword groups...")
+    token = os.environ.get("GITHUB_TOKEN")
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "Awesome-Security-Agents-Daily-Action",
+    }
+    if token:
+        headers["Authorization"] = f"token {token}"
+
+    created_after = (now_beijing() - timedelta(days=7)).strftime("%Y-%m-%d")
+    buckets: list[list[dict]] = []
+    for term in GITHUB_QUERY_TERMS:
+        query = f"{term} created:>{created_after} stars:>10"
+        buckets.append(search_github_query(query, headers, per_query))
+        time.sleep(1)
+
+    # Take one hit from each query before a second hit, so one phrase cannot crowd out the rest.
+    picked: list[dict] = []
+    seen: set[str] = set()
+    for slot in range(per_query):
+        for bucket in buckets:
+            if slot >= len(bucket):
+                continue
+            item = bucket[slot]
+            if item["id"] in seen:
+                continue
+            seen.add(item["id"])
+            picked.append(item)
+            if len(picked) >= limit:
+                print(f"Got {len(picked)} GitHub repos")
+                return picked
+    print(f"Got {len(picked)} GitHub repos")
+    return picked
 
 
 def classify_items(items: list[dict]) -> list[dict]:
