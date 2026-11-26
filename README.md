@@ -15,6 +15,40 @@ We curate an Awesome List of **AI security agents**, specifically addressing:
 ## This Week
 
 <!-- WEEKLY_START -->
+### Daily Security Intelligence (2026-11-26)
+
+> Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
+
+#### Agents for Security
+
+* [Nov 2026] **"A Generative AI Agent to Emulate Interactive Human-driven Vehicles for Automated Driving Testing in Urban Areas"** [[paper](https://arxiv.org/abs/2611.31797)]
+  > This paper presents a generative AI agent that emulates interactive human-driven vehicles for automated driving safety testing in urban areas.
+
+* ![shadownet-benchmark Stars](https://img.shields.io/github/stars/inwpu/shadownet-benchmark) [shadownet-benchmark](https://github.com/inwpu/shadownet-benchmark) - This repository offers an agentic penetration-testing benchmark with a shadow enterprise network for autonomous security agents.
+
+#### Security of Agents
+
+* [Nov 2026] **"ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection"** [[paper](https://arxiv.org/abs/2611.31424)]
+  > This paper shows how benign conversation history can be exploited to perform indirect prompt injection against LLM agents.
+
+* [Nov 2026] **"TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents"** [[paper](https://arxiv.org/abs/2611.31756)]
+  > This paper introduces a benchmark for testing adaptive conversational threats against tool-using AI agents.
+
+* [Nov 2026] **"Not All Interpretation Methods Are Created Equal: Tiered Evaluation of AI Interpretability"** [[paper](https://arxiv.org/abs/2611.31833)]
+  > This paper proposes a tiered evaluation of AI interpretability methods to address threats to reliability, public trust, and contestability.
+
+* [Nov 2026] **"ExpGuard: Guarding Long-Horizon LLM Agents against Corrupted Experience"** [[paper](https://arxiv.org/abs/2611.32085)]
+  > This paper presents ExpGuard, a defense for long-horizon LLM agents against misleading or adversarial guidance from corrupted experience.
+
+* [Nov 2026] **"CAPTA: Identifying LLMs Behind AI Agents"** [[paper](https://arxiv.org/abs/2611.32686)]
+  > This paper proposes CAPTA to identify which LLM is behind an AI agent in remote-service interactions.
+
+* ![agentic-attack-detections Stars](https://img.shields.io/github/stars/ThreatDefence/agentic-attack-detections) [agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) - This repository provides detection rules and IOCs for AI agent attack frameworks across multiple security platforms.
+
+* ![safe-anything Stars](https://img.shields.io/github/stars/erkamyaman/safe-anything) [safe-anything](https://github.com/erkamyaman/safe-anything) - This Rust vulnerability scanner finds XSS, SQL injection, leaked secrets, dependency CVEs, and AI agent setup weaknesses.
+
+---
+
 ### Daily Security Intelligence (2026-11-25)
 
 > Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
