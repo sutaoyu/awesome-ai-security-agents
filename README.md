@@ -15,6 +15,36 @@ We curate an Awesome List of **AI security agents**, specifically addressing:
 ## This Week
 
 <!-- WEEKLY_START -->
+### Daily Security Intelligence (2026-11-27)
+
+> Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
+
+#### Agents for Security
+
+* [Nov 2026] **"Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion"** [[paper](https://arxiv.org/abs/2611.33470)]
+  > Presents an empirical study of dynamic reasoning for next-generation detection and response using LLM triage, reinforcement tuning, and adversarial evasion evaluation.
+
+* [Nov 2026] **"SecID: An LLM-Guided Framework for Threat-Aware Secondary Asset Identification with Quantitative RTL Analysis"** [[paper](https://arxiv.org/abs/2611.33453)]
+  > Introduces an LLM-guided framework for threat-aware secondary asset identification using quantitative RTL analysis in hardware security verification.
+
+* [Nov 2026] **"Benchmarking Open-Ended Vulnerability Discovery in Windows Kernel Binaries"** [[paper](https://arxiv.org/abs/2611.33486)]
+  > Benchmarks open-ended vulnerability discovery in Windows kernel binaries to evaluate frontier models' cybersecurity capabilities.
+
+#### Security of Agents
+
+* [Nov 2026] **"Confidence scores for gated automation of large language models"** [[paper](https://arxiv.org/abs/2611.33394)]
+  > Examines confidence scores for gating automation by LLM-based agents to reduce high-confidence errors and improve safe deployment.
+
+* [Nov 2026] **"FORK: Co-Evolving Safe Disclosure and Decision Skills Against Attackers Who Read Every Refusal"** [[paper](https://arxiv.org/abs/2611.33879)]
+  > Proposes co-evolving safe disclosure and decision skills for LLM agents facing attackers who observe every refusal.
+
+* [Nov 2026] **"Poisoning Self-Evolving Security Policies in LLM Agents"** [[paper](https://arxiv.org/abs/2611.33385)]
+  > Shows that self-evolving security policies in LLM agents can be poisoned through the policy learning process itself.
+
+* ![ai-engineer-path Stars](https://img.shields.io/github/stars/acailic/ai-engineer-path) [ai-engineer-path](https://github.com/acailic/ai-engineer-path) - Provides a free self-study AI engineering course covering LLM agents, prompt-injection defense, evaluation, and production deployment.
+
+---
+
 ### Daily Security Intelligence (2026-11-26)
 
 > Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
