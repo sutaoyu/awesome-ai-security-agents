@@ -15,6 +15,20 @@ We curate an Awesome List of **AI security agents**, specifically addressing:
 ## This Week
 
 <!-- WEEKLY_START -->
+### Daily Security Intelligence (2026-11-28)
+
+> Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
+
+#### Agents for Security
+
+* ![BaiZe Stars](https://img.shields.io/github/stars/Aqr325/BaiZe) [BaiZe](https://github.com/Aqr325/BaiZe) - BaiZe is a multi-agent autonomous penetration testing system with a dual-graph architecture, evidence traceability, and human-in-the-loop correction.
+
+#### Security of Agents
+
+*None today.*
+
+---
+
 ### Daily Security Intelligence (2026-11-27)
 
 > Data fetched via arXiv/GitHub APIs and classified by DeepSeek (deepseek-v4-flash).
